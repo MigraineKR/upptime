@@ -2,7 +2,7 @@ owner: MigraineKR
 repo: status
 
 sites:
-  - name: 대한두통학회
+  - name: headache.or.kr
     url: https://www.headache.or.kr/index.php
 
 status-website:
