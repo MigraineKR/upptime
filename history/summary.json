@@ -1,20 +1,20 @@
 [
   {
-    "name": "대한두통학회",
+    "name": "headache.or.kr",
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
-    "slug": "",
+    "slug": "headache-or-kr",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2786,
-    "timeDay": 2786,
-    "timeWeek": 2786,
-    "timeMonth": 2786,
-    "timeYear": 2786,
+    "time": 2429,
+    "timeDay": 2429,
+    "timeWeek": 2429,
+    "timeMonth": 2429,
+    "timeYear": 2429,
     "dailyMinutesDown": {}
   }
 ]
