@@ -4,6 +4,9 @@ repo: status
 sites:
   - name: headache.or.kr
     url: https://www.headache.or.kr/index.php
+  - name: migrainecluster.com
+    url: http://www.migrainecluster.com/
+    
 
 status-website:
   cname: status.migraine.kr
