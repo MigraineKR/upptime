@@ -8,7 +8,9 @@ sites:
     url: http://www.migrainecluster.com/
   - name: americanheadachesociety.org
     url: https://americanheadachesociety.org/
-    
+  - name: jhsnet.net
+    url: https://www.jhsnet.net/
+        
 status-website:
   cname: upptime.migraine.kr
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
