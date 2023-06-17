@@ -11,7 +11,7 @@ sites:
 status-website:
   cname: upptime.migraine.kr
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status | Migraine
+  name: Upptime | Migraine
   introTitle: "**Upptime** for Migraine"
   introMessage: 두통 관련 사이트 웹모니터
   navbar:
