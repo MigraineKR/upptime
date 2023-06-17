@@ -9,7 +9,7 @@ sites:
     
 
 status-website:
-  cname: status.migraine.kr
+  cname: upptime.migraine.kr
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status | Migraine
   introTitle: "**Upptime** for Migraine"
@@ -19,5 +19,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: News
+      href: https://go.migraine.kr/update
     - title: Discord
-      href: https://go.migraine.kr/discord
+      href: https://go.migraine.kr/community
