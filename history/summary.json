@@ -98,19 +98,19 @@
     "url": "https://americanmigrainefoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/americanmigrainefoundation.org.ico",
     "slug": "americanmigrainefoundation-org",
-    "status": "up",
-    "uptime": "96.31%",
-    "uptimeDay": "96.31%",
-    "uptimeWeek": "96.31%",
-    "uptimeMonth": "96.31%",
-    "uptimeYear": "96.31%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 341,
     "timeDay": 341,
     "timeWeek": 341,
     "timeMonth": 341,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2023-07-07": 9
+      "2023-07-07": 0
     }
   },
   {
