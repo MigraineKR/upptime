@@ -2,6 +2,10 @@ owner: MigraineKR
 repo: upptime
 
 sites:
+  - name: ihs-headache.org
+    url: https://ihs-headache.org/
+  - name: migrainecluster.com
+    url: http://www.migrainecluster.com/
   - name: headache.or.kr
     url: https://www.headache.or.kr/index.php
   - name: migrainecluster.com
