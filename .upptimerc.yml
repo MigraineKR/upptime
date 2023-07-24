@@ -24,8 +24,6 @@ sites:
     url: https://www.migraineagain.com/
   - name: migrainetrust.org
     url: https://migrainetrust.org/
-  - name: headachejournal.org
-    url: https://headachejournal.org
         
 status-website:
   cname: upptime.migraine.kr
