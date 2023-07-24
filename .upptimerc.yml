@@ -18,6 +18,10 @@ sites:
     url: https://www.jhsnet.net/
   - name: jhsnet.net/english
     url: https://www.jhsnet.net/english.html
+  - name: migraineworldsummit.com
+    url: https://migraineworldsummit.com/
+  - name: headachejournal.onlinelibrary.wiley.com
+    url: https://headachejournal.onlinelibrary.wiley.com/
         
 status-website:
   cname: upptime.migraine.kr
