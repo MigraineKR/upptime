@@ -28,10 +28,13 @@ sites:
     url: https://migrainetrust.org/
   - name: migrainedisorders.org
     url: https://www.migrainedisorders.org/
+  - name: migrainecollaborative.org
+    url: https://migrainecollaborative.org/
   - name: migraine.com
     url: https://migraine.com/
+  - name: worldheadachesociety.org
+    url: https://worldheadachesociety.org/
 
-        
 status-website:
   cname: upptime.migraine.kr
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
