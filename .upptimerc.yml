@@ -18,12 +18,19 @@ sites:
     url: https://www.jhsnet.net/
   - name: jhsnet.net/english
     url: https://www.jhsnet.net/english.html
+  - name: migraine.org.au
+    url: https://www.migraine.org.au/
   - name: migraineworldsummit.com
     url: https://migraineworldsummit.com/
   - name: migraineagain.com
     url: https://www.migraineagain.com/
   - name: migrainetrust.org
     url: https://migrainetrust.org/
+  - name: migrainedisorders.org
+    url: https://www.migrainedisorders.org/
+  - name: migraine.com
+    url: https://migraine.com/
+
         
 status-website:
   cname: upptime.migraine.kr
