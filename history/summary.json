@@ -228,18 +228,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainedisorders.org.ico",
     "slug": "migrainedisorders-org",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "98.64%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.64%",
     "time": 575,
     "timeDay": 714,
     "timeWeek": 575,
     "timeMonth": 575,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2023-07-25": 1
+      "2023-07-25": 26
     }
   },
   {
@@ -247,19 +247,19 @@
     "url": "https://migrainecollaborative.org/",
     "icon": "https://icons.duckduckgo.com/ip3/migrainecollaborative.org.ico",
     "slug": "migrainecollaborative-org",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 483,
-    "timeDay": 644,
-    "timeWeek": 483,
-    "timeMonth": 483,
-    "timeYear": 483,
+    "status": "up",
+    "uptime": "98.68%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
+    "time": 2280,
+    "timeDay": 3260,
+    "timeWeek": 2280,
+    "timeMonth": 2280,
+    "timeYear": 2280,
     "dailyMinutesDown": {
-      "2023-07-25": 0
+      "2023-07-25": 25
     }
   },
   {
