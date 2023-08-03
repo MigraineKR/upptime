@@ -30,6 +30,10 @@ sites:
     url: https://www.migrainedisorders.org/
   - name: migrainecollaborative.org
     url: https://migrainecollaborative.org/
+  - name: milesformigraine.org
+    url: https://www.milesformigraine.org/
+  - name: shadesformigraine.org
+    url: https://shadesformigraine.org/
   - name: migraine.com
     url: https://migraine.com/
   - name: worldheadachesociety.org
