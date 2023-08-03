@@ -20,6 +20,10 @@ sites:
     url: https://www.jhsnet.net/english.html
   - name: migraine.org.au
     url: https://www.migraine.org.au/
+  - name: migrainecanada.org
+    url: https://migrainecanada.org/
+  - name: migreeni.org
+    url: https://migreeni.org/
   - name: migraineworldsummit.com
     url: https://migraineworldsummit.com/
   - name: migraineagain.com
