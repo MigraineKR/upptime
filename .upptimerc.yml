@@ -24,10 +24,14 @@ sites:
     url: https://headacheaustralia.org.au/
   - name: migrainecanada.org
     url: https://migrainecanada.org/
+  - name: migrainequebec.org
+    url: https://migrainequebec.org/
   - name: migreeni.org
     url: https://migreeni.org/
   - name: migraine.ie
     url: http://migraine.ie/
+  - name: hodepinenorge.no
+    url: https://hodepinenorge.no/
   - name: emhalliance.org
     url: https://www.emhalliance.org/
   - name: chronicmigraineawareness.org
@@ -42,6 +46,8 @@ sites:
     url: https://www.migrainedisorders.org/
   - name: migrainecollaborative.org
     url: https://migrainecollaborative.org/
+  - name: parentingwithmigraine.com
+    url: https://parentingwithmigraine.com/
   - name: milesformigraine.org
     url: https://www.milesformigraine.org/
   - name: shadesformigraine.org
