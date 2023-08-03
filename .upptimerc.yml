@@ -18,6 +18,8 @@ sites:
     url: https://clusterbusters.org/
   - name: daniellefoundation.org
     url: https://daniellefoundation.org/
+  - name: headachemigraine.org
+    url: https://headachemigraine.org/
   - name: jhsnet.net
     url: https://www.jhsnet.net/
   - name: jhsnet.net/english
