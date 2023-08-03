@@ -12,6 +12,10 @@ sites:
     url: https://americanheadachesociety.org/
   - name: americanmigrainefoundation.org
     url: https://americanmigrainefoundation.org/
+  - name: clusterbusters.org
+    url: https://clusterbusters.org/
+  - name: daniellefoundation.org
+    url: https://daniellefoundation.org/
   - name: headaches.org
     url: https://headaches.org/
   - name: jhsnet.net
