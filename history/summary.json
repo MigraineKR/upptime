@@ -13,7 +13,7 @@
     "time": 3148,
     "timeDay": 2805,
     "timeWeek": 2929,
-    "timeMonth": 3148,
+    "timeMonth": 3134,
     "timeYear": 3148,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 3061,
     "timeDay": 1997,
     "timeWeek": 3160,
-    "timeMonth": 3107,
+    "timeMonth": 3029,
     "timeYear": 3061,
     "dailyMinutesDown": {
       "2023-07-12": 70,
@@ -54,7 +54,7 @@
     "time": 897,
     "timeDay": 855,
     "timeWeek": 1244,
-    "timeMonth": 956,
+    "timeMonth": 964,
     "timeYear": 897,
     "dailyMinutesDown": {}
   },
@@ -72,7 +72,7 @@
     "time": 317,
     "timeDay": 168,
     "timeWeek": 473,
-    "timeMonth": 305,
+    "timeMonth": 304,
     "timeYear": 317,
     "dailyMinutesDown": {}
   },
@@ -82,15 +82,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/americanmigrainefoundation.org.ico",
     "slug": "americanmigrainefoundation-org",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.60%",
     "time": 447,
     "timeDay": 376,
     "timeWeek": 389,
-    "timeMonth": 449,
+    "timeMonth": 458,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2023-07-07": 181
@@ -110,7 +110,7 @@
     "time": 352,
     "timeDay": 275,
     "timeWeek": 354,
-    "timeMonth": 352,
+    "timeMonth": 353,
     "timeYear": 352,
     "dailyMinutesDown": {}
   },
@@ -182,7 +182,7 @@
     "time": 886,
     "timeDay": 726,
     "timeWeek": 841,
-    "timeMonth": 827,
+    "timeMonth": 826,
     "timeYear": 886,
     "dailyMinutesDown": {}
   },
@@ -200,7 +200,7 @@
     "time": 142,
     "timeDay": 141,
     "timeWeek": 146,
-    "timeMonth": 143,
+    "timeMonth": 142,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -281,19 +281,19 @@
     "url": "https://www.headache-help.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache-help.org.ico",
     "slug": "headache-help-org",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
     "time": 525,
     "timeDay": 448,
     "timeWeek": 525,
     "timeMonth": 525,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2023-08-07": 8,
+      "2023-08-07": 1,
       "2023-08-04": 18
     }
   },
