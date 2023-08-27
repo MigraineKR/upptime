@@ -236,7 +236,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1578,
-    "timeDay": 1546,
+    "timeDay": 1540,
     "timeWeek": 1588,
     "timeMonth": 1578,
     "timeYear": 1578,
@@ -403,7 +403,7 @@
     "time": 393,
     "timeDay": 254,
     "timeWeek": 233,
-    "timeMonth": 375,
+    "timeMonth": 332,
     "timeYear": 393,
     "dailyMinutesDown": {}
   },
@@ -430,9 +430,9 @@
     "url": "https://migrainetrust.org/",
     "icon": "https://icons.duckduckgo.com/ip3/migrainetrust.org.ico",
     "slug": "migrainetrust-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -441,7 +441,9 @@
     "timeWeek": 1723,
     "timeMonth": 1428,
     "timeYear": 1364,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-27": 0
+    }
   },
   {
     "name": "migrainedisorders.org",
@@ -492,11 +494,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/parentingwithmigraine.com.ico",
     "slug": "parentingwithmigraine-com",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 675,
     "timeDay": 817,
     "timeWeek": 729,
