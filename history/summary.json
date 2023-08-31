@@ -229,9 +229,9 @@
     "url": "https://headacheaustralia.org.au/",
     "icon": "https://icons.duckduckgo.com/ip3/headacheaustralia.org.au.ico",
     "slug": "headacheaustralia-org-au",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -240,7 +240,9 @@
     "timeWeek": 1500,
     "timeMonth": 1562,
     "timeYear": 1562,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-31": 0
+    }
   },
   {
     "name": "migrainecanada.org",
