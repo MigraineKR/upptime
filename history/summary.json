@@ -304,19 +304,19 @@
     "url": "https://migreeni.org/",
     "icon": "https://icons.duckduckgo.com/ip3/migreeni.org.ico",
     "slug": "migreeni-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2469,
-    "timeDay": 2256,
-    "timeWeek": 2198,
-    "timeMonth": 2787,
-    "timeYear": 2469,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.89%",
+    "time": 2447,
+    "timeDay": 2005,
+    "timeWeek": 2120,
+    "timeMonth": 2748,
+    "timeYear": 2447,
     "dailyMinutesDown": {
-      "2023-09-07": 0
+      "2023-09-07": 56
     }
   },
   {
