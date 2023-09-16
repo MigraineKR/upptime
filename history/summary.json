@@ -103,18 +103,20 @@
     "url": "https://headaches.org/",
     "icon": "https://icons.duckduckgo.com/ip3/headaches.org.ico",
     "slug": "headaches-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 350,
     "timeDay": 357,
     "timeWeek": 387,
     "timeMonth": 353,
     "timeYear": 350,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-16": 4
+    }
   },
   {
     "name": "clusterbusters.org",
@@ -433,19 +435,19 @@
     "url": "https://migrainetrust.org/",
     "icon": "https://icons.duckduckgo.com/ip3/migrainetrust.org.ico",
     "slug": "migrainetrust-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1228,
-    "timeDay": 863,
-    "timeWeek": 937,
-    "timeMonth": 1211,
-    "timeYear": 1228,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1226,
+    "timeDay": 986,
+    "timeWeek": 958,
+    "timeMonth": 1208,
+    "timeYear": 1226,
     "dailyMinutesDown": {
-      "2023-09-16": 1
+      "2023-09-16": 11
     }
   },
   {
