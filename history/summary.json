@@ -103,19 +103,19 @@
     "url": "https://headaches.org/",
     "icon": "https://icons.duckduckgo.com/ip3/headaches.org.ico",
     "slug": "headaches-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 357,
-    "timeWeek": 387,
-    "timeMonth": 353,
-    "timeYear": 350,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 351,
+    "timeDay": 374,
+    "timeWeek": 388,
+    "timeMonth": 354,
+    "timeYear": 351,
     "dailyMinutesDown": {
-      "2023-09-16": 4
+      "2023-09-16": 8
     }
   },
   {
@@ -436,19 +436,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/migrainetrust.org.ico",
     "slug": "migrainetrust-org",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1226,
     "timeDay": 986,
     "timeWeek": 958,
     "timeMonth": 1208,
     "timeYear": 1226,
-    "dailyMinutesDown": {
-      "2023-09-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "migrainedisorders.org",
