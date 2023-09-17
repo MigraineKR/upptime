@@ -248,19 +248,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/migrainecanada.org.ico",
     "slug": "migrainecanada-org",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 485,
     "timeDay": 372,
     "timeWeek": 477,
     "timeMonth": 479,
     "timeYear": 485,
-    "dailyMinutesDown": {
-      "2023-09-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "migrainequebec.org",
@@ -435,9 +433,9 @@
     "url": "https://migrainetrust.org/",
     "icon": "https://icons.duckduckgo.com/ip3/migrainetrust.org.ico",
     "slug": "migrainetrust-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -446,7 +444,9 @@
     "timeWeek": 958,
     "timeMonth": 1208,
     "timeYear": 1226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-17": 0
+    }
   },
   {
     "name": "migrainedisorders.org",
