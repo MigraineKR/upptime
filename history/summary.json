@@ -292,7 +292,7 @@
     "time": 551,
     "timeDay": 532,
     "timeWeek": 581,
-    "timeMonth": 550,
+    "timeMonth": 546,
     "timeYear": 551,
     "dailyMinutesDown": {
       "2023-09-14": 20,
@@ -433,19 +433,19 @@
     "url": "https://migrainetrust.org/",
     "icon": "https://icons.duckduckgo.com/ip3/migrainetrust.org.ico",
     "slug": "migrainetrust-org",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1219,
     "timeDay": 878,
     "timeWeek": 925,
     "timeMonth": 1193,
     "timeYear": 1219,
     "dailyMinutesDown": {
-      "2023-09-17": 15
+      "2023-09-17": 0
     }
   },
   {
