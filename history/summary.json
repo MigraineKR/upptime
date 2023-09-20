@@ -435,10 +435,10 @@
     "url": "https://migrainetrust.org/",
     "icon": "https://icons.duckduckgo.com/ip3/migrainetrust.org.ico",
     "slug": "migrainetrust-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.95%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "96.94%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.63%",
     "time": 1183,
@@ -447,6 +447,7 @@
     "timeMonth": 1066,
     "timeYear": 1183,
     "dailyMinutesDown": {
+      "2023-09-20": 0,
       "2023-09-18": 16,
       "2023-09-17": 291
     }
@@ -576,19 +577,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.headachemigraineforum.org.ico",
     "slug": "headachemigraineforum-org",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 388,
     "timeDay": 1739,
     "timeWeek": 948,
     "timeMonth": 462,
     "timeYear": 388,
-    "dailyMinutesDown": {
-      "2023-09-20": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "migraine.com",
