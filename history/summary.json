@@ -442,7 +442,7 @@
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.63%",
     "time": 1183,
-    "timeDay": 807,
+    "timeDay": 850,
     "timeWeek": 913,
     "timeMonth": 1066,
     "timeYear": 1183,
@@ -575,18 +575,20 @@
     "url": "https://www.headachemigraineforum.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.headachemigraineforum.org.ico",
     "slug": "headachemigraineforum-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 318,
-    "timeWeek": 519,
-    "timeMonth": 333,
-    "timeYear": 309,
-    "dailyMinutesDown": {}
+    "time": 363,
+    "timeDay": 1733,
+    "timeWeek": 848,
+    "timeMonth": 421,
+    "timeYear": 363,
+    "dailyMinutesDown": {
+      "2023-09-20": 0
+    }
   },
   {
     "name": "migraine.com",
