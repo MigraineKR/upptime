@@ -435,9 +435,9 @@
     "url": "https://migrainetrust.org/",
     "icon": "https://icons.duckduckgo.com/ip3/migrainetrust.org.ico",
     "slug": "migrainetrust-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "97.78%",
+    "uptimeDay": "97.75%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.64%",
@@ -447,7 +447,7 @@
     "timeMonth": 981,
     "timeYear": 1178,
     "dailyMinutesDown": {
-      "2023-09-27": 15,
+      "2023-09-27": 16,
       "2023-09-26": 16,
       "2023-09-18": 16,
       "2023-09-17": 291
