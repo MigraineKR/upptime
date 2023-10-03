@@ -618,19 +618,19 @@
     "url": "https://worldheadachesociety.org/",
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
     "time": 308,
-    "timeDay": 240,
-    "timeWeek": 700,
-    "timeMonth": 300,
+    "timeDay": 249,
+    "timeWeek": 646,
+    "timeMonth": 299,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2023-10-03": 0
+      "2023-10-03": 22
     }
   },
   {
