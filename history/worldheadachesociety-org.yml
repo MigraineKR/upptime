@@ -1,7 +1,7 @@
 url: https://worldheadachesociety.org/
-status: up
-code: 200
-responseTime: 164
-lastUpdated: 2023-10-02T23:15:39.262Z
+status: down
+code: 503
+responseTime: 315
+lastUpdated: 2023-10-03T08:45:15.892Z
 startTime: 2023-07-24T07:04:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
