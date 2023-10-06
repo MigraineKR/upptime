@@ -365,19 +365,19 @@
     "url": "https://www.emhalliance.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.emhalliance.org.ico",
     "slug": "emhalliance-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 7983,
-    "timeDay": 12786,
-    "timeWeek": 8942,
-    "timeMonth": 8191,
-    "timeYear": 7983,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 7913,
+    "timeDay": 7889,
+    "timeWeek": 8092,
+    "timeMonth": 8029,
+    "timeYear": 7913,
     "dailyMinutesDown": {
-      "2023-10-06": 0
+      "2023-10-06": 19
     }
   },
   {
