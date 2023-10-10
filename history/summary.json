@@ -591,19 +591,19 @@
     "url": "https://www.headachemigraineforum.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.headachemigraineforum.org.ico",
     "slug": "headachemigraineforum-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 446,
-    "timeDay": 2840,
-    "timeWeek": 1181,
-    "timeMonth": 686,
-    "timeYear": 446,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 512,
+    "timeDay": 3649,
+    "timeWeek": 1765,
+    "timeMonth": 834,
+    "timeYear": 512,
     "dailyMinutesDown": {
-      "2023-10-10": 1
+      "2023-10-10": 8
     }
   },
   {
