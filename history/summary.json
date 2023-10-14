@@ -251,10 +251,10 @@
     "url": "https://migrainecanada.org/",
     "icon": "https://icons.duckduckgo.com/ip3/migrainecanada.org.ico",
     "slug": "migrainecanada-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 512,
@@ -262,7 +262,9 @@
     "timeWeek": 470,
     "timeMonth": 552,
     "timeYear": 512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-14": 1
+    }
   },
   {
     "name": "migrainequebec.org",
@@ -446,12 +448,12 @@
     "status": "up",
     "uptime": "98.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.02%",
+    "uptimeWeek": "86.57%",
     "uptimeMonth": "95.26%",
     "uptimeYear": "98.24%",
     "time": 1210,
     "timeDay": 735,
-    "timeWeek": 1277,
+    "timeWeek": 1283,
     "timeMonth": 1197,
     "timeYear": 1210,
     "dailyMinutesDown": {
@@ -649,18 +651,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "93.28%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.91%",
     "time": 623,
     "timeDay": 728,
     "timeWeek": 779,
     "timeMonth": 723,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2023-10-14": 0
+      "2023-10-14": 97
     }
   }
 ]
