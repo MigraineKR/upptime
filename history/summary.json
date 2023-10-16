@@ -251,19 +251,19 @@
     "url": "https://migrainecanada.org/",
     "icon": "https://icons.duckduckgo.com/ip3/migrainecanada.org.ico",
     "slug": "migrainecanada-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 513,
-    "timeDay": 342,
-    "timeWeek": 471,
-    "timeMonth": 549,
-    "timeYear": 513,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 517,
+    "timeDay": 581,
+    "timeWeek": 510,
+    "timeMonth": 558,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2023-10-16": 1
+      "2023-10-16": 8
     }
   },
   {
