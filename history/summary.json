@@ -177,10 +177,10 @@
     "url": "https://www.jhsnet.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 898,
@@ -188,16 +188,18 @@
     "timeWeek": 769,
     "timeMonth": 840,
     "timeYear": 898,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-17": 1
+    }
   },
   {
     "name": "jhsnet.net/english",
     "url": "https://www.jhsnet.net/english.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -206,7 +208,9 @@
     "timeWeek": 143,
     "timeMonth": 141,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-17": 0
+    }
   },
   {
     "name": "migraine.org.au",
