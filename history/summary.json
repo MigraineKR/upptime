@@ -177,19 +177,19 @@
     "url": "https://www.jhsnet.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 899,
-    "timeDay": 712,
-    "timeWeek": 851,
+    "timeDay": 780,
+    "timeWeek": 850,
     "timeMonth": 833,
     "timeYear": 899,
     "dailyMinutesDown": {
-      "2023-10-20": 1
+      "2023-10-20": 8
     }
   },
   {
@@ -197,19 +197,19 @@
     "url": "https://www.jhsnet.net/english.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 133,
-    "timeWeek": 150,
+    "timeDay": 149,
+    "timeWeek": 152,
     "timeMonth": 143,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2023-10-20": 1
+      "2023-10-20": 7
     }
   },
   {
@@ -633,18 +633,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
     "status": "down",
-    "uptime": "97.34%",
+    "uptime": "97.33%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.67%",
-    "uptimeMonth": "92.24%",
-    "uptimeYear": "97.34%",
+    "uptimeWeek": "66.60%",
+    "uptimeMonth": "92.22%",
+    "uptimeYear": "97.33%",
     "time": 320,
     "timeDay": 124,
     "timeWeek": 193,
     "timeMonth": 415,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2023-10-20": 1418,
+      "2023-10-20": 1426,
       "2023-10-19": 1440,
       "2023-10-18": 501,
       "2023-10-03": 41
