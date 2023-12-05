@@ -1,7 +1,7 @@
 url: https://www.migrainedisorders.org/
-status: up
-code: 200
-responseTime: 1592
-lastUpdated: 2023-12-04T23:16:09.629Z
+status: down
+code: 500
+responseTime: 2087
+lastUpdated: 2023-12-05T00:43:02.579Z
 startTime: 2023-07-24T07:03:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
