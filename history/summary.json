@@ -423,10 +423,10 @@
     "url": "https://chronicmigraineawareness.org/",
     "icon": "https://icons.duckduckgo.com/ip3/chronicmigraineawareness.org.ico",
     "slug": "chronicmigraineawareness-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
@@ -434,7 +434,9 @@
     "timeWeek": 214,
     "timeMonth": 201,
     "timeYear": 273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-07": 1
+    }
   },
   {
     "name": "migraineworldsummit.com",
@@ -679,18 +681,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
     "status": "down",
-    "uptime": "63.59%",
+    "uptime": "63.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "63.59%",
+    "uptimeYear": "63.58%",
     "time": 272,
     "timeDay": 222,
     "timeWeek": 161,
     "timeMonth": 171,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2023-12-07": 65,
+      "2023-12-07": 104,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
