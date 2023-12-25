@@ -124,9 +124,9 @@
     "url": "https://clusterbusters.org/",
     "icon": "https://icons.duckduckgo.com/ip3/clusterbusters.org.ico",
     "slug": "clusterbusters-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -136,6 +136,7 @@
     "timeMonth": 612,
     "timeYear": 559,
     "dailyMinutesDown": {
+      "2023-12-25": 1,
       "2023-12-18": 20
     }
   },
@@ -315,7 +316,7 @@
     "uptime": "97.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.56%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "97.37%",
     "time": 683,
     "timeDay": 765,
@@ -693,7 +694,7 @@
     "uptime": "63.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.91%",
+    "uptimeMonth": "37.98%",
     "uptimeYear": "63.38%",
     "time": 278,
     "timeDay": 1143,
