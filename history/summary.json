@@ -124,10 +124,10 @@
     "url": "https://clusterbusters.org/",
     "icon": "https://icons.duckduckgo.com/ip3/clusterbusters.org.ico",
     "slug": "clusterbusters-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.82%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.81%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.93%",
     "time": 569,
@@ -136,6 +136,7 @@
     "timeMonth": 663,
     "timeYear": 569,
     "dailyMinutesDown": {
+      "2023-12-27": 1,
       "2023-12-25": 119,
       "2023-12-18": 20
     }
@@ -691,11 +692,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
     "status": "up",
-    "uptime": "63.95%",
+    "uptime": "63.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "45.96%",
-    "uptimeYear": "63.95%",
+    "uptimeMonth": "46.17%",
+    "uptimeYear": "63.96%",
     "time": 277,
     "timeDay": 224,
     "timeWeek": 337,
@@ -769,9 +770,9 @@
     "slug": "patientadvocate-org",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.62%",
     "time": 665,
     "timeDay": 584,
@@ -779,7 +780,6 @@
     "timeMonth": 683,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2023-12-27": 8,
       "2023-11-28": 100,
       "2023-10-14": 695
     }
