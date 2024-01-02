@@ -32,8 +32,6 @@ sites:
     url: https://migrainecanada.org/
   - name: migrainequebec.org
     url: https://migrainequebec.org/
-  - name: headache-help.org
-    url: https://www.headache-help.org/
   - name: migreeni.org
     url: https://migreeni.org/
   - name: migraine.ie
