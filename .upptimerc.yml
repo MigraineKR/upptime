@@ -36,10 +36,14 @@ sites:
     url: https://migreeni.org/
   - name: migraine.ie
     url: http://migraine.ie/
+  - name: bezzymigraine.com
+    url: https://www.bezzymigraine.com/
   - name: hodepinenorge.no
     url: https://hodepinenorge.no/
   - name: emhalliance.org
     url: https://www.emhalliance.org/
+  - name: efna.net
+    url: https://www.efna.net/
   - name: chronicmigraineawareness.org
     url: https://chronicmigraineawareness.org/
   - name: migraineworldsummit.com
