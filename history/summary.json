@@ -352,19 +352,19 @@
     "url": "https://www.bezzymigraine.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.bezzymigraine.com.ico",
     "slug": "bezzymigraine-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 181,
-    "timeWeek": 233,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 207,
+    "timeDay": 168,
+    "timeWeek": 222,
+    "timeMonth": 207,
+    "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-01-31": 1
+      "2024-01-31": 8
     }
   },
   {
