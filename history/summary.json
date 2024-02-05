@@ -151,9 +151,9 @@
     "slug": "daniellefoundation-org",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.31%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 406,
     "timeDay": 172,
@@ -161,7 +161,7 @@
     "timeMonth": 383,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2024-02-05": 25
+      "2024-02-05": 33
     }
   },
   {
@@ -376,19 +376,19 @@
     "url": "https://hodepinenorge.no/",
     "icon": "https://icons.duckduckgo.com/ip3/hodepinenorge.no.ico",
     "slug": "hodepinenorge-no",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 1977,
-    "timeDay": 943,
-    "timeWeek": 1188,
-    "timeMonth": 1281,
-    "timeYear": 1977,
+    "time": 1972,
+    "timeDay": 965,
+    "timeWeek": 1168,
+    "timeMonth": 1273,
+    "timeYear": 1972,
     "dailyMinutesDown": {
-      "2024-02-05": 1,
+      "2024-02-05": 8,
       "2023-11-30": 31
     }
   },
