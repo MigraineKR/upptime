@@ -1,7 +1,7 @@
 url: https://americanheadachesociety.org/
-status: up
-code: 200
-responseTime: 207
-lastUpdated: 2024-02-17T23:13:43.808Z
+status: down
+code: 500
+responseTime: 1752
+lastUpdated: 2024-02-18T18:20:43.647Z
 startTime: 2023-06-17T09:31:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
