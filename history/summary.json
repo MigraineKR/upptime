@@ -99,10 +99,10 @@
     "url": "https://americanmigrainefoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/americanmigrainefoundation.org.ico",
     "slug": "americanmigrainefoundation-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 422,
@@ -111,6 +111,7 @@
     "timeMonth": 403,
     "timeYear": 422,
     "dailyMinutesDown": {
+      "2024-02-18": 1,
       "2023-11-01": 16,
       "2023-07-07": 181
     }
@@ -180,10 +181,10 @@
     "url": "https://headachemigraine.org/",
     "icon": "https://icons.duckduckgo.com/ip3/headachemigraine.org.ico",
     "slug": "headachemigraine-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 532,
@@ -192,6 +193,7 @@
     "timeMonth": 471,
     "timeYear": 532,
     "dailyMinutesDown": {
+      "2024-02-18": 1,
       "2023-12-13": 40,
       "2023-11-16": 16
     }
