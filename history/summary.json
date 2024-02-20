@@ -31,7 +31,7 @@
     "uptimeMonth": "98.44%",
     "uptimeYear": "99.84%",
     "time": 2902,
-    "timeDay": 2382,
+    "timeDay": 2429,
     "timeWeek": 2832,
     "timeMonth": 2848,
     "timeYear": 2902,
@@ -682,10 +682,10 @@
     "url": "https://www.headachemigraineforum.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.headachemigraineforum.org.ico",
     "slug": "headachemigraineforum-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 469,
@@ -694,6 +694,7 @@
     "timeMonth": 339,
     "timeYear": 469,
     "dailyMinutesDown": {
+      "2024-02-20": 1,
       "2023-10-30": 89
     }
   },
@@ -703,18 +704,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/migraine.com.ico",
     "slug": "migraine-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 755,
     "timeDay": 1674,
     "timeWeek": 862,
     "timeMonth": 725,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2024-02-20": 9
+      "2024-02-20": 44
     }
   },
   {
