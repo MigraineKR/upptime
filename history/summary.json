@@ -25,18 +25,19 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.11%",
-    "uptimeMonth": "97.43%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "97.10%",
+    "uptimeMonth": "97.42%",
     "uptimeYear": "99.60%",
     "time": 2898,
     "timeDay": 2525,
-    "timeWeek": 2890,
+    "timeWeek": 2903,
     "timeMonth": 2914,
     "timeYear": 2891,
     "dailyMinutesDown": {
+      "2024-03-23": 1,
       "2024-03-22": 97,
       "2024-03-21": 15,
       "2024-03-20": 97,
@@ -209,9 +210,9 @@
     "slug": "headachemigraine-org",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 527,
     "timeDay": 481,
@@ -219,7 +220,6 @@
     "timeMonth": 508,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2024-03-23": 8,
       "2023-12-13": 40,
       "2023-11-16": 16
     }
@@ -390,18 +390,16 @@
     "slug": "migraine-ie",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 701,
     "timeDay": 727,
     "timeWeek": 695,
     "timeMonth": 679,
     "timeYear": 701,
-    "dailyMinutesDown": {
-      "2024-03-23": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bezzymigraine.com",
@@ -428,9 +426,9 @@
     "slug": "hodepinenorge-no",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1860,
     "timeDay": 1227,
@@ -438,7 +436,6 @@
     "timeMonth": 1216,
     "timeYear": 1860,
     "dailyMinutesDown": {
-      "2024-03-23": 7,
       "2024-02-13": 53,
       "2024-02-10": 16,
       "2023-11-30": 31
@@ -476,19 +473,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.efna.net.ico",
     "slug": "efna-net",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1251,
     "timeDay": 1816,
     "timeWeek": 1573,
     "timeMonth": 1649,
     "timeYear": 1251,
-    "dailyMinutesDown": {
-      "2024-03-23": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "chronicmigraineawareness.org",
@@ -602,9 +597,9 @@
     "slug": "migrainedisorders-org",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 1362,
     "timeDay": 1471,
@@ -612,7 +607,6 @@
     "timeMonth": 1495,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2024-03-23": 6,
       "2023-12-23": 20,
       "2023-12-05": 61,
       "2023-12-04": 122,
@@ -634,9 +628,9 @@
     "slug": "migrainecollaborative-org",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 469,
     "timeDay": 560,
@@ -644,7 +638,6 @@
     "timeMonth": 452,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2024-03-23": 6,
       "2023-08-11": 17,
       "2023-07-25": 41
     }
@@ -694,9 +687,9 @@
     "slug": "shadesformigraine-org",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 500,
     "timeDay": 540,
@@ -704,7 +697,6 @@
     "timeMonth": 457,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2024-03-23": 5,
       "2023-12-05": 39
     }
   },
@@ -715,18 +707,16 @@
     "slug": "mymigrainelife-net",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 469,
     "timeDay": 423,
     "timeWeek": 485,
     "timeMonth": 465,
     "timeYear": 469,
-    "dailyMinutesDown": {
-      "2024-03-23": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "headachemigraineforum.org",
