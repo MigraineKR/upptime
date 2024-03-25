@@ -666,19 +666,19 @@
     "url": "https://www.milesformigraine.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.milesformigraine.org.ico",
     "slug": "milesformigraine-org",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 1835,
-    "timeWeek": 790,
-    "timeMonth": 591,
-    "timeYear": 602,
+    "time": 600,
+    "timeDay": 1333,
+    "timeWeek": 739,
+    "timeMonth": 582,
+    "timeYear": 600,
     "dailyMinutesDown": {
-      "2024-03-25": 1
+      "2024-03-25": 15
     }
   },
   {
