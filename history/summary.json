@@ -463,7 +463,7 @@
     "status": "up",
     "uptime": "97.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "30.48%",
+    "uptimeWeek": "30.62%",
     "uptimeMonth": "79.89%",
     "uptimeYear": "97.63%",
     "time": 6402,
@@ -539,19 +539,19 @@
     "url": "https://migraineworldsummit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/migraineworldsummit.com.ico",
     "slug": "migraineworldsummit-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 124,
-    "timeWeek": 196,
+    "timeDay": 154,
+    "timeWeek": 194,
     "timeMonth": 185,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2024-04-21": 1
+      "2024-04-21": 14
     }
   },
   {
