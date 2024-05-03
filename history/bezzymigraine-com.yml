@@ -1,7 +1,7 @@
 url: https://www.bezzymigraine.com/
-status: up
-code: 200
-responseTime: 188
-lastUpdated: 2024-05-02T23:18:24.366Z
+status: down
+code: 502
+responseTime: 48
+lastUpdated: 2024-05-03T03:17:55.904Z
 startTime: 2024-01-22T06:30:33.243Z
 generator: Upptime <https://github.com/upptime/upptime>
