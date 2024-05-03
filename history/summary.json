@@ -29,9 +29,9 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "93.92%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "97.16%",
+    "uptimeDay": "94.48%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "97.18%",
     "uptimeYear": "99.52%",
     "time": 2911,
     "timeDay": 2853,
@@ -39,7 +39,7 @@
     "timeMonth": 2906,
     "timeYear": 2892,
     "dailyMinutesDown": {
-      "2024-05-03": 87,
+      "2024-05-03": 79,
       "2024-05-01": 23,
       "2024-04-30": 54,
       "2024-04-29": 68,
@@ -85,7 +85,8 @@
       "2024-03-07": 23,
       "2024-03-06": 16,
       "2024-03-05": 79,
-      "2024-03-04": 59
+      "2024-03-04": 59,
+      "2024-03-03": 17
     }
   },
   {
@@ -781,19 +782,19 @@
     "url": "https://migraine.com/",
     "icon": "https://icons.duckduckgo.com/ip3/migraine.com.ico",
     "slug": "migraine-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 753,
-    "timeDay": 568,
-    "timeWeek": 617,
-    "timeMonth": 653,
+    "timeDay": 608,
+    "timeWeek": 628,
+    "timeMonth": 656,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2024-05-03": 1,
+      "2024-05-03": 20,
       "2024-02-20": 162
     }
   },
