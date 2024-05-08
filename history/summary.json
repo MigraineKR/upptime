@@ -27,19 +27,19 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "94.79%",
-    "uptimeWeek": "97.56%",
+    "uptimeDay": "94.74%",
+    "uptimeWeek": "97.55%",
     "uptimeMonth": "97.07%",
     "uptimeYear": "99.52%",
     "time": 2912,
     "timeDay": 2258,
-    "timeWeek": 2900,
+    "timeWeek": 2904,
     "timeMonth": 2936,
     "timeYear": 2892,
     "dailyMinutesDown": {
-      "2024-05-08": 73,
+      "2024-05-08": 74,
       "2024-05-07": 20,
       "2024-05-06": 18,
       "2024-05-05": 20,
@@ -86,8 +86,7 @@
       "2024-03-13": 30,
       "2024-03-12": 44,
       "2024-03-11": 38,
-      "2024-03-10": 25,
-      "2024-03-07": 23
+      "2024-03-10": 25
     }
   },
   {
@@ -310,7 +309,7 @@
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.95%",
     "time": 1647,
     "timeDay": 1147,
@@ -504,9 +503,9 @@
     "slug": "efna-net",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1411,
     "timeDay": 1329,
@@ -514,7 +513,6 @@
     "timeMonth": 1619,
     "timeYear": 1411,
     "dailyMinutesDown": {
-      "2024-05-08": 8,
       "2024-04-30": 15
     }
   },
