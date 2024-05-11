@@ -27,19 +27,19 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "97.28%",
-    "uptimeWeek": "97.50%",
-    "uptimeMonth": "96.85%",
-    "uptimeYear": "99.52%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "97.54%",
+    "uptimeMonth": "96.84%",
+    "uptimeYear": "99.53%",
     "time": 2921,
     "timeDay": 2149,
-    "timeWeek": 3088,
+    "timeWeek": 3125,
     "timeMonth": 2998,
     "timeYear": 2903,
     "dailyMinutesDown": {
-      "2024-05-11": 39,
+      "2024-05-11": 40,
       "2024-05-10": 16,
       "2024-05-09": 61,
       "2024-05-08": 73,
@@ -85,8 +85,7 @@
       "2024-03-17": 65,
       "2024-03-16": 36,
       "2024-03-15": 33,
-      "2024-03-14": 76,
-      "2024-03-13": 30
+      "2024-03-14": 76
     }
   },
   {
@@ -814,7 +813,7 @@
     "uptimeYear": "80.64%",
     "time": 1303,
     "timeDay": 4988,
-    "timeWeek": 3568,
+    "timeWeek": 3310,
     "timeMonth": 3224,
     "timeYear": 1303,
     "dailyMinutesDown": {
