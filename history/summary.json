@@ -29,9 +29,9 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "87.17%",
-    "uptimeDay": "94.27%",
-    "uptimeWeek": "70.73%",
-    "uptimeMonth": "14.37%",
+    "uptimeDay": "95.17%",
+    "uptimeWeek": "71.14%",
+    "uptimeMonth": "14.46%",
     "uptimeYear": "80.82%",
     "time": 2898,
     "timeDay": 2553,
@@ -39,7 +39,7 @@
     "timeMonth": 2748,
     "timeYear": 2888,
     "dailyMinutesDown": {
-      "2024-08-25": 81,
+      "2024-08-25": 68,
       "2024-08-24": 2,
       "2024-08-21": 59,
       "2024-08-20": 262,
@@ -166,7 +166,8 @@
       "2024-04-08": 44,
       "2024-04-07": 34,
       "2024-04-06": 40,
-      "2024-04-03": 16
+      "2024-04-03": 16,
+      "2024-04-02": 18
     }
   },
   {
@@ -366,8 +367,8 @@
     "status": "down",
     "uptime": "75.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.67%",
-    "uptimeMonth": "11.82%",
+    "uptimeWeek": "59.94%",
+    "uptimeMonth": "11.89%",
     "uptimeYear": "73.22%",
     "time": 649,
     "timeDay": 131,
@@ -937,18 +938,20 @@
     "url": "https://www.mymigrainelife.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mymigrainelife.net.ico",
     "slug": "mymigrainelife-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 504,
-    "timeWeek": 554,
-    "timeMonth": 554,
+    "time": 477,
+    "timeDay": 464,
+    "timeWeek": 535,
+    "timeMonth": 535,
     "timeYear": 477,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-25": 1
+    }
   },
   {
     "name": "headachemigraineforum.org",
