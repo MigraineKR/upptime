@@ -29,9 +29,9 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "87.45%",
-    "uptimeDay": "97.05%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "52.31%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "52.55%",
     "uptimeYear": "80.84%",
     "time": 2894,
     "timeDay": 3002,
@@ -39,7 +39,7 @@
     "timeMonth": 2835,
     "timeYear": 2892,
     "dailyMinutesDown": {
-      "2024-09-05": 43,
+      "2024-09-05": 37,
       "2024-09-04": 47,
       "2024-09-01": 18,
       "2024-08-31": 17,
@@ -167,7 +167,7 @@
       "2024-04-20": 17,
       "2024-04-18": 15,
       "2024-04-17": 26,
-      "2024-04-16": 16
+      "2024-04-16": 32
     }
   },
   {
@@ -367,10 +367,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migraine.org.au.ico",
     "slug": "migraine-org-au",
     "status": "down",
-    "uptime": "76.14%",
+    "uptime": "76.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "50.50%",
+    "uptimeMonth": "50.73%",
     "uptimeYear": "73.22%",
     "time": 634,
     "timeDay": 133,
@@ -581,8 +581,7 @@
       "2024-04-05": 59,
       "2024-03-08": 60,
       "2024-03-05": 49,
-      "2024-02-17": 44,
-      "2023-09-07": 56
+      "2024-02-17": 44
     }
   },
   {
@@ -1000,7 +999,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
     "status": "up",
-    "uptime": "86.17%",
+    "uptime": "86.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
