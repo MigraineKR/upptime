@@ -31,12 +31,12 @@
     "status": "up",
     "uptime": "87.68%",
     "uptimeDay": "98.40%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "85.02%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "85.37%",
     "uptimeYear": "80.84%",
     "time": 2886,
     "timeDay": 2538,
-    "timeWeek": 2725,
+    "timeWeek": 2749,
     "timeMonth": 2773,
     "timeYear": 2883,
     "dailyMinutesDown": {
@@ -238,10 +238,10 @@
     "url": "https://headaches.org/",
     "icon": "https://icons.duckduckgo.com/ip3/headaches.org.ico",
     "slug": "headaches-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 364,
@@ -249,7 +249,9 @@
     "timeWeek": 393,
     "timeMonth": 391,
     "timeYear": 368,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 1
+    }
   },
   {
     "name": "clusterbusters.org",
@@ -375,7 +377,7 @@
     "uptime": "76.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.61%",
+    "uptimeMonth": "83.97%",
     "uptimeYear": "73.22%",
     "time": 622,
     "timeDay": 81,
