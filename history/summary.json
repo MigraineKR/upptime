@@ -28,19 +28,19 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "87.79%",
-    "uptimeDay": "95.45%",
-    "uptimeWeek": "98.19%",
+    "uptimeDay": "95.38%",
+    "uptimeWeek": "98.18%",
     "uptimeMonth": "98.21%",
     "uptimeYear": "80.86%",
-    "time": 2888,
-    "timeDay": 2510,
+    "time": 2889,
+    "timeDay": 2513,
     "timeWeek": 2842,
-    "timeMonth": 2797,
+    "timeMonth": 2801,
     "timeYear": 2886,
     "dailyMinutesDown": {
-      "2024-09-20": 65,
+      "2024-09-20": 66,
       "2024-09-19": 18,
       "2024-09-18": 19,
       "2024-09-17": 19,
@@ -173,8 +173,7 @@
       "2024-04-27": 34,
       "2024-04-26": 16,
       "2024-04-25": 83,
-      "2024-04-24": 42,
-      "2024-04-23": 16
+      "2024-04-24": 42
     }
   },
   {
@@ -317,7 +316,7 @@
     "time": 490,
     "timeDay": 457,
     "timeWeek": 370,
-    "timeMonth": 429,
+    "timeMonth": 428,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2024-09-04": 15,
@@ -382,7 +381,7 @@
     "uptime": "76.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.45%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "73.22%",
     "time": 618,
     "timeDay": 276,
@@ -610,7 +609,7 @@
     "time": 886,
     "timeDay": 931,
     "timeWeek": 1128,
-    "timeMonth": 1153,
+    "timeMonth": 1156,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2024-06-11": 16,
@@ -651,7 +650,7 @@
     "time": 1808,
     "timeDay": 995,
     "timeWeek": 1130,
-    "timeMonth": 1207,
+    "timeMonth": 1203,
     "timeYear": 1698,
     "dailyMinutesDown": {
       "2024-09-11": 56,
@@ -716,7 +715,7 @@
     "time": 1216,
     "timeDay": 733,
     "timeWeek": 850,
-    "timeMonth": 833,
+    "timeMonth": 836,
     "timeYear": 1216,
     "dailyMinutesDown": {
       "2024-06-11": 15,
@@ -850,7 +849,7 @@
     "time": 1433,
     "timeDay": 1387,
     "timeWeek": 1495,
-    "timeMonth": 1566,
+    "timeMonth": 1565,
     "timeYear": 1624,
     "dailyMinutesDown": {
       "2024-05-14": 17,
@@ -878,7 +877,7 @@
     "time": 460,
     "timeDay": 317,
     "timeWeek": 378,
-    "timeMonth": 412,
+    "timeMonth": 414,
     "timeYear": 444,
     "dailyMinutesDown": {
       "2024-05-14": 16
@@ -916,7 +915,7 @@
     "time": 576,
     "timeDay": 387,
     "timeWeek": 436,
-    "timeMonth": 450,
+    "timeMonth": 453,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2024-05-14": 16,
@@ -959,7 +958,7 @@
     "time": 478,
     "timeDay": 579,
     "timeWeek": 447,
-    "timeMonth": 497,
+    "timeMonth": 477,
     "timeYear": 482,
     "dailyMinutesDown": {
       "2024-08-25": 23
