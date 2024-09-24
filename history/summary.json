@@ -289,10 +289,10 @@
     "url": "https://daniellefoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/daniellefoundation.org.ico",
     "slug": "daniellefoundation-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 450,
@@ -301,7 +301,7 @@
     "timeMonth": 733,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2024-09-24": 23,
+      "2024-09-24": 24,
       "2024-09-19": 16,
       "2024-02-05": 56
     }
