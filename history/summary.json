@@ -30,17 +30,17 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "88.18%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "80.85%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "97.87%",
+    "uptimeYear": "80.84%",
     "time": 2876,
     "timeDay": 2537,
     "timeWeek": 2691,
     "timeMonth": 2790,
-    "timeYear": 2866,
+    "timeYear": 2867,
     "dailyMinutesDown": {
-      "2024-10-09": 28,
+      "2024-10-09": 19,
       "2024-10-07": 52,
       "2024-10-06": 49,
       "2024-10-05": 101,
@@ -175,7 +175,7 @@
       "2024-05-14": 19,
       "2024-05-11": 54,
       "2024-05-10": 16,
-      "2024-05-09": 15
+      "2024-05-09": 41
     }
   },
   {
@@ -211,7 +211,7 @@
     "timeDay": 1285,
     "timeWeek": 763,
     "timeMonth": 498,
-    "timeYear": 622,
+    "timeYear": 624,
     "dailyMinutesDown": {}
   },
   {
@@ -251,7 +251,7 @@
     "timeDay": 389,
     "timeWeek": 303,
     "timeMonth": 353,
-    "timeYear": 363,
+    "timeYear": 364,
     "dailyMinutesDown": {
       "2024-09-16": 17
     }
@@ -296,7 +296,7 @@
     "timeDay": 244,
     "timeWeek": 373,
     "timeMonth": 518,
-    "timeYear": 452,
+    "timeYear": 450,
     "dailyMinutesDown": {
       "2024-09-24": 43,
       "2024-09-19": 16,
@@ -344,7 +344,7 @@
     "timeDay": 888,
     "timeWeek": 857,
     "timeMonth": 898,
-    "timeYear": 1011,
+    "timeYear": 1012,
     "dailyMinutesDown": {
       "2024-03-05": 16,
       "2023-10-29": 38,
@@ -566,7 +566,7 @@
     "timeDay": 314,
     "timeWeek": 332,
     "timeMonth": 325,
-    "timeYear": 355,
+    "timeYear": 356,
     "dailyMinutesDown": {
       "2023-11-02": 163
     }
@@ -611,7 +611,7 @@
     "timeDay": 942,
     "timeWeek": 1190,
     "timeMonth": 1158,
-    "timeYear": 944,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2024-06-11": 16,
       "2024-05-15": 21,
@@ -652,7 +652,7 @@
     "timeDay": 1126,
     "timeWeek": 1259,
     "timeMonth": 1214,
-    "timeYear": 1632,
+    "timeYear": 1629,
     "dailyMinutesDown": {
       "2024-09-11": 56,
       "2024-06-11": 16,
@@ -678,7 +678,7 @@
     "timeDay": 8412,
     "timeWeek": 7642,
     "timeMonth": 9235,
-    "timeYear": 7186,
+    "timeYear": 7193,
     "dailyMinutesDown": {
       "2024-09-14": 36,
       "2024-06-01": 18,
@@ -737,7 +737,7 @@
     "timeDay": 246,
     "timeWeek": 244,
     "timeMonth": 243,
-    "timeYear": 280,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2024-04-29": 16,
       "2024-04-12": 34,
@@ -763,7 +763,7 @@
     "timeDay": 298,
     "timeWeek": 216,
     "timeMonth": 235,
-    "timeYear": 204,
+    "timeYear": 203,
     "dailyMinutesDown": {}
   },
   {
@@ -799,7 +799,7 @@
     "timeDay": 716,
     "timeWeek": 678,
     "timeMonth": 675,
-    "timeYear": 875,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2024-09-18": 17,
       "2024-05-31": 25,
@@ -886,7 +886,7 @@
     "timeDay": 146,
     "timeWeek": 112,
     "timeMonth": 121,
-    "timeYear": 748,
+    "timeYear": 747,
     "dailyMinutesDown": {}
   },
   {
@@ -948,7 +948,7 @@
     "timeDay": 560,
     "timeWeek": 420,
     "timeMonth": 436,
-    "timeYear": 479,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2024-10-02": 27,
       "2024-08-25": 23
@@ -969,7 +969,7 @@
     "timeDay": 310,
     "timeWeek": 446,
     "timeMonth": 677,
-    "timeYear": 487,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2023-10-30": 89
     }
@@ -989,7 +989,7 @@
     "timeDay": 810,
     "timeWeek": 724,
     "timeMonth": 763,
-    "timeYear": 849,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2024-05-03": 36,
       "2024-02-20": 162
@@ -1001,7 +1001,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
     "status": "up",
-    "uptime": "87.23%",
+    "uptime": "87.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1010,7 +1010,7 @@
     "timeDay": 5212,
     "timeWeek": 3445,
     "timeMonth": 3065,
-    "timeYear": 2099,
+    "timeYear": 2104,
     "dailyMinutesDown": {
       "2024-08-22": 28,
       "2024-06-04": 16,
@@ -1090,7 +1090,7 @@
     "timeDay": 557,
     "timeWeek": 769,
     "timeMonth": 841,
-    "timeYear": 744,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2024-06-09": 17,
       "2024-06-07": 15,
