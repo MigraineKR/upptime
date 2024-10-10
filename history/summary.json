@@ -30,17 +30,16 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "88.18%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "97.48%",
-    "uptimeMonth": "97.93%",
-    "uptimeYear": "80.85%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "80.84%",
     "time": 2876,
     "timeDay": 2382,
     "timeWeek": 2671,
     "timeMonth": 2786,
     "timeYear": 2866,
     "dailyMinutesDown": {
-      "2024-10-10": 13,
       "2024-10-09": 19,
       "2024-10-07": 52,
       "2024-10-06": 49,
@@ -176,7 +175,7 @@
       "2024-05-14": 19,
       "2024-05-11": 54,
       "2024-05-10": 16,
-      "2024-05-09": 15
+      "2024-05-09": 41
     }
   },
   {
@@ -557,10 +556,10 @@
     "url": "https://migrainequebec.org/",
     "icon": "https://icons.duckduckgo.com/ip3/migrainequebec.org.ico",
     "slug": "migrainequebec-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 351,
@@ -569,6 +568,7 @@
     "timeMonth": 325,
     "timeYear": 356,
     "dailyMinutesDown": {
+      "2024-10-10": 1,
       "2023-11-02": 163
     }
   },
