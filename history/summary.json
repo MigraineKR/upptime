@@ -36,7 +36,7 @@
     "uptimeYear": "80.84%",
     "time": 2867,
     "timeDay": 2475,
-    "timeWeek": 2579,
+    "timeWeek": 2574,
     "timeMonth": 2760,
     "timeYear": 2860,
     "dailyMinutesDown": {
@@ -223,12 +223,12 @@
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
     "time": 419,
     "timeDay": 435,
     "timeWeek": 479,
-    "timeMonth": 434,
+    "timeMonth": 406,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2024-09-16": 109,
@@ -380,7 +380,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migraine.org.au.ico",
     "slug": "migraine-org-au",
     "status": "down",
-    "uptime": "78.30%",
+    "uptime": "78.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -672,7 +672,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.emhalliance.org.ico",
     "slug": "emhalliance-org",
     "status": "up",
-    "uptime": "98.57%",
+    "uptime": "98.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -756,10 +756,10 @@
     "url": "https://migraineworldsummit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/migraineworldsummit.com.ico",
     "slug": "migraineworldsummit-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
@@ -767,7 +767,9 @@
     "timeWeek": 235,
     "timeMonth": 232,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-16": 1
+    }
   },
   {
     "name": "migraineagain.com",
@@ -971,7 +973,7 @@
     "time": 467,
     "timeDay": 312,
     "timeWeek": 427,
-    "timeMonth": 534,
+    "timeMonth": 540,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2023-10-30": 89
@@ -1004,7 +1006,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
     "status": "up",
-    "uptime": "87.42%",
+    "uptime": "87.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
