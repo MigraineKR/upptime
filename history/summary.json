@@ -30,9 +30,9 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "88.46%",
-    "uptimeDay": "91.43%",
-    "uptimeWeek": "96.12%",
-    "uptimeMonth": "97.46%",
+    "uptimeDay": "92.05%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "97.48%",
     "uptimeYear": "80.85%",
     "time": 2865,
     "timeDay": 3049,
@@ -40,7 +40,7 @@
     "timeMonth": 2705,
     "timeYear": 2857,
     "dailyMinutesDown": {
-      "2024-10-24": 124,
+      "2024-10-24": 115,
       "2024-10-23": 18,
       "2024-10-22": 17,
       "2024-10-21": 35,
@@ -169,7 +169,8 @@
       "2024-06-07": 20,
       "2024-06-06": 19,
       "2024-06-05": 21,
-      "2024-06-04": 36
+      "2024-06-04": 36,
+      "2024-06-03": 16
     }
   },
   {
@@ -195,18 +196,20 @@
     "url": "https://americanheadachesociety.org/",
     "icon": "https://icons.duckduckgo.com/ip3/americanheadachesociety.org.ico",
     "slug": "americanheadachesociety-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 554,
-    "timeDay": 1178,
-    "timeWeek": 354,
-    "timeMonth": 538,
-    "timeYear": 616,
-    "dailyMinutesDown": {}
+    "time": 555,
+    "timeDay": 1138,
+    "timeWeek": 447,
+    "timeMonth": 556,
+    "timeYear": 618,
+    "dailyMinutesDown": {
+      "2024-10-24": 1
+    }
   },
   {
     "name": "americanmigrainefoundation.org",
@@ -731,7 +734,7 @@
     "time": 277,
     "timeDay": 278,
     "timeWeek": 245,
-    "timeMonth": 260,
+    "timeMonth": 259,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2024-04-29": 16,
@@ -1000,7 +1003,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.15%",
+    "uptimeYear": "86.16%",
     "time": 1774,
     "timeDay": 3985,
     "timeWeek": 3585,
