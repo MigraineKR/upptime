@@ -30,17 +30,16 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "88.50%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "97.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "97.53%",
     "uptimeYear": "80.85%",
     "time": 2862,
     "timeDay": 2434,
     "timeWeek": 2849,
-    "timeMonth": 2713,
+    "timeMonth": 2715,
     "timeYear": 2854,
     "dailyMinutesDown": {
-      "2024-10-26": 6,
       "2024-10-24": 115,
       "2024-10-23": 18,
       "2024-10-22": 17,
@@ -170,7 +169,8 @@
       "2024-06-07": 20,
       "2024-06-06": 19,
       "2024-06-05": 21,
-      "2024-06-04": 36
+      "2024-06-04": 36,
+      "2024-06-03": 16
     }
   },
   {
@@ -238,10 +238,10 @@
     "url": "https://headaches.org/",
     "icon": "https://icons.duckduckgo.com/ip3/headaches.org.ico",
     "slug": "headaches-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 364,
@@ -250,6 +250,7 @@
     "timeMonth": 356,
     "timeYear": 363,
     "dailyMinutesDown": {
+      "2024-10-26": 1,
       "2024-09-16": 17
     }
   },
@@ -1003,7 +1004,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.72%",
+    "uptimeYear": "86.75%",
     "time": 1779,
     "timeDay": 3911,
     "timeWeek": 3308,
