@@ -30,17 +30,17 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "88.54%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "97.58%",
-    "uptimeYear": "80.85%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "80.84%",
     "time": 2865,
     "timeDay": 3344,
     "timeWeek": 2846,
     "timeMonth": 2701,
     "timeYear": 2856,
     "dailyMinutesDown": {
-      "2024-10-28": 24,
+      "2024-10-28": 18,
       "2024-10-27": 27,
       "2024-10-24": 115,
       "2024-10-23": 18,
@@ -170,7 +170,8 @@
       "2024-06-08": 62,
       "2024-06-07": 20,
       "2024-06-06": 19,
-      "2024-06-05": 21
+      "2024-06-05": 21,
+      "2024-06-04": 17
     }
   },
   {
@@ -339,7 +340,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 983,
     "timeDay": 743,
     "timeWeek": 1475,
@@ -359,7 +360,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 150,
     "timeDay": 117,
     "timeWeek": 153,
@@ -965,9 +966,7 @@
     "timeWeek": 409,
     "timeMonth": 556,
     "timeYear": 462,
-    "dailyMinutesDown": {
-      "2023-10-30": 89
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "migraine.com",
@@ -1000,7 +999,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.32%",
+    "uptimeYear": "87.34%",
     "time": 1789,
     "timeDay": 3622,
     "timeWeek": 3301,
@@ -1054,8 +1053,7 @@
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
-      "2023-10-31": 1440,
-      "2023-10-30": 1440
+      "2023-10-31": 1440
     }
   },
   {
