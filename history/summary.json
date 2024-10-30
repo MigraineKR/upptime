@@ -35,7 +35,7 @@
     "uptimeMonth": "97.54%",
     "uptimeYear": "80.84%",
     "time": 2863,
-    "timeDay": 2485,
+    "timeDay": 2452,
     "timeWeek": 2837,
     "timeMonth": 2666,
     "timeYear": 2855,
@@ -994,11 +994,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
     "status": "up",
-    "uptime": "87.78%",
+    "uptime": "87.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.59%",
+    "uptimeYear": "87.62%",
     "time": 1798,
     "timeDay": 3857,
     "timeWeek": 3395,
@@ -1051,8 +1051,7 @@
       "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
-      "2023-11-01": 1440,
-      "2023-10-31": 1440
+      "2023-11-01": 1440
     }
   },
   {
