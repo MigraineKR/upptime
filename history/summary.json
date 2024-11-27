@@ -29,18 +29,19 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "97.84%",
     "uptimeMonth": "97.20%",
     "uptimeYear": "99.52%",
-    "time": 2853,
+    "time": 2854,
     "timeDay": 2539,
     "timeWeek": 2579,
     "timeMonth": 2823,
     "timeYear": 2854,
     "dailyMinutesDown": {
+      "2024-11-27": 1,
       "2024-11-26": 27,
       "2024-11-25": 44,
       "2024-11-24": 17,
@@ -95,8 +96,7 @@
       "2024-09-24": 76,
       "2024-09-23": 16,
       "2024-09-22": 25,
-      "2024-09-21": 36,
-      "2024-09-20": 16
+      "2024-09-21": 36
     }
   },
   {
@@ -146,9 +146,9 @@
     "slug": "americanmigrainefoundation-org",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "93.46%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "93.93%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.96%",
     "time": 418,
     "timeDay": 416,
@@ -156,7 +156,7 @@
     "timeMonth": 415,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2024-11-27": 94,
+      "2024-11-27": 87,
       "2024-09-16": 109,
       "2024-04-15": 20
     }
