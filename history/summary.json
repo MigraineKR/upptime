@@ -31,9 +31,9 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "97.62%",
-    "uptimeMonth": "96.71%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "96.73%",
     "uptimeYear": "99.48%",
     "time": 2838,
     "timeDay": 2341,
@@ -41,7 +41,7 @@
     "timeMonth": 2654,
     "timeYear": 2841,
     "dailyMinutesDown": {
-      "2024-12-16": 21,
+      "2024-12-16": 15,
       "2024-12-15": 19,
       "2024-12-12": 41,
       "2024-12-11": 76,
@@ -91,7 +91,8 @@
       "2024-10-19": 123,
       "2024-10-18": 25,
       "2024-10-17": 18,
-      "2024-10-16": 56
+      "2024-10-16": 56,
+      "2024-10-15": 16
     }
   },
   {
@@ -207,10 +208,10 @@
     "url": "https://daniellefoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/daniellefoundation.org.ico",
     "slug": "daniellefoundation-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 439,
@@ -219,6 +220,7 @@
     "timeMonth": 480,
     "timeYear": 455,
     "dailyMinutesDown": {
+      "2024-12-16": 1,
       "2024-11-11": 31,
       "2024-10-25": 70,
       "2024-09-24": 43,
