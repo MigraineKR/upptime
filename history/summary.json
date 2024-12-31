@@ -102,19 +102,19 @@
     "url": "http://www.migrainecluster.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 974,
-    "timeDay": 1370,
-    "timeWeek": 1143,
-    "timeMonth": 1070,
-    "timeYear": 1001,
+    "time": 1019,
+    "timeDay": 10071,
+    "timeWeek": 3347,
+    "timeMonth": 1624,
+    "timeYear": 1061,
     "dailyMinutesDown": {
-      "2024-12-31": 1
+      "2024-12-31": 5
     }
   },
   {
