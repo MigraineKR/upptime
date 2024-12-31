@@ -102,11 +102,11 @@
     "url": "http://www.migrainecluster.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1019,
     "timeDay": 10071,
@@ -114,7 +114,7 @@
     "timeMonth": 1624,
     "timeYear": 1061,
     "dailyMinutesDown": {
-      "2024-12-31": 5
+      "2024-12-31": 1
     }
   },
   {
@@ -932,12 +932,12 @@
     "slug": "worldheadachesociety-org",
     "status": "up",
     "uptime": "89.23%",
-    "uptimeDay": "98.09%",
+    "uptimeDay": "98.11%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.90%",
     "time": 2123,
-    "timeDay": 10136,
+    "timeDay": 8157,
     "timeWeek": 7514,
     "timeMonth": 4473,
     "timeYear": 2990,
