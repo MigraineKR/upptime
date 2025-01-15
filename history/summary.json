@@ -308,7 +308,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migraine.org.au.ico",
     "slug": "migraine-org-au",
     "status": "down",
-    "uptime": "81.92%",
+    "uptime": "81.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -992,8 +992,7 @@
       "2024-06-09": 17,
       "2024-06-07": 15,
       "2024-05-26": 26,
-      "2024-03-29": 17,
-      "2024-01-16": 15
+      "2024-03-29": 17
     }
   }
 ]
