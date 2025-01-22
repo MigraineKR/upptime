@@ -14,7 +14,7 @@
     "timeDay": 1575,
     "timeWeek": 1362,
     "timeMonth": 1262,
-    "timeYear": 1339,
+    "timeYear": 1340,
     "dailyMinutesDown": {
       "2024-11-19": 22,
       "2024-09-13": 33,
@@ -134,7 +134,7 @@
     "timeDay": 885,
     "timeWeek": 841,
     "timeMonth": 808,
-    "timeYear": 692,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2025-01-21": 23,
       "2024-11-10": 23,
@@ -199,7 +199,7 @@
     "timeDay": 697,
     "timeWeek": 357,
     "timeMonth": 382,
-    "timeYear": 458,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2024-12-14": 20,
       "2024-09-11": 30,
@@ -431,19 +431,19 @@
     "url": "https://headacheaustralia.org.au/",
     "icon": "https://icons.duckduckgo.com/ip3/headacheaustralia.org.au.ico",
     "slug": "headacheaustralia-org-au",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.94%",
-    "time": 1701,
+    "time": 1702,
     "timeDay": 1751,
     "timeWeek": 1756,
     "timeMonth": 1852,
     "timeYear": 1718,
     "dailyMinutesDown": {
-      "2025-01-22": 25,
+      "2025-01-22": 26,
       "2025-01-10": 34,
       "2025-01-04": 17,
       "2024-11-11": 19,
@@ -472,7 +472,7 @@
     "timeDay": 1885,
     "timeWeek": 1884,
     "timeMonth": 1760,
-    "timeYear": 1102,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2024-06-05": 17,
       "2024-02-07": 17,
@@ -494,7 +494,7 @@
     "timeDay": 1764,
     "timeWeek": 1289,
     "timeMonth": 1410,
-    "timeYear": 682,
+    "timeYear": 684,
     "dailyMinutesDown": {}
   },
   {
@@ -512,7 +512,7 @@
     "timeDay": 2282,
     "timeWeek": 1946,
     "timeMonth": 1782,
-    "timeYear": 1602,
+    "timeYear": 1603,
     "dailyMinutesDown": {
       "2024-05-07": 76,
       "2024-04-18": 54,
@@ -537,7 +537,7 @@
     "timeDay": 816,
     "timeWeek": 955,
     "timeMonth": 1131,
-    "timeYear": 1104,
+    "timeYear": 1106,
     "dailyMinutesDown": {
       "2025-01-22": 16,
       "2025-01-20": 16,
@@ -586,7 +586,7 @@
     "timeDay": 1416,
     "timeWeek": 1170,
     "timeMonth": 1263,
-    "timeYear": 1467,
+    "timeYear": 1468,
     "dailyMinutesDown": {
       "2025-01-22": 16,
       "2025-01-20": 15,
@@ -620,7 +620,7 @@
     "timeDay": 6228,
     "timeWeek": 5488,
     "timeMonth": 5669,
-    "timeYear": 7384,
+    "timeYear": 7395,
     "dailyMinutesDown": {
       "2024-12-08": 17,
       "2024-11-16": 80,
@@ -658,7 +658,7 @@
     "timeDay": 806,
     "timeWeek": 769,
     "timeMonth": 847,
-    "timeYear": 1074,
+    "timeYear": 1075,
     "dailyMinutesDown": {
       "2025-01-22": 15,
       "2025-01-07": 25,
@@ -706,7 +706,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
+    "time": 227,
     "timeDay": 207,
     "timeWeek": 348,
     "timeMonth": 304,
@@ -746,7 +746,7 @@
     "timeDay": 753,
     "timeWeek": 729,
     "timeMonth": 698,
-    "timeYear": 838,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2025-01-14": 20,
       "2024-11-19": 16,
@@ -782,7 +782,7 @@
     "timeDay": 912,
     "timeWeek": 1449,
     "timeMonth": 1469,
-    "timeYear": 1597,
+    "timeYear": 1598,
     "dailyMinutesDown": {
       "2025-01-07": 24,
       "2024-12-26": 21,
@@ -830,7 +830,7 @@
     "timeDay": 162,
     "timeWeek": 119,
     "timeMonth": 120,
-    "timeYear": 525,
+    "timeYear": 526,
     "dailyMinutesDown": {}
   },
   {
@@ -848,7 +848,7 @@
     "timeDay": 582,
     "timeWeek": 393,
     "timeMonth": 455,
-    "timeYear": 550,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2025-01-16": 21,
       "2025-01-07": 23,
@@ -899,7 +899,7 @@
     "timeDay": 291,
     "timeWeek": 402,
     "timeMonth": 405,
-    "timeYear": 479,
+    "timeYear": 478,
     "dailyMinutesDown": {
       "2025-01-07": 22,
       "2024-12-26": 19,
@@ -945,7 +945,7 @@
     "timeDay": 505,
     "timeWeek": 736,
     "timeMonth": 692,
-    "timeYear": 821,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2024-05-03": 36,
       "2024-02-20": 162
@@ -966,7 +966,7 @@
     "timeDay": 7206,
     "timeWeek": 7438,
     "timeMonth": 7237,
-    "timeYear": 3541,
+    "timeYear": 3551,
     "dailyMinutesDown": {
       "2025-01-01": 74,
       "2024-12-30": 27,
@@ -990,7 +990,7 @@
     "timeDay": 1030,
     "timeWeek": 834,
     "timeMonth": 706,
-    "timeYear": 750,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2025-01-14": 17,
       "2025-01-08": 333,
