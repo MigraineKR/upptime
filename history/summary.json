@@ -29,18 +29,19 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "95.15%",
-    "uptimeWeek": "97.29%",
+    "uptimeDay": "96.27%",
+    "uptimeWeek": "97.70%",
     "uptimeMonth": "96.73%",
     "uptimeYear": "99.32%",
     "time": 2817,
-    "timeDay": 2352,
-    "timeWeek": 2782,
+    "timeDay": 2356,
+    "timeWeek": 2802,
     "timeMonth": 2734,
-    "timeYear": 2820,
+    "timeYear": 2821,
     "dailyMinutesDown": {
+      "2025-02-07": 1,
       "2025-02-06": 70,
       "2025-02-04": 16,
       "2025-02-03": 19,
@@ -95,7 +96,7 @@
       "2024-11-21": 39,
       "2024-11-20": 40,
       "2024-11-18": 91,
-      "2024-11-17": 41
+      "2024-11-17": 25
     }
   },
   {
@@ -312,7 +313,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migraine.org.au.ico",
     "slug": "migraine-org-au",
     "status": "down",
-    "uptime": "82.66%",
+    "uptime": "82.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -436,12 +437,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 1729,
     "timeDay": 1868,
     "timeWeek": 1806,
     "timeMonth": 1784,
-    "timeYear": 1735,
+    "timeYear": 1734,
     "dailyMinutesDown": {
       "2025-01-31": 15,
       "2025-01-25": 17,
@@ -472,7 +473,7 @@
     "timeDay": 1213,
     "timeWeek": 1170,
     "timeMonth": 1665,
-    "timeYear": 1159,
+    "timeYear": 1161,
     "dailyMinutesDown": {
       "2024-06-05": 17
     }
@@ -985,7 +986,7 @@
     "slug": "patientadvocate-org",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "47.41%",
+    "uptimeDay": "59.86%",
     "uptimeWeek": "90.98%",
     "uptimeMonth": "96.94%",
     "uptimeYear": "99.36%",
