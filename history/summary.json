@@ -30,17 +30,16 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "98.14%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.01%",
+    "uptimeYear": "99.31%",
     "time": 2803,
     "timeDay": 2556,
     "timeWeek": 2649,
     "timeMonth": 2653,
     "timeYear": 2794,
     "dailyMinutesDown": {
-      "2025-03-06": 10,
       "2025-03-05": 20,
       "2025-03-03": 158,
       "2025-02-27": 16,
@@ -99,7 +98,8 @@
       "2024-12-10": 82,
       "2024-12-09": 72,
       "2024-12-08": 50,
-      "2024-12-07": 206
+      "2024-12-07": 206,
+      "2024-12-06": 21
     }
   },
   {
@@ -220,10 +220,10 @@
     "url": "https://daniellefoundation.org/",
     "icon": "https://icons.duckduckgo.com/ip3/daniellefoundation.org.ico",
     "slug": "daniellefoundation-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 465,
@@ -232,6 +232,7 @@
     "timeMonth": 625,
     "timeYear": 487,
     "dailyMinutesDown": {
+      "2025-03-06": 1,
       "2024-12-20": 17,
       "2024-12-16": 35,
       "2024-11-11": 31,
@@ -547,7 +548,7 @@
     "time": 1081,
     "timeDay": 940,
     "timeWeek": 1128,
-    "timeMonth": 1340,
+    "timeMonth": 1347,
     "timeYear": 1181,
     "dailyMinutesDown": {
       "2025-03-04": 17,
@@ -600,7 +601,7 @@
     "time": 1595,
     "timeDay": 2081,
     "timeWeek": 1849,
-    "timeMonth": 1864,
+    "timeMonth": 1880,
     "timeYear": 1505,
     "dailyMinutesDown": {
       "2025-03-04": 17,
@@ -674,7 +675,7 @@
     "time": 1035,
     "timeDay": 692,
     "timeWeek": 755,
-    "timeMonth": 919,
+    "timeMonth": 924,
     "timeYear": 1025,
     "dailyMinutesDown": {
       "2025-03-04": 16,
@@ -795,7 +796,7 @@
     "time": 1620,
     "timeDay": 1393,
     "timeWeek": 1523,
-    "timeMonth": 1579,
+    "timeMonth": 1586,
     "timeYear": 1610,
     "dailyMinutesDown": {
       "2025-03-04": 16,
@@ -823,7 +824,7 @@
     "time": 466,
     "timeDay": 341,
     "timeWeek": 366,
-    "timeMonth": 604,
+    "timeMonth": 611,
     "timeYear": 471,
     "dailyMinutesDown": {
       "2025-03-04": 15,
@@ -867,7 +868,7 @@
     "time": 555,
     "timeDay": 316,
     "timeWeek": 333,
-    "timeMonth": 571,
+    "timeMonth": 575,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2025-02-17": 16,
@@ -894,7 +895,7 @@
     "time": 537,
     "timeDay": 353,
     "timeWeek": 613,
-    "timeMonth": 601,
+    "timeMonth": 612,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2025-02-17": 16,
@@ -920,7 +921,7 @@
     "time": 469,
     "timeDay": 394,
     "timeWeek": 414,
-    "timeMonth": 422,
+    "timeMonth": 421,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2025-02-17": 15,
@@ -1015,7 +1016,7 @@
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.99%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.36%",
     "time": 732,
     "timeDay": 502,
