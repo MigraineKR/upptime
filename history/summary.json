@@ -30,17 +30,16 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "99.31%",
     "time": 2803,
     "timeDay": 2564,
     "timeWeek": 2693,
     "timeMonth": 2660,
     "timeYear": 2793,
     "dailyMinutesDown": {
-      "2025-03-06": 6,
       "2025-03-05": 20,
       "2025-03-03": 158,
       "2025-02-27": 16,
@@ -99,7 +98,8 @@
       "2024-12-10": 82,
       "2024-12-09": 72,
       "2024-12-08": 50,
-      "2024-12-07": 206
+      "2024-12-07": 206,
+      "2024-12-06": 21
     }
   },
   {
@@ -254,7 +254,7 @@
     "time": 464,
     "timeDay": 312,
     "timeWeek": 425,
-    "timeMonth": 444,
+    "timeMonth": 443,
     "timeYear": 457,
     "dailyMinutesDown": {
       "2025-03-04": 17,
@@ -547,7 +547,7 @@
     "time": 1082,
     "timeDay": 939,
     "timeWeek": 1112,
-    "timeMonth": 1336,
+    "timeMonth": 1345,
     "timeYear": 1182,
     "dailyMinutesDown": {
       "2025-03-04": 17,
@@ -600,7 +600,7 @@
     "time": 1596,
     "timeDay": 1864,
     "timeWeek": 1910,
-    "timeMonth": 1884,
+    "timeMonth": 1903,
     "timeYear": 1506,
     "dailyMinutesDown": {
       "2025-03-04": 17,
@@ -674,7 +674,7 @@
     "time": 1035,
     "timeDay": 742,
     "timeWeek": 751,
-    "timeMonth": 915,
+    "timeMonth": 909,
     "timeYear": 1023,
     "dailyMinutesDown": {
       "2025-03-04": 16,
@@ -795,7 +795,7 @@
     "time": 1619,
     "timeDay": 1550,
     "timeWeek": 1543,
-    "timeMonth": 1578,
+    "timeMonth": 1580,
     "timeYear": 1610,
     "dailyMinutesDown": {
       "2025-03-04": 16,
@@ -823,7 +823,7 @@
     "time": 466,
     "timeDay": 427,
     "timeWeek": 368,
-    "timeMonth": 603,
+    "timeMonth": 609,
     "timeYear": 471,
     "dailyMinutesDown": {
       "2025-03-04": 15,
@@ -867,7 +867,7 @@
     "time": 555,
     "timeDay": 305,
     "timeWeek": 335,
-    "timeMonth": 562,
+    "timeMonth": 568,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2025-02-17": 16,
