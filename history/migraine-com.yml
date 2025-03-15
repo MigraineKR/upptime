@@ -1,7 +1,7 @@
 url: https://migraine.com/
-status: up
-code: 200
-responseTime: 775
-lastUpdated: 2025-03-14T23:08:52.098Z
+status: down
+code: 403
+responseTime: 111
+lastUpdated: 2025-03-15T05:59:58.183Z
 startTime: 2023-07-24T07:03:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
