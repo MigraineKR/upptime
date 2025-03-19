@@ -28,19 +28,19 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "94.05%",
-    "uptimeWeek": "97.84%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "93.98%",
+    "uptimeWeek": "97.83%",
     "uptimeMonth": "97.85%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.41%",
     "time": 2804,
     "timeDay": 3056,
     "timeWeek": 3477,
     "timeMonth": 2771,
     "timeYear": 2803,
     "dailyMinutesDown": {
-      "2025-03-19": 52,
+      "2025-03-19": 53,
       "2025-03-18": 77,
       "2025-03-17": 18,
       "2025-03-16": 17,
@@ -99,8 +99,7 @@
       "2024-12-26": 58,
       "2024-12-23": 36,
       "2024-12-22": 17,
-      "2024-12-19": 246,
-      "2024-12-18": 121
+      "2024-12-19": 31
     }
   },
   {
@@ -294,7 +293,7 @@
     "uptimeYear": "99.99%",
     "time": 1031,
     "timeDay": 963,
-    "timeWeek": 1382,
+    "timeWeek": 1331,
     "timeMonth": 1312,
     "timeYear": 1042,
     "dailyMinutesDown": {
@@ -314,7 +313,7 @@
     "uptimeYear": "99.99%",
     "time": 158,
     "timeDay": 171,
-    "timeWeek": 491,
+    "timeWeek": 153,
     "timeMonth": 269,
     "timeYear": 164,
     "dailyMinutesDown": {
@@ -975,7 +974,7 @@
     "uptimeYear": "99.93%",
     "time": 732,
     "timeDay": 767,
-    "timeWeek": 443,
+    "timeWeek": 458,
     "timeMonth": 437,
     "timeYear": 717,
     "dailyMinutesDown": {
@@ -999,9 +998,9 @@
     "slug": "worldheadachesociety-org",
     "status": "up",
     "uptime": "90.57%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.89%",
     "time": 3948,
     "timeDay": 7959,
@@ -1009,7 +1008,6 @@
     "timeMonth": 8953,
     "timeYear": 5193,
     "dailyMinutesDown": {
-      "2025-03-19": 10,
       "2025-03-13": 18,
       "2025-03-07": 17,
       "2025-02-25": 18,
