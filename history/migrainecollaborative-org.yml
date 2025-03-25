@@ -1,7 +1,7 @@
 url: https://migrainecollaborative.org/
-status: up
-code: 200
-responseTime: 683
-lastUpdated: 2025-03-25T05:57:29.070Z
+status: down
+code: 503
+responseTime: 234
+lastUpdated: 2025-03-25T07:31:56.079Z
 startTime: 2023-07-24T07:04:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
