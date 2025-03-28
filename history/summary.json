@@ -28,19 +28,20 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "89.46%",
-    "uptimeWeek": "95.47%",
-    "uptimeMonth": "97.54%",
+    "uptimeDay": "89.84%",
+    "uptimeWeek": "96.26%",
+    "uptimeMonth": "97.55%",
     "uptimeYear": "99.41%",
-    "time": 2840,
+    "time": 2841,
     "timeDay": 2326,
     "timeWeek": 3459,
     "timeMonth": 3241,
     "timeYear": 2830,
     "dailyMinutesDown": {
-      "2025-03-27": 152,
+      "2025-03-28": 1,
+      "2025-03-27": 146,
       "2025-03-26": 52,
       "2025-03-25": 25,
       "2025-03-24": 65,
@@ -433,8 +434,7 @@
       "2024-05-17": 1440,
       "2024-05-16": 332,
       "2024-05-15": 1422,
-      "2024-05-14": 283,
-      "2024-03-28": 91
+      "2024-05-14": 283
     }
   },
   {
@@ -444,12 +444,12 @@
     "slug": "headacheaustralia-org-au",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "94.69%",
+    "uptimeDay": "98.60%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.87%",
     "time": 1753,
-    "timeDay": 1624,
+    "timeDay": 1665,
     "timeWeek": 1734,
     "timeMonth": 1839,
     "timeYear": 1748,
@@ -643,12 +643,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.29%",
+    "uptimeYear": "98.30%",
     "time": 6570,
     "timeDay": 3689,
     "timeWeek": 3625,
     "timeMonth": 3427,
-    "timeYear": 7170,
+    "timeYear": 7169,
     "dailyMinutesDown": {
       "2024-12-08": 17,
       "2024-11-16": 80,
@@ -663,8 +663,7 @@
       "2024-04-15": 1440,
       "2024-04-14": 1440,
       "2024-04-13": 828,
-      "2024-04-07": 17,
-      "2024-03-28": 54
+      "2024-04-07": 17
     }
   },
   {
@@ -784,8 +783,7 @@
       "2024-05-31": 25,
       "2024-05-27": 23,
       "2024-05-02": 39,
-      "2024-04-04": 16,
-      "2024-03-28": 34
+      "2024-04-04": 16
     }
   },
   {
