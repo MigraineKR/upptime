@@ -9,17 +9,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1352,
     "timeDay": 1305,
     "timeWeek": 1306,
     "timeMonth": 1383,
-    "timeYear": 1374,
+    "timeYear": 1375,
     "dailyMinutesDown": {
       "2024-11-19": 22,
       "2024-09-13": 33,
-      "2024-06-06": 35,
-      "2024-04-06": 58
+      "2024-06-06": 35
     }
   },
   {
@@ -35,9 +34,9 @@
     "uptimeYear": "99.52%",
     "time": 2831,
     "timeDay": 3453,
-    "timeWeek": 2733,
+    "timeWeek": 2737,
     "timeMonth": 3134,
-    "timeYear": 2819,
+    "timeYear": 2820,
     "dailyMinutesDown": {
       "2025-04-05": 53,
       "2025-04-04": 78,
@@ -245,7 +244,7 @@
     "uptimeYear": "99.92%",
     "time": 476,
     "timeDay": 614,
-    "timeWeek": 523,
+    "timeWeek": 552,
     "timeMonth": 554,
     "timeYear": 467,
     "dailyMinutesDown": {
@@ -440,17 +439,16 @@
     "slug": "headacheaustralia-org-au",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.85%",
     "time": 1740,
-    "timeDay": 1709,
+    "timeDay": 1798,
     "timeWeek": 1757,
     "timeMonth": 1808,
     "timeYear": 1751,
     "dailyMinutesDown": {
-      "2025-04-05": 8,
       "2025-04-03": 26,
       "2025-04-01": 16,
       "2025-03-28": 65,
@@ -552,7 +550,7 @@
     "uptimeYear": "99.94%",
     "time": 1070,
     "timeDay": 989,
-    "timeWeek": 1181,
+    "timeWeek": 1180,
     "timeMonth": 1186,
     "timeYear": 1210,
     "dailyMinutesDown": {
@@ -607,7 +605,7 @@
     "uptimeYear": "99.93%",
     "time": 1521,
     "timeDay": 1009,
-    "timeWeek": 1311,
+    "timeWeek": 1288,
     "timeMonth": 1820,
     "timeYear": 1561,
     "dailyMinutesDown": {
@@ -679,7 +677,7 @@
     "uptimeYear": "99.96%",
     "time": 1019,
     "timeDay": 677,
-    "timeWeek": 909,
+    "timeWeek": 920,
     "timeMonth": 871,
     "timeYear": 969,
     "dailyMinutesDown": {
@@ -798,7 +796,7 @@
     "uptimeYear": "99.96%",
     "time": 1623,
     "timeDay": 1377,
-    "timeWeek": 1624,
+    "timeWeek": 1648,
     "timeMonth": 1597,
     "timeYear": 1625,
     "dailyMinutesDown": {
@@ -827,7 +825,7 @@
     "uptimeYear": "99.97%",
     "time": 462,
     "timeDay": 332,
-    "timeWeek": 384,
+    "timeWeek": 396,
     "timeMonth": 449,
     "timeYear": 474,
     "dailyMinutesDown": {
@@ -873,7 +871,7 @@
     "uptimeYear": "99.85%",
     "time": 572,
     "timeDay": 316,
-    "timeWeek": 392,
+    "timeWeek": 405,
     "timeMonth": 725,
     "timeYear": 567,
     "dailyMinutesDown": {
@@ -902,7 +900,7 @@
     "uptimeYear": "99.97%",
     "time": 511,
     "timeDay": 340,
-    "timeWeek": 401,
+    "timeWeek": 403,
     "timeMonth": 417,
     "timeYear": 528,
     "dailyMinutesDown": {
@@ -929,7 +927,7 @@
     "uptimeYear": "99.97%",
     "time": 469,
     "timeDay": 535,
-    "timeWeek": 420,
+    "timeWeek": 429,
     "timeMonth": 420,
     "timeYear": 464,
     "dailyMinutesDown": {
@@ -976,8 +974,8 @@
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.90%",
     "time": 699,
-    "timeDay": 461,
-    "timeWeek": 478,
+    "timeDay": 451,
+    "timeWeek": 475,
     "timeMonth": 431,
     "timeYear": 671,
     "dailyMinutesDown": {
