@@ -110,7 +110,7 @@
     "timeDay": 1195,
     "timeWeek": 1061,
     "timeMonth": 1107,
-    "timeYear": 1144,
+    "timeYear": 1145,
     "dailyMinutesDown": {
       "2025-03-28": 21,
       "2025-03-04": 216,
@@ -132,7 +132,7 @@
     "timeDay": 966,
     "timeWeek": 982,
     "timeMonth": 987,
-    "timeYear": 815,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2025-01-21": 23,
       "2024-11-10": 23,
@@ -155,7 +155,7 @@
     "timeDay": 273,
     "timeWeek": 425,
     "timeMonth": 400,
-    "timeYear": 420,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2024-11-27": 87,
       "2024-09-16": 109
@@ -196,7 +196,7 @@
     "timeDay": 364,
     "timeWeek": 404,
     "timeMonth": 338,
-    "timeYear": 457,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2025-03-01": 15,
       "2025-02-20": 59,
@@ -248,7 +248,7 @@
     "timeDay": 564,
     "timeWeek": 632,
     "timeMonth": 576,
-    "timeYear": 473,
+    "timeYear": 474,
     "dailyMinutesDown": {
       "2025-04-14": 19,
       "2025-04-10": 21,
@@ -331,7 +331,7 @@
     "timeDay": 281,
     "timeWeek": 259,
     "timeMonth": 223,
-    "timeYear": 210,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2024-08-21": 79,
       "2024-08-20": 1440,
@@ -442,17 +442,17 @@
     "slug": "headacheaustralia-org-au",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "97.65%",
-    "uptimeMonth": "98.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "99.82%",
     "time": 1742,
-    "timeDay": 1834,
+    "timeDay": 1807,
     "timeWeek": 1837,
     "timeMonth": 1784,
-    "timeYear": 1766,
+    "timeYear": 1767,
     "dailyMinutesDown": {
-      "2025-04-18": 23,
+      "2025-04-18": 16,
       "2025-04-17": 100,
       "2025-04-16": 44,
       "2025-04-15": 71,
@@ -494,11 +494,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1009,
+    "time": 1138,
     "timeDay": 3049,
     "timeWeek": 2769,
     "timeMonth": 1557,
-    "timeYear": 1352,
+    "timeYear": 1356,
     "dailyMinutesDown": {
       "2024-06-05": 17
     }
@@ -518,7 +518,7 @@
     "timeDay": 1162,
     "timeWeek": 1490,
     "timeMonth": 1325,
-    "timeYear": 961,
+    "timeYear": 963,
     "dailyMinutesDown": {}
   },
   {
@@ -536,7 +536,7 @@
     "timeDay": 1387,
     "timeWeek": 1748,
     "timeMonth": 1635,
-    "timeYear": 1633,
+    "timeYear": 1634,
     "dailyMinutesDown": {
       "2024-05-07": 76
     }
@@ -556,7 +556,7 @@
     "timeDay": 1263,
     "timeWeek": 1273,
     "timeMonth": 1229,
-    "timeYear": 1207,
+    "timeYear": 1208,
     "dailyMinutesDown": {
       "2025-04-14": 18,
       "2025-04-10": 20,
@@ -613,7 +613,7 @@
     "timeDay": 1449,
     "timeWeek": 1548,
     "timeMonth": 1470,
-    "timeYear": 1535,
+    "timeYear": 1534,
     "dailyMinutesDown": {
       "2025-04-14": 18,
       "2025-04-10": 20,
@@ -644,18 +644,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.emhalliance.org.ico",
     "slug": "emhalliance-org",
     "status": "down",
-    "uptime": "98.10%",
+    "uptime": "98.08%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "21.19%",
-    "uptimeMonth": "81.83%",
+    "uptimeWeek": "19.70%",
+    "uptimeMonth": "81.49%",
     "uptimeYear": "98.31%",
     "time": 6511,
     "timeDay": 724,
     "timeWeek": 967,
     "timeMonth": 3377,
-    "timeYear": 6945,
+    "timeYear": 6964,
     "dailyMinutesDown": {
-      "2025-04-18": 1397,
+      "2025-04-19": 106,
+      "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
@@ -667,8 +668,7 @@
       "2024-11-13": 19,
       "2024-09-14": 36,
       "2024-06-01": 18,
-      "2024-05-01": 19,
-      "2024-04-19": 708
+      "2024-05-01": 19
     }
   },
   {
@@ -686,7 +686,7 @@
     "timeDay": 888,
     "timeWeek": 936,
     "timeMonth": 897,
-    "timeYear": 943,
+    "timeYear": 942,
     "dailyMinutesDown": {
       "2025-04-14": 17,
       "2025-04-10": 19,
@@ -737,7 +737,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
+    "time": 246,
     "timeDay": 237,
     "timeWeek": 278,
     "timeMonth": 290,
@@ -759,7 +759,7 @@
     "timeDay": 274,
     "timeWeek": 199,
     "timeMonth": 241,
-    "timeYear": 311,
+    "timeYear": 310,
     "dailyMinutesDown": {}
   },
   {
@@ -777,7 +777,7 @@
     "timeDay": 702,
     "timeWeek": 736,
     "timeMonth": 661,
-    "timeYear": 731,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2025-04-08": 16,
       "2025-02-02": 30,
@@ -866,7 +866,7 @@
     "timeDay": 146,
     "timeWeek": 136,
     "timeMonth": 126,
-    "timeYear": 315,
+    "timeYear": 313,
     "dailyMinutesDown": {}
   },
   {
@@ -1032,7 +1032,7 @@
     "timeDay": 7293,
     "timeWeek": 8027,
     "timeMonth": 7711,
-    "timeYear": 5692,
+    "timeYear": 5695,
     "dailyMinutesDown": {
       "2025-04-15": 22,
       "2025-04-03": 39,
