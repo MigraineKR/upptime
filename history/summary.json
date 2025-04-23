@@ -14,7 +14,7 @@
     "timeDay": 1587,
     "timeWeek": 1444,
     "timeMonth": 1382,
-    "timeYear": 1380,
+    "timeYear": 1381,
     "dailyMinutesDown": {
       "2024-11-19": 22,
       "2024-09-13": 33,
@@ -108,7 +108,7 @@
     "timeDay": 851,
     "timeWeek": 998,
     "timeMonth": 1085,
-    "timeYear": 1146,
+    "timeYear": 1147,
     "dailyMinutesDown": {
       "2025-03-28": 21,
       "2025-03-04": 216,
@@ -130,7 +130,7 @@
     "timeDay": 1084,
     "timeWeek": 1013,
     "timeMonth": 993,
-    "timeYear": 823,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2025-01-21": 23,
       "2024-11-10": 23,
@@ -174,7 +174,7 @@
     "timeDay": 489,
     "timeWeek": 495,
     "timeMonth": 372,
-    "timeYear": 438,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2024-09-16": 17
     }
@@ -289,7 +289,7 @@
     "timeDay": 875,
     "timeWeek": 1283,
     "timeMonth": 1105,
-    "timeYear": 1058,
+    "timeYear": 1059,
     "dailyMinutesDown": {
       "2025-03-12": 31
     }
@@ -329,7 +329,7 @@
     "timeDay": 166,
     "timeWeek": 162,
     "timeMonth": 213,
-    "timeYear": 203,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2024-08-21": 79,
       "2024-08-20": 1440,
@@ -438,19 +438,19 @@
     "url": "https://headacheaustralia.org.au/",
     "icon": "https://icons.duckduckgo.com/ip3/headacheaustralia.org.au.ico",
     "slug": "headacheaustralia-org-au",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "90.68%",
-    "uptimeWeek": "93.97%",
-    "uptimeMonth": "97.93%",
+    "uptimeDay": "90.21%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "97.92%",
     "uptimeYear": "99.73%",
     "time": 1751,
-    "timeDay": 2106,
-    "timeWeek": 1861,
-    "timeMonth": 1823,
-    "timeYear": 1781,
+    "timeDay": 2087,
+    "timeWeek": 1863,
+    "timeMonth": 1824,
+    "timeYear": 1782,
     "dailyMinutesDown": {
-      "2025-04-23": 135,
+      "2025-04-23": 141,
       "2025-04-22": 63,
       "2025-04-21": 78,
       "2025-04-20": 102,
@@ -497,11 +497,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1022,
+    "time": 1157,
     "timeDay": 529,
     "timeWeek": 2277,
     "timeMonth": 1785,
-    "timeYear": 1381,
+    "timeYear": 1384,
     "dailyMinutesDown": {
       "2024-06-05": 17
     }
@@ -521,7 +521,7 @@
     "timeDay": 1680,
     "timeWeek": 1566,
     "timeMonth": 1344,
-    "timeYear": 979,
+    "timeYear": 981,
     "dailyMinutesDown": {}
   },
   {
@@ -539,7 +539,7 @@
     "timeDay": 2233,
     "timeWeek": 1704,
     "timeMonth": 1625,
-    "timeYear": 1637,
+    "timeYear": 1638,
     "dailyMinutesDown": {
       "2024-05-07": 76
     }
@@ -649,14 +649,14 @@
     "status": "up",
     "uptime": "97.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "22.55%",
+    "uptimeWeek": "22.62%",
     "uptimeMonth": "70.59%",
     "uptimeYear": "97.51%",
     "time": 6485,
     "timeDay": 3045,
     "timeWeek": 1913,
     "timeMonth": 3188,
-    "timeYear": 6845,
+    "timeYear": 6833,
     "dailyMinutesDown": {
       "2025-04-22": 558,
       "2025-04-21": 1440,
@@ -692,7 +692,7 @@
     "timeDay": 1160,
     "timeWeek": 925,
     "timeMonth": 892,
-    "timeYear": 932,
+    "timeYear": 930,
     "dailyMinutesDown": {
       "2025-04-14": 17,
       "2025-04-10": 19,
@@ -783,7 +783,7 @@
     "timeDay": 779,
     "timeWeek": 781,
     "timeMonth": 683,
-    "timeYear": 733,
+    "timeYear": 734,
     "dailyMinutesDown": {
       "2025-04-08": 16,
       "2025-02-02": 30,
@@ -872,7 +872,7 @@
     "timeDay": 164,
     "timeWeek": 144,
     "timeMonth": 128,
-    "timeYear": 300,
+    "timeYear": 298,
     "dailyMinutesDown": {}
   },
   {
@@ -948,7 +948,7 @@
     "timeDay": 472,
     "timeWeek": 419,
     "timeMonth": 418,
-    "timeYear": 461,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2025-04-14": 15,
       "2025-04-10": 17,
@@ -1039,7 +1039,7 @@
     "timeDay": 7636,
     "timeWeek": 7614,
     "timeMonth": 7751,
-    "timeYear": 5763,
+    "timeYear": 5771,
     "dailyMinutesDown": {
       "2025-04-23": 22,
       "2025-04-20": 17,
