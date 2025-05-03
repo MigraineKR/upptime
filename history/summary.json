@@ -26,10 +26,10 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "98.41%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "98.40%",
     "uptimeMonth": "96.82%",
     "uptimeYear": "99.45%",
     "time": 2807,
@@ -38,6 +38,7 @@
     "timeMonth": 2712,
     "timeYear": 2797,
     "dailyMinutesDown": {
+      "2025-05-03": 1,
       "2025-05-02": 17,
       "2025-05-01": 28,
       "2025-04-30": 22,
@@ -91,8 +92,7 @@
       "2025-03-03": 158,
       "2025-02-27": 16,
       "2025-02-26": 71,
-      "2025-02-25": 18,
-      "2025-02-24": 24
+      "2025-02-25": 18
     }
   },
   {
@@ -444,9 +444,9 @@
     "slug": "headacheaustralia-org-au",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "95.78%",
-    "uptimeMonth": "97.06%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "95.90%",
+    "uptimeMonth": "97.09%",
     "uptimeYear": "99.62%",
     "time": 1776,
     "timeDay": 1753,
@@ -454,7 +454,7 @@
     "timeMonth": 1861,
     "timeYear": 1798,
     "dailyMinutesDown": {
-      "2025-05-03": 29,
+      "2025-05-03": 17,
       "2025-05-02": 21,
       "2025-05-01": 113,
       "2025-04-30": 92,
@@ -1022,7 +1022,7 @@
     "timeDay": 548,
     "timeWeek": 444,
     "timeMonth": 445,
-    "timeYear": 609,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2025-04-30": 16,
       "2025-04-24": 18,
