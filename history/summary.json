@@ -28,9 +28,9 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "97.20%",
-    "uptimeMonth": "96.50%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "96.52%",
     "uptimeYear": "99.44%",
     "time": 2786,
     "timeDay": 2887,
@@ -38,7 +38,7 @@
     "timeMonth": 2628,
     "timeYear": 2777,
     "dailyMinutesDown": {
-      "2025-05-13": 33,
+      "2025-05-13": 27,
       "2025-05-12": 29,
       "2025-05-11": 43,
       "2025-05-09": 42,
@@ -89,7 +89,8 @@
       "2025-03-19": 71,
       "2025-03-18": 77,
       "2025-03-17": 18,
-      "2025-03-16": 17
+      "2025-03-16": 17,
+      "2025-03-15": 36
     }
   },
   {
@@ -442,10 +443,10 @@
     "url": "https://headacheaustralia.org.au/",
     "icon": "https://icons.duckduckgo.com/ip3/headacheaustralia.org.au.ico",
     "slug": "headacheaustralia-org-au",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "84.46%",
-    "uptimeWeek": "93.26%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "84.39%",
+    "uptimeWeek": "93.37%",
     "uptimeMonth": "94.85%",
     "uptimeYear": "99.49%",
     "time": 1844,
@@ -454,7 +455,7 @@
     "timeMonth": 2062,
     "timeYear": 1891,
     "dailyMinutesDown": {
-      "2025-05-13": 222,
+      "2025-05-13": 223,
       "2025-05-12": 72,
       "2025-05-11": 66,
       "2025-05-10": 44,
@@ -495,8 +496,7 @@
       "2025-03-07": 50,
       "2025-03-04": 16,
       "2025-03-02": 26,
-      "2025-02-27": 22,
-      "2025-02-25": 19
+      "2025-02-27": 22
     }
   },
   {
@@ -669,7 +669,7 @@
     "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "71.90%",
+    "uptimeMonth": "72.06%",
     "uptimeYear": "97.51%",
     "time": 6404,
     "timeDay": 7323,
