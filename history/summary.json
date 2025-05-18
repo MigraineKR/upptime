@@ -26,10 +26,10 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "91.23%",
-    "uptimeWeek": "95.75%",
+    "uptimeDay": "91.18%",
+    "uptimeWeek": "95.74%",
     "uptimeMonth": "96.21%",
     "uptimeYear": "99.42%",
     "time": 2783,
@@ -38,7 +38,7 @@
     "timeMonth": 2609,
     "timeYear": 2776,
     "dailyMinutesDown": {
-      "2025-05-18": 104,
+      "2025-05-18": 105,
       "2025-05-17": 39,
       "2025-05-16": 51,
       "2025-05-15": 88,
@@ -90,7 +90,7 @@
       "2025-03-24": 65,
       "2025-03-22": 80,
       "2025-03-21": 83,
-      "2025-03-20": 17
+      "2025-03-20": 1
     }
   },
   {
@@ -665,7 +665,7 @@
     "uptime": "97.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "86.44%",
+    "uptimeMonth": "86.48%",
     "uptimeYear": "97.51%",
     "time": 6411,
     "timeDay": 4167,
@@ -1117,9 +1117,9 @@
     "slug": "patientadvocate-org",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.01%",
     "time": 799,
     "timeDay": 1141,
@@ -1127,7 +1127,6 @@
     "timeMonth": 1292,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-05-18": 14,
       "2025-05-17": 21,
       "2025-05-14": 21,
       "2025-05-12": 25,
