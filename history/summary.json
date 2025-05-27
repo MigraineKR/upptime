@@ -507,19 +507,19 @@
     "url": "https://migrainequebec.org/",
     "icon": "https://icons.duckduckgo.com/ip3/migrainequebec.org.ico",
     "slug": "migrainequebec-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 809,
-    "timeDay": 1458,
-    "timeWeek": 1416,
-    "timeMonth": 1368,
-    "timeYear": 1089,
+    "time": 858,
+    "timeDay": 12957,
+    "timeWeek": 4296,
+    "timeMonth": 2113,
+    "timeYear": 1167,
     "dailyMinutesDown": {
-      "2025-05-27": 1
+      "2025-05-27": 11
     }
   },
   {
