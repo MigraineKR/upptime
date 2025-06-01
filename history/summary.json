@@ -323,7 +323,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.95%",
+    "uptimeYear": "77.98%",
     "time": 277,
     "timeDay": 170,
     "timeWeek": 229,
@@ -418,10 +418,10 @@
     "url": "https://headacheaustralia.org.au/",
     "icon": "https://icons.duckduckgo.com/ip3/headacheaustralia.org.au.ico",
     "slug": "headacheaustralia-org-au",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.46%",
     "uptimeYear": "99.49%",
     "time": 1858,
@@ -430,6 +430,7 @@
     "timeMonth": 2212,
     "timeYear": 1901,
     "dailyMinutesDown": {
+      "2025-06-01": 1,
       "2025-05-15": 25,
       "2025-05-14": 22,
       "2025-05-13": 244,
@@ -470,8 +471,7 @@
       "2025-03-18": 41,
       "2025-03-16": 17,
       "2025-03-15": 29,
-      "2025-03-07": 50,
-      "2025-03-04": 16
+      "2025-03-07": 50
     }
   },
   {
