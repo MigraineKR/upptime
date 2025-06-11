@@ -1,7 +1,7 @@
 url: https://hodepinenorge.no/
-status: up
-code: 200
-responseTime: 2509
-lastUpdated: 2025-06-10T23:08:59.225Z
+status: down
+code: 503
+responseTime: 948
+lastUpdated: 2025-06-11T17:16:10.188Z
 startTime: 2023-08-03T17:21:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
