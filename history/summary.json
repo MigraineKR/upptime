@@ -28,9 +28,9 @@
     "slug": "headache-or-kr",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "87.64%",
-    "uptimeWeek": "91.72%",
-    "uptimeMonth": "93.29%",
+    "uptimeDay": "87.18%",
+    "uptimeWeek": "91.65%",
+    "uptimeMonth": "93.27%",
     "uptimeYear": "99.43%",
     "time": 2746,
     "timeDay": 2524,
@@ -38,7 +38,7 @@
     "timeMonth": 2568,
     "timeYear": 2736,
     "dailyMinutesDown": {
-      "2025-06-17": 179,
+      "2025-06-17": 185,
       "2025-06-16": 43,
       "2025-06-15": 188,
       "2025-06-14": 54,
@@ -727,19 +727,19 @@
     "url": "https://migraineworldsummit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/migraineworldsummit.com.ico",
     "slug": "migraineworldsummit-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 245,
-    "timeDay": 281,
-    "timeWeek": 265,
+    "timeDay": 267,
+    "timeWeek": 262,
     "timeMonth": 251,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-06-17": 1
+      "2025-06-17": 7
     }
   },
   {
