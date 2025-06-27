@@ -35,7 +35,7 @@
     "uptimeYear": "99.42%",
     "time": 2747,
     "timeDay": 2555,
-    "timeWeek": 2679,
+    "timeWeek": 2681,
     "timeMonth": 2584,
     "timeYear": 2733,
     "dailyMinutesDown": {
@@ -333,7 +333,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.91%",
+    "uptimeYear": "84.94%",
     "time": 303,
     "timeDay": 492,
     "timeWeek": 219,
@@ -394,8 +394,7 @@
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
-      "2024-06-28": 1440,
-      "2024-06-27": 1440
+      "2024-06-28": 1440
     }
   },
   {
@@ -1115,12 +1114,12 @@
     "slug": "patientadvocate-org",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "90.47%",
+    "uptimeDay": "93.04%",
     "uptimeWeek": "96.48%",
     "uptimeMonth": "95.92%",
     "uptimeYear": "98.67%",
     "time": 777,
-    "timeDay": 724,
+    "timeDay": 775,
     "timeWeek": 794,
     "timeMonth": 654,
     "timeYear": 777,
