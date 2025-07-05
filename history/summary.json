@@ -27,19 +27,19 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "93.12%",
+    "uptimeDay": "93.08%",
     "uptimeWeek": "92.56%",
-    "uptimeMonth": "93.22%",
-    "uptimeYear": "99.43%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "99.44%",
     "time": 2744,
-    "timeDay": 2974,
+    "timeDay": 3040,
     "timeWeek": 2633,
     "timeMonth": 2623,
     "timeYear": 2730,
     "dailyMinutesDown": {
-      "2025-07-05": 76,
+      "2025-07-05": 77,
       "2025-07-04": 23,
       "2025-07-03": 240,
       "2025-07-02": 17,
@@ -67,7 +67,7 @@
       "2025-06-10": 60,
       "2025-06-09": 89,
       "2025-06-08": 129,
-      "2025-06-07": 44
+      "2025-06-07": 26
     }
   },
   {
@@ -242,7 +242,7 @@
     "uptimeYear": "99.85%",
     "time": 511,
     "timeDay": 624,
-    "timeWeek": 635,
+    "timeWeek": 662,
     "timeMonth": 707,
     "timeYear": 527,
     "dailyMinutesDown": {
@@ -521,7 +521,7 @@
     "uptimeYear": "99.87%",
     "time": 1227,
     "timeDay": 1068,
-    "timeWeek": 1233,
+    "timeWeek": 1240,
     "timeMonth": 1359,
     "timeYear": 1222,
     "dailyMinutesDown": {
@@ -588,7 +588,7 @@
     "uptimeYear": "99.85%",
     "time": 1695,
     "timeDay": 2318,
-    "timeWeek": 2566,
+    "timeWeek": 2543,
     "timeMonth": 2649,
     "timeYear": 1691,
     "dailyMinutesDown": {
@@ -675,7 +675,7 @@
     "uptimeYear": "99.89%",
     "time": 946,
     "timeDay": 666,
-    "timeWeek": 864,
+    "timeWeek": 853,
     "timeMonth": 946,
     "timeYear": 883,
     "dailyMinutesDown": {
@@ -803,7 +803,7 @@
     "uptimeYear": "99.88%",
     "time": 1650,
     "timeDay": 1472,
-    "timeWeek": 1373,
+    "timeWeek": 1350,
     "timeMonth": 1606,
     "timeYear": 1676,
     "dailyMinutesDown": {
@@ -846,7 +846,7 @@
     "uptimeYear": "99.91%",
     "time": 467,
     "timeDay": 272,
-    "timeWeek": 423,
+    "timeWeek": 419,
     "timeMonth": 490,
     "timeYear": 473,
     "dailyMinutesDown": {
@@ -907,7 +907,7 @@
     "uptimeYear": "99.79%",
     "time": 541,
     "timeDay": 344,
-    "timeWeek": 475,
+    "timeWeek": 464,
     "timeMonth": 534,
     "timeYear": 546,
     "dailyMinutesDown": {
@@ -947,7 +947,7 @@
     "uptimeYear": "99.93%",
     "time": 565,
     "timeDay": 321,
-    "timeWeek": 490,
+    "timeWeek": 480,
     "timeMonth": 729,
     "timeYear": 595,
     "dailyMinutesDown": {
@@ -982,7 +982,7 @@
     "uptimeYear": "99.90%",
     "time": 455,
     "timeDay": 571,
-    "timeWeek": 438,
+    "timeWeek": 458,
     "timeMonth": 421,
     "timeYear": 445,
     "dailyMinutesDown": {
