@@ -29,9 +29,9 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "95.53%",
-    "uptimeWeek": "93.50%",
-    "uptimeMonth": "93.22%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "93.56%",
+    "uptimeMonth": "93.19%",
     "uptimeYear": "99.43%",
     "time": 2742,
     "timeDay": 2598,
@@ -39,7 +39,7 @@
     "timeMonth": 2645,
     "timeYear": 2728,
     "dailyMinutesDown": {
-      "2025-07-12": 64,
+      "2025-07-12": 58,
       "2025-07-11": 144,
       "2025-07-10": 157,
       "2025-07-09": 60,
@@ -67,7 +67,8 @@
       "2025-06-17": 178,
       "2025-06-16": 43,
       "2025-06-15": 188,
-      "2025-06-14": 54
+      "2025-06-14": 54,
+      "2025-06-13": 20
     }
   },
   {
@@ -76,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "99.18%",
+    "uptime": "99.17%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "13.26%",
-    "uptimeMonth": "79.95%",
-    "uptimeYear": "98.26%",
+    "uptimeWeek": "11.82%",
+    "uptimeMonth": "79.62%",
+    "uptimeYear": "98.23%",
     "time": 1098,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1177,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-07-12": 1435,
+      "2025-07-13": 140,
+      "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -136,7 +138,7 @@
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.02%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "99.45%",
     "time": 427,
     "timeDay": 419,
@@ -344,7 +346,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.30%",
+    "uptimeYear": "89.33%",
     "time": 297,
     "timeDay": 182,
     "timeWeek": 202,
@@ -389,8 +391,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   },
   {
@@ -1088,7 +1089,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
     "status": "up",
-    "uptime": "92.05%",
+    "uptime": "92.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
