@@ -29,9 +29,9 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "92.37%",
-    "uptimeWeek": "94.09%",
-    "uptimeMonth": "93.40%",
+    "uptimeDay": "92.80%",
+    "uptimeWeek": "94.15%",
+    "uptimeMonth": "93.37%",
     "uptimeYear": "99.45%",
     "time": 2740,
     "timeDay": 2644,
@@ -39,7 +39,7 @@
     "timeMonth": 2638,
     "timeYear": 2727,
     "dailyMinutesDown": {
-      "2025-07-14": 109,
+      "2025-07-14": 103,
       "2025-07-13": 44,
       "2025-07-12": 58,
       "2025-07-11": 144,
@@ -68,7 +68,7 @@
       "2025-06-18": 72,
       "2025-06-17": 178,
       "2025-06-16": 43,
-      "2025-06-15": 15
+      "2025-06-15": 34
     }
   },
   {
@@ -77,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "98.93%",
+    "uptime": "98.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.37%",
-    "uptimeYear": "97.71%",
+    "uptimeMonth": "73.07%",
+    "uptimeYear": "97.69%",
     "time": 1099,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1171,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-07-14": 1439,
+      "2025-07-15": 129,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -347,7 +348,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.85%",
+    "uptimeYear": "89.87%",
     "time": 296,
     "timeDay": 91,
     "timeWeek": 189,
@@ -390,8 +391,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   },
   {
