@@ -1,7 +1,7 @@
 url: https://www.patientadvocate.org/
-status: up
-code: 200
-responseTime: 1378
-lastUpdated: 2025-07-17T13:10:51.634Z
+status: down
+code: 503
+responseTime: 376
+lastUpdated: 2025-07-17T21:58:43.590Z
 startTime: 2023-08-03T17:38:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
