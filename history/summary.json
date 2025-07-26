@@ -29,9 +29,9 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "91.45%",
-    "uptimeMonth": "93.45%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "91.56%",
+    "uptimeMonth": "93.43%",
     "uptimeYear": "99.45%",
     "time": 2737,
     "timeDay": 2574,
@@ -39,7 +39,7 @@
     "timeMonth": 2646,
     "timeYear": 2724,
     "dailyMinutesDown": {
-      "2025-07-26": 29,
+      "2025-07-26": 17,
       "2025-07-25": 71,
       "2025-07-24": 84,
       "2025-07-23": 161,
@@ -66,7 +66,7 @@
       "2025-07-02": 17,
       "2025-07-01": 151,
       "2025-06-30": 51,
-      "2025-06-29": 35
+      "2025-06-29": 58
     }
   },
   {
@@ -75,10 +75,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "97.44%",
+    "uptime": "97.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "34.03%",
+    "uptimeMonth": "34.02%",
     "uptimeYear": "94.43%",
     "time": 1104,
     "timeDay": 0,
@@ -86,7 +86,7 @@
     "timeMonth": 1216,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-07-26": 1390,
+      "2025-07-26": 1396,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -1144,19 +1144,19 @@
     "url": "https://www.patientadvocate.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "77.21%",
-    "uptimeWeek": "87.98%",
+    "uptimeDay": "77.11%",
+    "uptimeWeek": "87.97%",
     "uptimeMonth": "93.65%",
     "uptimeYear": "99.36%",
     "time": 720,
-    "timeDay": 542,
-    "timeWeek": 538,
-    "timeMonth": 594,
+    "timeDay": 534,
+    "timeWeek": 537,
+    "timeMonth": 593,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2025-07-26": 328,
+      "2025-07-26": 330,
       "2025-07-25": 229,
       "2025-07-24": 136,
       "2025-07-23": 101,
@@ -1187,7 +1187,7 @@
       "2025-06-20": 41,
       "2025-06-19": 47,
       "2025-06-18": 148,
-      "2025-06-17": 36
+      "2025-06-17": 19
     }
   }
 ]
