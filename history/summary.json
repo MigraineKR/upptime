@@ -28,18 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "89.39%",
-    "uptimeWeek": "88.41%",
-    "uptimeMonth": "92.90%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.75%",
+    "uptimeDay": "90.15%",
+    "uptimeWeek": "88.52%",
+    "uptimeMonth": "92.83%",
+    "uptimeYear": "99.40%",
     "time": 2736,
-    "timeDay": 2669,
+    "timeDay": 2610,
     "timeWeek": 2675,
     "timeMonth": 2668,
     "timeYear": 2723,
     "dailyMinutesDown": {
-      "2025-08-01": 152,
+      "2025-08-01": 141,
       "2025-07-31": 97,
       "2025-07-30": 359,
       "2025-07-29": 168,
@@ -62,7 +62,7 @@
       "2025-07-12": 58,
       "2025-07-11": 144,
       "2025-07-10": 157,
-      "2025-07-09": 20
+      "2025-07-09": 60
     }
   },
   {
@@ -74,7 +74,7 @@
     "uptime": "96.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "14.43%",
+    "uptimeMonth": "14.42%",
     "uptimeYear": "92.79%",
     "time": 1107,
     "timeDay": 0,
@@ -82,7 +82,7 @@
     "timeMonth": 1235,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-08-01": 1374,
+      "2025-08-01": 1381,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -1152,19 +1152,19 @@
     "url": "https://www.patientadvocate.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "87.19%",
-    "uptimeMonth": "92.69%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "92.66%",
+    "uptimeWeek": "87.17%",
+    "uptimeMonth": "92.72%",
     "uptimeYear": "99.39%",
-    "time": 718,
-    "timeDay": 631,
-    "timeWeek": 664,
-    "timeMonth": 616,
-    "timeYear": 710,
+    "time": 717,
+    "timeDay": 612,
+    "timeWeek": 661,
+    "timeMonth": 615,
+    "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-08-01": 105,
+      "2025-08-01": 107,
       "2025-07-31": 159,
       "2025-07-30": 244,
       "2025-07-29": 140,
@@ -1181,8 +1181,7 @@
       "2025-07-18": 253,
       "2025-07-17": 106,
       "2025-07-16": 290,
-      "2025-07-15": 159,
-      "2025-07-13": 17
+      "2025-07-15": 159
     }
   }
 ]
