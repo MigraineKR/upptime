@@ -28,18 +28,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "89.72%",
-    "uptimeWeek": "88.45%",
-    "uptimeMonth": "92.91%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.75%",
+    "uptimeDay": "90.15%",
+    "uptimeWeek": "88.52%",
+    "uptimeMonth": "92.83%",
+    "uptimeYear": "99.40%",
     "time": 2736,
     "timeDay": 2572,
     "timeWeek": 2669,
     "timeMonth": 2666,
     "timeYear": 2723,
     "dailyMinutesDown": {
-      "2025-08-01": 147,
+      "2025-08-01": 141,
       "2025-07-31": 97,
       "2025-07-30": 359,
       "2025-07-29": 168,
@@ -62,7 +62,7 @@
       "2025-07-12": 58,
       "2025-07-11": 144,
       "2025-07-10": 157,
-      "2025-07-09": 20
+      "2025-07-09": 60
     }
   },
   {
@@ -71,18 +71,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "96.70%",
+    "uptime": "96.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "14.29%",
-    "uptimeYear": "92.78%",
+    "uptimeMonth": "14.15%",
+    "uptimeYear": "92.77%",
     "time": 1107,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1250,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-08-01": 1436,
+      "2025-08-02": 60,
+      "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -371,7 +372,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.78%",
+    "uptimeYear": "94.79%",
     "time": 287,
     "timeDay": 132,
     "timeWeek": 205,
@@ -396,8 +397,7 @@
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
-      "2024-08-03": 1440,
-      "2024-08-02": 1440
+      "2024-08-03": 1440
     }
   },
   {
@@ -1152,18 +1152,19 @@
     "url": "https://www.patientadvocate.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "87.19%",
-    "uptimeMonth": "92.69%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "92.66%",
+    "uptimeWeek": "87.77%",
+    "uptimeMonth": "92.72%",
     "uptimeYear": "99.39%",
     "time": 717,
-    "timeDay": 584,
+    "timeDay": 570,
     "timeWeek": 657,
-    "timeMonth": 614,
+    "timeMonth": 613,
     "timeYear": 708,
     "dailyMinutesDown": {
+      "2025-08-02": 2,
       "2025-08-01": 105,
       "2025-07-31": 159,
       "2025-07-30": 244,
@@ -1181,8 +1182,7 @@
       "2025-07-18": 253,
       "2025-07-17": 106,
       "2025-07-16": 290,
-      "2025-07-15": 159,
-      "2025-07-13": 17
+      "2025-07-15": 159
     }
   }
 ]
