@@ -27,11 +27,11 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "76.84%",
-    "uptimeWeek": "86.46%",
-    "uptimeMonth": "92.67%",
+    "uptimeDay": "78.18%",
+    "uptimeWeek": "86.45%",
+    "uptimeMonth": "92.71%",
     "uptimeYear": "99.39%",
     "time": 2730,
     "timeDay": 2537,
@@ -39,7 +39,7 @@
     "timeMonth": 2663,
     "timeYear": 2721,
     "dailyMinutesDown": {
-      "2025-08-03": 227,
+      "2025-08-03": 228,
       "2025-08-02": 158,
       "2025-08-01": 141,
       "2025-07-31": 97,
@@ -62,7 +62,7 @@
       "2025-07-14": 103,
       "2025-07-13": 44,
       "2025-07-12": 58,
-      "2025-07-11": 48
+      "2025-07-11": 29
     }
   },
   {
@@ -74,7 +74,7 @@
     "uptime": "96.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.49%",
+    "uptimeMonth": "9.44%",
     "uptimeYear": "92.38%",
     "time": 1108,
     "timeDay": 0,
@@ -82,7 +82,7 @@
     "timeMonth": 1376,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-08-03": 661,
+      "2025-08-03": 680,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -1154,17 +1154,17 @@
     "slug": "patientadvocate-org",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "85.43%",
-    "uptimeWeek": "87.72%",
-    "uptimeMonth": "92.75%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "85.89%",
+    "uptimeWeek": "87.78%",
+    "uptimeMonth": "92.73%",
+    "uptimeYear": "99.39%",
     "time": 716,
     "timeDay": 754,
     "timeWeek": 712,
     "timeMonth": 624,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-08-03": 57,
+      "2025-08-03": 50,
       "2025-08-02": 281,
       "2025-08-01": 105,
       "2025-07-31": 159,
@@ -1182,7 +1182,7 @@
       "2025-07-19": 206,
       "2025-07-18": 253,
       "2025-07-17": 106,
-      "2025-07-16": 98
+      "2025-07-16": 115
     }
   }
 ]
