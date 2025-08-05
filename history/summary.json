@@ -29,9 +29,9 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "87.08%",
-    "uptimeWeek": "86.33%",
-    "uptimeMonth": "92.46%",
+    "uptimeDay": "87.80%",
+    "uptimeWeek": "86.44%",
+    "uptimeMonth": "92.39%",
     "uptimeYear": "99.37%",
     "time": 2735,
     "timeDay": 2590,
@@ -39,7 +39,7 @@
     "timeMonth": 2668,
     "timeYear": 2722,
     "dailyMinutesDown": {
-      "2025-08-05": 186,
+      "2025-08-05": 176,
       "2025-08-04": 141,
       "2025-08-03": 287,
       "2025-08-02": 158,
@@ -60,7 +60,7 @@
       "2025-07-18": 99,
       "2025-07-17": 72,
       "2025-07-16": 125,
-      "2025-07-15": 148
+      "2025-07-15": 190
     }
   },
   {
@@ -72,7 +72,7 @@
     "uptime": "96.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.25%",
+    "uptimeMonth": "1.22%",
     "uptimeYear": "91.69%",
     "time": 1109,
     "timeDay": 0,
@@ -80,7 +80,7 @@
     "timeMonth": 0,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-08-05": 1391,
+      "2025-08-05": 1401,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
@@ -525,16 +525,16 @@
     "status": "down",
     "uptime": "99.63%",
     "uptimeDay": "2.16%",
-    "uptimeWeek": "68.51%",
-    "uptimeMonth": "92.75%",
-    "uptimeYear": "99.27%",
+    "uptimeWeek": "68.40%",
+    "uptimeMonth": "92.73%",
+    "uptimeYear": "99.26%",
     "time": 1180,
     "timeDay": 601,
     "timeWeek": 842,
     "timeMonth": 1034,
     "timeYear": 1206,
     "dailyMinutesDown": {
-      "2025-08-05": 1361,
+      "2025-08-05": 1372,
       "2025-08-04": 1411,
       "2025-08-03": 403,
       "2025-07-04": 16,
@@ -1153,19 +1153,19 @@
     "url": "https://www.patientadvocate.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "67.25%",
-    "uptimeWeek": "85.01%",
-    "uptimeMonth": "92.38%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "67.85%",
+    "uptimeWeek": "84.99%",
+    "uptimeMonth": "92.44%",
     "uptimeYear": "99.37%",
-    "time": 723,
-    "timeDay": 967,
-    "timeWeek": 827,
+    "time": 722,
+    "timeDay": 932,
+    "timeWeek": 823,
     "timeMonth": 646,
-    "timeYear": 716,
+    "timeYear": 715,
     "dailyMinutesDown": {
-      "2025-08-05": 425,
+      "2025-08-05": 427,
       "2025-08-04": 157,
       "2025-08-03": 141,
       "2025-08-02": 281,
@@ -1182,7 +1182,7 @@
       "2025-07-22": 177,
       "2025-07-21": 153,
       "2025-07-20": 86,
-      "2025-07-19": 159
+      "2025-07-19": 134
     }
   }
 ]
