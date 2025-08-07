@@ -27,19 +27,19 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "92.62%",
+    "uptimeDay": "92.57%",
     "uptimeWeek": "88.19%",
-    "uptimeMonth": "92.43%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "99.37%",
     "time": 2734,
     "timeDay": 2527,
     "timeWeek": 2633,
-    "timeMonth": 2658,
+    "timeMonth": 2659,
     "timeYear": 2721,
     "dailyMinutesDown": {
-      "2025-08-07": 39,
+      "2025-08-07": 40,
       "2025-08-06": 180,
       "2025-08-05": 176,
       "2025-08-04": 141,
@@ -61,7 +61,7 @@
       "2025-07-19": 97,
       "2025-07-18": 99,
       "2025-07-17": 72,
-      "2025-07-16": 77
+      "2025-07-16": 58
     }
   },
   {
@@ -81,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-08-07": 692,
+      "2025-08-07": 705,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
@@ -525,7 +525,7 @@
     "slug": "migraine-ie",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "6.89%",
+    "uptimeDay": "7.84%",
     "uptimeWeek": "48.05%",
     "uptimeMonth": "88.05%",
     "uptimeYear": "98.87%",
