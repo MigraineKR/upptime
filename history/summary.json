@@ -27,11 +27,11 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "94.42%",
-    "uptimeWeek": "91.41%",
-    "uptimeMonth": "92.43%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "94.37%",
+    "uptimeWeek": "91.40%",
+    "uptimeMonth": "92.50%",
     "uptimeYear": "99.37%",
     "time": 2729,
     "timeDay": 2515,
@@ -39,7 +39,7 @@
     "timeMonth": 2616,
     "timeYear": 2716,
     "dailyMinutesDown": {
-      "2025-08-13": 80,
+      "2025-08-13": 81,
       "2025-08-12": 27,
       "2025-08-11": 164,
       "2025-08-10": 55,
@@ -61,7 +61,7 @@
       "2025-07-25": 71,
       "2025-07-24": 84,
       "2025-07-23": 161,
-      "2025-07-22": 61
+      "2025-07-22": 29
     }
   },
   {
@@ -70,18 +70,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "95.30%",
+    "uptime": "95.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.56%",
+    "uptimeYear": "89.55%",
     "time": 1112,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-08-13": 1079,
+      "2025-08-13": 1109,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -526,7 +526,7 @@
     "status": "up",
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.54%",
+    "uptimeWeek": "90.84%",
     "uptimeMonth": "88.05%",
     "uptimeYear": "98.87%",
     "time": 1186,
@@ -1158,17 +1158,17 @@
     "slug": "patientadvocate-org",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "78.05%",
-    "uptimeWeek": "87.40%",
-    "uptimeMonth": "91.64%",
+    "uptimeDay": "79.86%",
+    "uptimeWeek": "87.46%",
+    "uptimeMonth": "91.61%",
     "uptimeYear": "99.30%",
     "time": 717,
-    "timeDay": 603,
+    "timeDay": 591,
     "timeWeek": 645,
     "timeMonth": 645,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-08-13": 289,
+      "2025-08-13": 282,
       "2025-08-12": 203,
       "2025-08-11": 188,
       "2025-08-10": 185,
@@ -1187,7 +1187,7 @@
       "2025-07-28": 190,
       "2025-07-27": 109,
       "2025-07-26": 346,
-      "2025-07-25": 21
+      "2025-07-25": 38
     }
   }
 ]
