@@ -29,7 +29,7 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "89.96%",
+    "uptimeDay": "91.00%",
     "uptimeWeek": "93.33%",
     "uptimeMonth": "92.34%",
     "uptimeYear": "99.36%",
@@ -81,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-08-16": 1011,
+      "2025-08-16": 1034,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
@@ -1157,19 +1157,19 @@
     "url": "https://www.patientadvocate.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "89.73%",
-    "uptimeWeek": "87.40%",
-    "uptimeMonth": "92.21%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "89.62%",
+    "uptimeWeek": "87.39%",
+    "uptimeMonth": "92.29%",
+    "uptimeYear": "99.36%",
     "time": 715,
-    "timeDay": 794,
-    "timeWeek": 679,
-    "timeMonth": 666,
+    "timeDay": 779,
+    "timeWeek": 677,
+    "timeMonth": 665,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-08-16": 148,
+      "2025-08-16": 150,
       "2025-08-15": 60,
       "2025-08-14": 122,
       "2025-08-13": 322,
@@ -1188,7 +1188,7 @@
       "2025-07-31": 159,
       "2025-07-30": 244,
       "2025-07-29": 140,
-      "2025-07-28": 55
+      "2025-07-28": 17
     }
   }
 ]
