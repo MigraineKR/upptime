@@ -30,12 +30,12 @@
     "status": "up",
     "uptime": "99.75%",
     "uptimeDay": "88.48%",
-    "uptimeWeek": "92.17%",
+    "uptimeWeek": "92.30%",
     "uptimeMonth": "92.53%",
     "uptimeYear": "99.38%",
     "time": 2725,
-    "timeDay": 2428,
-    "timeWeek": 2565,
+    "timeDay": 2419,
+    "timeWeek": 2561,
     "timeMonth": 2595,
     "timeYear": 2712,
     "dailyMinutesDown": {
@@ -81,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-08-18": 434,
+      "2025-08-18": 466,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -1159,18 +1159,19 @@
     "url": "https://www.patientadvocate.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "88.96%",
-    "uptimeWeek": "85.91%",
-    "uptimeMonth": "91.87%",
-    "uptimeYear": "99.32%",
-    "time": 714,
-    "timeDay": 683,
-    "timeWeek": 672,
-    "timeMonth": 667,
+    "uptimeDay": "89.88%",
+    "uptimeWeek": "86.07%",
+    "uptimeMonth": "91.90%",
+    "uptimeYear": "99.33%",
+    "time": 713,
+    "timeDay": 684,
+    "timeWeek": 670,
+    "timeMonth": 666,
     "timeYear": 708,
     "dailyMinutesDown": {
+      "2025-08-18": 2,
       "2025-08-17": 445,
       "2025-08-16": 198,
       "2025-08-15": 60,
@@ -1189,7 +1190,7 @@
       "2025-08-02": 281,
       "2025-08-01": 105,
       "2025-07-31": 159,
-      "2025-07-30": 90
+      "2025-07-30": 75
     }
   }
 ]
