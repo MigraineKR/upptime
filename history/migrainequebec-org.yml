@@ -1,7 +1,7 @@
 url: https://migrainequebec.org/
-status: up
-code: 200
-responseTime: 1670
-lastUpdated: 2025-08-18T23:08:47.960Z
+status: down
+code: 504
+responseTime: 10623
+lastUpdated: 2025-08-19T06:58:34.475Z
 startTime: 2023-08-03T17:21:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
