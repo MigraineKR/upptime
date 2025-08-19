@@ -29,17 +29,17 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "96.22%",
-    "uptimeWeek": "92.72%",
-    "uptimeMonth": "92.69%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "92.81%",
+    "uptimeMonth": "92.65%",
     "uptimeYear": "99.39%",
     "time": 2719,
-    "timeDay": 2358,
+    "timeDay": 2470,
     "timeWeek": 2541,
     "timeMonth": 2590,
     "timeYear": 2711,
     "dailyMinutesDown": {
-      "2025-08-19": 55,
+      "2025-08-19": 46,
       "2025-08-18": 89,
       "2025-08-17": 145,
       "2025-08-16": 129,
@@ -60,7 +60,8 @@
       "2025-08-01": 141,
       "2025-07-31": 97,
       "2025-07-30": 359,
-      "2025-07-29": 168
+      "2025-07-29": 168,
+      "2025-07-28": 28
     }
   },
   {
@@ -80,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-08-19": 1300,
+      "2025-08-19": 1307,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
@@ -390,7 +391,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.68%",
+    "uptimeYear": "99.69%",
     "time": 282,
     "timeDay": 716,
     "timeWeek": 294,
@@ -1161,19 +1162,19 @@
     "url": "https://www.patientadvocate.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "88.26%",
-    "uptimeWeek": "86.43%",
-    "uptimeMonth": "91.95%",
+    "uptimeDay": "88.13%",
+    "uptimeWeek": "86.42%",
+    "uptimeMonth": "92.01%",
     "uptimeYear": "99.33%",
     "time": 715,
-    "timeDay": 788,
+    "timeDay": 776,
     "timeWeek": 704,
     "timeMonth": 668,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-08-19": 169,
+      "2025-08-19": 171,
       "2025-08-18": 45,
       "2025-08-17": 445,
       "2025-08-16": 198,
@@ -1191,7 +1192,7 @@
       "2025-08-04": 157,
       "2025-08-03": 141,
       "2025-08-02": 281,
-      "2025-08-01": 105
+      "2025-08-01": 79
     }
   }
 ]
