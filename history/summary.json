@@ -30,7 +30,7 @@
     "status": "up",
     "uptime": "99.75%",
     "uptimeDay": "98.44%",
-    "uptimeWeek": "92.82%",
+    "uptimeWeek": "92.85%",
     "uptimeMonth": "92.66%",
     "uptimeYear": "99.39%",
     "time": 2719,
@@ -81,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-08-20": 522,
+      "2025-08-20": 541,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
@@ -510,19 +510,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/migreeni.org.ico",
     "slug": "migreeni-org",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1630,
     "timeDay": 1270,
     "timeWeek": 1719,
     "timeMonth": 1622,
     "timeYear": 1677,
-    "dailyMinutesDown": {
-      "2025-07-28": 28
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "migraine.ie",
@@ -1162,19 +1160,19 @@
     "url": "https://www.patientadvocate.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "94.25%",
-    "uptimeWeek": "88.67%",
-    "uptimeMonth": "91.97%",
-    "uptimeYear": "99.33%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "94.08%",
+    "uptimeWeek": "88.65%",
+    "uptimeMonth": "92.02%",
+    "uptimeYear": "99.34%",
     "time": 714,
-    "timeDay": 617,
-    "timeWeek": 694,
+    "timeDay": 608,
+    "timeWeek": 692,
     "timeMonth": 667,
-    "timeYear": 708,
+    "timeYear": 707,
     "dailyMinutesDown": {
-      "2025-08-20": 19,
+      "2025-08-20": 21,
       "2025-08-19": 169,
       "2025-08-18": 45,
       "2025-08-17": 445,
@@ -1193,7 +1191,7 @@
       "2025-08-04": 157,
       "2025-08-03": 141,
       "2025-08-02": 281,
-      "2025-08-01": 79
+      "2025-08-01": 52
     }
   }
 ]
