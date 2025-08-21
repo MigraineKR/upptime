@@ -74,14 +74,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.56%",
+    "uptimeYear": "87.55%",
     "time": 1116,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-08-21": 69,
+      "2025-08-21": 112,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
@@ -151,7 +151,7 @@
     "timeDay": 1094,
     "timeWeek": 979,
     "timeMonth": 945,
-    "timeYear": 855,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2025-06-30": 854,
       "2025-06-29": 283,
@@ -172,7 +172,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
-    "time": 432,
+    "time": 440,
     "timeDay": 1325,
     "timeWeek": 731,
     "timeMonth": 574,
@@ -205,7 +205,7 @@
     "timeDay": 674,
     "timeWeek": 659,
     "timeMonth": 602,
-    "timeYear": 483,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2025-07-16": 43,
       "2024-09-16": 17
@@ -354,7 +354,7 @@
     "timeDay": 649,
     "timeWeek": 927,
     "timeMonth": 1078,
-    "timeYear": 1082,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2025-06-18": 109,
       "2025-06-15": 17,
@@ -398,7 +398,7 @@
     "timeDay": 76,
     "timeWeek": 266,
     "timeMonth": 236,
-    "timeYear": 204,
+    "timeYear": 205,
     "dailyMinutesDown": {}
   },
   {
@@ -416,7 +416,7 @@
     "timeDay": 1419,
     "timeWeek": 1781,
     "timeMonth": 1860,
-    "timeYear": 1913,
+    "timeYear": 1914,
     "dailyMinutesDown": {
       "2025-08-17": 35,
       "2025-08-01": 22,
@@ -478,7 +478,7 @@
     "timeDay": 554,
     "timeWeek": 453,
     "timeMonth": 491,
-    "timeYear": 1210,
+    "timeYear": 1208,
     "dailyMinutesDown": {
       "2025-07-10": 210
     }
@@ -498,7 +498,7 @@
     "timeDay": 1693,
     "timeWeek": 2487,
     "timeMonth": 1822,
-    "timeYear": 1306,
+    "timeYear": 1309,
     "dailyMinutesDown": {
       "2025-08-19": 75
     }
@@ -518,7 +518,7 @@
     "timeDay": 1631,
     "timeWeek": 1714,
     "timeMonth": 1606,
-    "timeYear": 1678,
+    "timeYear": 1677,
     "dailyMinutesDown": {
       "2025-07-28": 28
     }
@@ -530,17 +530,17 @@
     "slug": "migraine-ie",
     "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "83.44%",
-    "uptimeWeek": "97.63%",
-    "uptimeMonth": "87.50%",
-    "uptimeYear": "98.83%",
+    "uptimeDay": "80.47%",
+    "uptimeWeek": "97.21%",
+    "uptimeMonth": "87.40%",
+    "uptimeYear": "98.82%",
     "time": 1193,
     "timeDay": 941,
     "timeWeek": 1207,
     "timeMonth": 1032,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2025-08-21": 70,
+      "2025-08-21": 113,
       "2025-08-20": 169,
       "2025-08-07": 614,
       "2025-08-06": 1399,
@@ -614,7 +614,7 @@
     "timeDay": 3566,
     "timeWeek": 2715,
     "timeMonth": 2674,
-    "timeYear": 1794,
+    "timeYear": 1795,
     "dailyMinutesDown": {
       "2025-07-05": 19,
       "2025-07-04": 16,
@@ -666,7 +666,7 @@
     "timeDay": 4129,
     "timeWeek": 3598,
     "timeMonth": 5407,
-    "timeYear": 5881,
+    "timeYear": 5876,
     "dailyMinutesDown": {
       "2025-07-21": 25,
       "2025-07-08": 19,
@@ -785,7 +785,7 @@
     "timeDay": 177,
     "timeWeek": 288,
     "timeMonth": 289,
-    "timeYear": 299,
+    "timeYear": 298,
     "dailyMinutesDown": {}
   },
   {
@@ -803,7 +803,7 @@
     "timeDay": 784,
     "timeWeek": 793,
     "timeMonth": 737,
-    "timeYear": 767,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2025-07-31": 30,
       "2025-05-19": 77,
@@ -916,7 +916,7 @@
     "timeDay": 153,
     "timeWeek": 127,
     "timeMonth": 107,
-    "timeYear": 142,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2025-05-15": 22
     }
@@ -976,7 +976,7 @@
     "timeDay": 572,
     "timeWeek": 622,
     "timeMonth": 549,
-    "timeYear": 593,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2025-07-13": 25,
       "2025-06-29": 22,
@@ -1132,7 +1132,7 @@
     "timeDay": 823,
     "timeWeek": 865,
     "timeMonth": 855,
-    "timeYear": 4785,
+    "timeYear": 4786,
     "dailyMinutesDown": {
       "2025-08-20": 16,
       "2025-06-30": 20,
@@ -1166,17 +1166,17 @@
     "slug": "patientadvocate-org",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "90.33%",
-    "uptimeWeek": "88.32%",
-    "uptimeMonth": "92.17%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "87.36%",
+    "uptimeWeek": "87.90%",
+    "uptimeMonth": "92.07%",
+    "uptimeYear": "99.34%",
     "time": 711,
     "timeDay": 484,
     "timeWeek": 683,
     "timeMonth": 664,
     "timeYear": 704,
     "dailyMinutesDown": {
-      "2025-08-21": 2,
+      "2025-08-21": 45,
       "2025-08-20": 138,
       "2025-08-19": 169,
       "2025-08-18": 45,
