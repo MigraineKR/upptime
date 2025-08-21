@@ -27,19 +27,19 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "90.11%",
-    "uptimeWeek": "92.42%",
-    "uptimeMonth": "92.69%",
-    "uptimeYear": "99.39%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "90.06%",
+    "uptimeWeek": "92.41%",
+    "uptimeMonth": "92.75%",
+    "uptimeYear": "99.40%",
     "time": 2720,
     "timeDay": 2645,
     "timeWeek": 2547,
     "timeMonth": 2595,
     "timeYear": 2709,
     "dailyMinutesDown": {
-      "2025-08-21": 22,
+      "2025-08-21": 23,
       "2025-08-20": 120,
       "2025-08-19": 46,
       "2025-08-18": 89,
@@ -62,7 +62,7 @@
       "2025-08-01": 141,
       "2025-07-31": 97,
       "2025-07-30": 359,
-      "2025-07-29": 34
+      "2025-07-29": 7
     }
   },
   {
@@ -82,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 1198,
     "dailyMinutesDown": {
-      "2025-08-21": 268,
+      "2025-08-21": 285,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
@@ -531,9 +531,9 @@
     "slug": "migraine-ie",
     "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "69.67%",
-    "uptimeWeek": "95.67%",
-    "uptimeMonth": "87.05%",
+    "uptimeDay": "68.48%",
+    "uptimeWeek": "95.50%",
+    "uptimeMonth": "87.01%",
     "uptimeYear": "98.79%",
     "time": 1193,
     "timeDay": 941,
@@ -541,7 +541,7 @@
     "timeMonth": 1032,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2025-08-21": 268,
+      "2025-08-21": 285,
       "2025-08-20": 169,
       "2025-08-07": 614,
       "2025-08-06": 1399,
@@ -1165,19 +1165,19 @@
     "url": "https://www.patientadvocate.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "77.14%",
-    "uptimeWeek": "86.44%",
-    "uptimeMonth": "91.82%",
+    "uptimeDay": "77.01%",
+    "uptimeWeek": "86.42%",
+    "uptimeMonth": "91.88%",
     "uptimeYear": "99.32%",
     "time": 711,
-    "timeDay": 476,
-    "timeWeek": 679,
+    "timeDay": 474,
+    "timeWeek": 677,
     "timeMonth": 663,
-    "timeYear": 704,
+    "timeYear": 703,
     "dailyMinutesDown": {
-      "2025-08-21": 192,
+      "2025-08-21": 194,
       "2025-08-20": 138,
       "2025-08-19": 169,
       "2025-08-18": 45,
@@ -1196,7 +1196,7 @@
       "2025-08-05": 443,
       "2025-08-04": 157,
       "2025-08-03": 141,
-      "2025-08-02": 112
+      "2025-08-02": 86
     }
   }
 ]
