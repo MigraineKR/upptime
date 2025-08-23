@@ -29,9 +29,9 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "93.56%",
-    "uptimeMonth": "93.18%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "93.62%",
+    "uptimeMonth": "93.13%",
     "uptimeYear": "99.43%",
     "time": 2720,
     "timeDay": 2395,
@@ -39,7 +39,7 @@
     "timeMonth": 2572,
     "timeYear": 2708,
     "dailyMinutesDown": {
-      "2025-08-23": 45,
+      "2025-08-23": 39,
       "2025-08-22": 16,
       "2025-08-21": 170,
       "2025-08-20": 120,
@@ -62,7 +62,7 @@
       "2025-08-03": 287,
       "2025-08-02": 158,
       "2025-08-01": 141,
-      "2025-07-31": 68
+      "2025-07-31": 97
     }
   },
   {
@@ -82,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2025-08-23": 588,
+      "2025-08-23": 595,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
@@ -536,8 +536,8 @@
     "status": "down",
     "uptime": "99.11%",
     "uptimeDay": "2.79%",
-    "uptimeWeek": "64.31%",
-    "uptimeMonth": "79.83%",
+    "uptimeWeek": "64.25%",
+    "uptimeMonth": "79.82%",
     "uptimeYear": "98.19%",
     "time": 1194,
     "timeDay": 611,
@@ -545,7 +545,7 @@
     "timeMonth": 977,
     "timeYear": 1197,
     "dailyMinutesDown": {
-      "2025-08-23": 571,
+      "2025-08-23": 577,
       "2025-08-22": 1417,
       "2025-08-21": 1440,
       "2025-08-20": 169,
@@ -1170,19 +1170,19 @@
     "url": "https://www.patientadvocate.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "92.71%",
-    "uptimeWeek": "84.89%",
-    "uptimeMonth": "92.56%",
+    "uptimeDay": "92.59%",
+    "uptimeWeek": "84.93%",
+    "uptimeMonth": "92.62%",
     "uptimeYear": "99.38%",
     "time": 703,
-    "timeDay": 548,
-    "timeWeek": 616,
-    "timeMonth": 658,
-    "timeYear": 697,
+    "timeDay": 552,
+    "timeWeek": 617,
+    "timeMonth": 657,
+    "timeYear": 696,
     "dailyMinutesDown": {
-      "2025-08-23": 18,
+      "2025-08-23": 20,
       "2025-08-22": 222,
       "2025-08-21": 363,
       "2025-08-20": 138,
@@ -1200,7 +1200,7 @@
       "2025-08-08": 80,
       "2025-08-07": 217,
       "2025-08-06": 125,
-      "2025-08-05": 120
+      "2025-08-05": 94
     }
   }
 ]
