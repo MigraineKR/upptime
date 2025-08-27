@@ -27,19 +27,19 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "89.95%",
-    "uptimeWeek": "91.58%",
-    "uptimeMonth": "93.32%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "89.91%",
+    "uptimeWeek": "91.57%",
+    "uptimeMonth": "93.39%",
+    "uptimeYear": "99.45%",
     "time": 2710,
     "timeDay": 2744,
     "timeWeek": 2615,
     "timeMonth": 2596,
     "timeYear": 2709,
     "dailyMinutesDown": {
-      "2025-08-27": 139,
+      "2025-08-27": 140,
       "2025-08-26": 187,
       "2025-08-25": 160,
       "2025-08-24": 69,
@@ -62,7 +62,7 @@
       "2025-08-07": 64,
       "2025-08-06": 180,
       "2025-08-05": 176,
-      "2025-08-04": 141
+      "2025-08-04": 109
     }
   },
   {
@@ -82,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 1199,
     "dailyMinutesDown": {
-      "2025-08-27": 1187,
+      "2025-08-27": 1194,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
@@ -419,17 +419,16 @@
     "slug": "headacheaustralia-org-au",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.49%",
     "time": 1866,
     "timeDay": 2550,
     "timeWeek": 1945,
     "timeMonth": 1891,
     "timeYear": 1919,
     "dailyMinutesDown": {
-      "2025-08-27": 6,
       "2025-08-17": 35,
       "2025-08-01": 22,
       "2025-06-14": 17,
@@ -471,7 +470,8 @@
       "2025-03-28": 65,
       "2025-03-27": 72,
       "2025-03-26": 4,
-      "2025-03-19": 21
+      "2025-03-19": 21,
+      "2025-03-18": 18
     }
   },
   {
@@ -1195,7 +1195,7 @@
     "time": 704,
     "timeDay": 1372,
     "timeWeek": 632,
-    "timeMonth": 683,
+    "timeMonth": 684,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2025-08-27": 21,
