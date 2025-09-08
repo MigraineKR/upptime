@@ -76,14 +76,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.58%",
+    "uptimeYear": "82.57%",
     "time": 1122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1199,
     "dailyMinutesDown": {
-      "2025-09-08": 352,
+      "2025-09-08": 385,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
@@ -432,9 +432,9 @@
     "slug": "headacheaustralia-org-au",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.48%",
     "time": 1867,
     "timeDay": 1610,
@@ -442,7 +442,6 @@
     "timeMonth": 1860,
     "timeYear": 1914,
     "dailyMinutesDown": {
-      "2025-09-08": 7,
       "2025-09-07": 80,
       "2025-09-06": 1,
       "2025-08-17": 35,
@@ -485,7 +484,8 @@
       "2025-04-01": 16,
       "2025-03-28": 65,
       "2025-03-27": 72,
-      "2025-03-26": 4
+      "2025-03-26": 4,
+      "2025-03-19": 21
     }
   },
   {
@@ -1204,19 +1204,19 @@
     "url": "https://www.patientadvocate.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "92.57%",
-    "uptimeYear": "99.38%",
-    "time": 695,
-    "timeDay": 590,
-    "timeWeek": 563,
-    "timeMonth": 639,
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "92.69%",
+    "uptimeYear": "99.39%",
+    "time": 694,
+    "timeDay": 547,
+    "timeWeek": 558,
+    "timeMonth": 638,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2025-09-08": 28,
+      "2025-09-08": 30,
       "2025-09-06": 38,
       "2025-09-04": 136,
       "2025-09-03": 32,
@@ -1238,7 +1238,7 @@
       "2025-08-16": 198,
       "2025-08-15": 60,
       "2025-08-14": 122,
-      "2025-08-13": 245
+      "2025-08-13": 193
     }
   }
 ]
