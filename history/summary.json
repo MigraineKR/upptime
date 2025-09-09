@@ -83,7 +83,7 @@
     "timeMonth": 0,
     "timeYear": 1199,
     "dailyMinutesDown": {
-      "2025-09-09": 534,
+      "2025-09-09": 542,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
@@ -216,10 +216,10 @@
     "url": "https://headaches.org/",
     "icon": "https://icons.duckduckgo.com/ip3/headaches.org.ico",
     "slug": "headaches-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "88.55%",
-    "uptimeWeek": "98.36%",
+    "uptimeDay": "88.48%",
+    "uptimeWeek": "98.35%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.96%",
     "time": 504,
@@ -228,7 +228,7 @@
     "timeMonth": 1057,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2025-09-09": 165,
+      "2025-09-09": 166,
       "2025-07-16": 43,
       "2024-09-16": 17
     }
@@ -1208,9 +1208,9 @@
     "slug": "patientadvocate-org",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "97.44%",
-    "uptimeMonth": "92.70%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "92.68%",
     "uptimeYear": "99.39%",
     "time": 694,
     "timeDay": 440,
@@ -1218,7 +1218,7 @@
     "timeMonth": 636,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2025-09-09": 2,
+      "2025-09-09": 10,
       "2025-09-08": 51,
       "2025-09-06": 38,
       "2025-09-04": 136,
