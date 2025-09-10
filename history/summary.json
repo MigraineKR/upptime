@@ -83,7 +83,7 @@
     "timeMonth": 0,
     "timeYear": 1199,
     "dailyMinutesDown": {
-      "2025-09-10": 1353,
+      "2025-09-10": 1362,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -559,9 +559,9 @@
     "slug": "migraine-ie",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "82.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "82.10%",
     "uptimeYear": "97.38%",
     "time": 1200,
     "timeDay": 1177,
@@ -569,7 +569,6 @@
     "timeMonth": 1112,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2025-09-10": 13,
       "2025-08-26": 536,
       "2025-08-25": 1440,
       "2025-08-24": 1414,
@@ -1209,18 +1208,19 @@
     "url": "https://www.patientadvocate.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.48%",
-    "uptimeMonth": "92.63%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "92.68%",
     "uptimeYear": "99.39%",
-    "time": 694,
-    "timeDay": 610,
-    "timeWeek": 548,
-    "timeMonth": 635,
-    "timeYear": 686,
+    "time": 693,
+    "timeDay": 519,
+    "timeWeek": 542,
+    "timeMonth": 633,
+    "timeYear": 685,
     "dailyMinutesDown": {
+      "2025-09-10": 2,
       "2025-09-09": 30,
       "2025-09-08": 51,
       "2025-09-06": 38,
@@ -1244,7 +1244,7 @@
       "2025-08-16": 198,
       "2025-08-15": 60,
       "2025-08-14": 122,
-      "2025-08-13": 166
+      "2025-08-13": 144
     }
   }
 ]
