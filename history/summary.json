@@ -84,7 +84,7 @@
     "timeMonth": 0,
     "timeYear": 1197,
     "dailyMinutesDown": {
-      "2025-09-25": 1178,
+      "2025-09-25": 1185,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
@@ -256,9 +256,9 @@
     "slug": "clusterbusters-org",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.89%",
     "time": 523,
     "timeDay": 357,
@@ -266,7 +266,6 @@
     "timeMonth": 402,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2025-09-25": 7,
       "2025-09-23": 58,
       "2025-09-07": 80,
       "2025-09-06": 2,
@@ -449,9 +448,9 @@
     "slug": "headacheaustralia-org-au",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.49%",
     "time": 1863,
     "timeDay": 1731,
@@ -459,7 +458,6 @@
     "timeMonth": 1844,
     "timeYear": 1913,
     "dailyMinutesDown": {
-      "2025-09-25": 7,
       "2025-09-23": 41,
       "2025-09-11": 16,
       "2025-09-07": 80,
@@ -502,7 +500,8 @@
       "2025-04-15": 71,
       "2025-04-03": 26,
       "2025-04-01": 16,
-      "2025-03-28": 65
+      "2025-03-28": 65,
+      "2025-03-27": 20
     }
   },
   {
@@ -574,7 +573,7 @@
     "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.18%",
+    "uptimeMonth": "98.19%",
     "uptimeYear": "97.38%",
     "time": 1200,
     "timeDay": 1023,
@@ -1183,7 +1182,7 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.82%",
     "time": 4245,
-    "timeDay": 964,
+    "timeDay": 952,
     "timeWeek": 962,
     "timeMonth": 975,
     "timeYear": 4508,
@@ -1224,19 +1223,19 @@
     "url": "https://www.patientadvocate.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "98.58%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "95.58%",
+    "uptimeWeek": "98.56%",
     "uptimeMonth": "96.38%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.37%",
     "time": 683,
-    "timeDay": 554,
-    "timeWeek": 533,
-    "timeMonth": 587,
-    "timeYear": 673,
+    "timeDay": 529,
+    "timeWeek": 528,
+    "timeMonth": 586,
+    "timeYear": 672,
     "dailyMinutesDown": {
-      "2025-09-25": 58,
+      "2025-09-25": 60,
       "2025-09-24": 22,
       "2025-09-23": 17,
       "2025-09-22": 30,
@@ -1268,7 +1267,7 @@
       "2025-08-19": 169,
       "2025-08-18": 45,
       "2025-08-17": 445,
-      "2025-08-16": 104
+      "2025-08-16": 84
     }
   }
 ]
