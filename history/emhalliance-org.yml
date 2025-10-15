@@ -1,7 +1,7 @@
 url: https://www.emhalliance.org/
-status: up
-code: 200
-responseTime: 12590
-lastUpdated: 2025-10-14T23:08:45.396Z
+status: down
+code: 503
+responseTime: 623
+lastUpdated: 2025-10-15T11:35:29.088Z
 startTime: 2023-08-03T17:16:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
