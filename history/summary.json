@@ -85,7 +85,7 @@
     "timeMonth": 0,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2025-10-20": 592,
+      "2025-10-20": 620,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -816,11 +816,11 @@
     "url": "https://chronicmigraineawareness.org/",
     "icon": "https://icons.duckduckgo.com/ip3/chronicmigraineawareness.org.ico",
     "slug": "chronicmigraineawareness-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "94.72%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "95.06%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 281,
     "timeDay": 309,
@@ -828,7 +828,7 @@
     "timeMonth": 395,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2025-10-20": 76,
+      "2025-10-20": 71,
       "2025-03-25": 16
     }
   },
@@ -1212,7 +1212,7 @@
     "uptime": "92.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.58%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.79%",
     "time": 3981,
     "timeDay": 990,
@@ -1263,17 +1263,16 @@
     "slug": "patientadvocate-org",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "97.54%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "99.42%",
     "time": 666,
     "timeDay": 408,
     "timeWeek": 477,
     "timeMonth": 513,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2025-10-20": 6,
       "2025-10-19": 18,
       "2025-10-18": 25,
       "2025-10-16": 87,
@@ -1315,7 +1314,7 @@
       "2025-08-22": 222,
       "2025-08-21": 363,
       "2025-08-20": 138,
-      "2025-08-19": 21
+      "2025-08-19": 42
     }
   }
 ]
