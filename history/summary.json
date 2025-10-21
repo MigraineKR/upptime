@@ -74,18 +74,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "87.89%",
+    "uptime": "87.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.86%",
+    "uptimeYear": "70.84%",
     "time": 1146,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2025-10-20": 1427,
+      "2025-10-21": 111,
+      "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -1263,9 +1264,9 @@
     "slug": "patientadvocate-org",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "98.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "99.42%",
     "time": 669,
     "timeDay": 1116,
@@ -1273,7 +1274,6 @@
     "timeMonth": 529,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2025-10-20": 7,
       "2025-10-19": 18,
       "2025-10-18": 25,
       "2025-10-16": 87,
@@ -1315,7 +1315,7 @@
       "2025-08-22": 222,
       "2025-08-21": 363,
       "2025-08-20": 138,
-      "2025-08-19": 21
+      "2025-08-19": 42
     }
   }
 ]
