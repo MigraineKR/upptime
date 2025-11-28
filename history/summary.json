@@ -97,7 +97,7 @@
     "timeMonth": 0,
     "timeYear": 1216,
     "dailyMinutesDown": {
-      "2025-11-28": 356,
+      "2025-11-28": 378,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -540,11 +540,11 @@
     "url": "https://headacheaustralia.org.au/",
     "icon": "https://icons.duckduckgo.com/ip3/headacheaustralia.org.au.ico",
     "slug": "headacheaustralia-org-au",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "98.77%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.76%",
     "uptimeYear": "99.49%",
     "time": 1871,
     "timeDay": 1716,
@@ -552,6 +552,7 @@
     "timeMonth": 1783,
     "timeYear": 1903,
     "dailyMinutesDown": {
+      "2025-11-28": 2,
       "2025-11-27": 19,
       "2025-11-26": 25,
       "2025-11-25": 56,
@@ -602,8 +603,7 @@
       "2025-04-25": 85,
       "2025-04-24": 33,
       "2025-04-23": 133,
-      "2025-04-22": 63,
-      "2025-04-21": 16
+      "2025-04-22": 63
     }
   },
   {
@@ -892,7 +892,7 @@
     "slug": "chronicmigraineawareness-org",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.34%",
+    "uptimeDay": "99.84%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.95%",
@@ -1291,9 +1291,9 @@
     "slug": "worldheadachesociety-org",
     "status": "down",
     "uptime": "93.22%",
-    "uptimeDay": "97.44%",
-    "uptimeWeek": "97.39%",
-    "uptimeMonth": "98.00%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "97.95%",
     "uptimeYear": "99.59%",
     "time": 3661,
     "timeDay": 1897,
@@ -1301,7 +1301,7 @@
     "timeMonth": 1072,
     "timeYear": 3804,
     "dailyMinutesDown": {
-      "2025-11-28": 3,
+      "2025-11-28": 24,
       "2025-11-27": 34,
       "2025-11-25": 186,
       "2025-11-24": 20,
