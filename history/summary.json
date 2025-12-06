@@ -88,18 +88,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "83.52%",
+    "uptime": "83.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.26%",
+    "uptimeYear": "58.25%",
     "time": 1183,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1223,
     "dailyMinutesDown": {
-      "2025-12-05": 1436,
+      "2025-12-06": 47,
+      "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
       "2025-12-02": 1440,
@@ -343,19 +344,20 @@
     "url": "https://clusterbusters.org/",
     "icon": "https://icons.duckduckgo.com/ip3/clusterbusters.org.ico",
     "slug": "clusterbusters-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "97.20%",
-    "uptimeYear": "99.63%",
-    "time": 510,
-    "timeDay": 466,
-    "timeWeek": 453,
-    "timeMonth": 377,
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "97.09%",
+    "uptimeYear": "99.62%",
+    "time": 511,
+    "timeDay": 512,
+    "timeWeek": 464,
+    "timeMonth": 381,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-12-05": 1,
+      "2025-12-06": 46,
+      "2025-12-05": 5,
       "2025-12-03": 18,
       "2025-11-28": 20,
       "2025-11-27": 52,
@@ -1178,8 +1180,7 @@
       "2025-02-17": 16,
       "2025-01-07": 23,
       "2024-12-26": 19,
-      "2024-12-10": 17,
-      "2024-12-06": 21
+      "2024-12-10": 17
     }
   },
   {
@@ -1253,8 +1254,7 @@
       "2025-07-17": 73,
       "2025-06-30": 20,
       "2025-06-29": 23,
-      "2025-05-15": 21,
-      "2024-12-06": 71
+      "2025-05-15": 21
     }
   },
   {
