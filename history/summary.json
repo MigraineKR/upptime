@@ -100,18 +100,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "81.75%",
+    "uptime": "81.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "52.78%",
+    "uptimeYear": "52.76%",
     "time": 1197,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1240,
     "dailyMinutesDown": {
-      "2025-12-25": 1439,
+      "2025-12-26": 86,
+      "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -524,8 +525,7 @@
       "2025-01-22": 33,
       "2025-01-20": 16,
       "2025-01-07": 26,
-      "2025-01-05": 17,
-      "2024-12-26": 23
+      "2025-01-05": 17
     }
   },
   {
@@ -582,7 +582,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migraine.org.au.ico",
     "slug": "migraine-org-au",
     "status": "down",
-    "uptime": "88.96%",
+    "uptime": "88.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -599,19 +599,20 @@
     "url": "https://headacheaustralia.org.au/",
     "icon": "https://icons.duckduckgo.com/ip3/headacheaustralia.org.au.ico",
     "slug": "headacheaustralia-org-au",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "99.48%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "99.46%",
     "time": 1879,
-    "timeDay": 1691,
-    "timeWeek": 1755,
-    "timeMonth": 1719,
+    "timeDay": 1836,
+    "timeWeek": 1772,
+    "timeMonth": 1723,
     "timeYear": 1888,
     "dailyMinutesDown": {
-      "2025-12-25": 22,
+      "2025-12-26": 85,
+      "2025-12-25": 23,
       "2025-12-23": 19,
       "2025-12-22": 22,
       "2025-12-21": 30,
@@ -796,8 +797,7 @@
       "2025-01-22": 32,
       "2025-01-20": 16,
       "2025-01-07": 26,
-      "2025-01-05": 16,
-      "2024-12-26": 22
+      "2025-01-05": 16
     }
   },
   {
@@ -867,8 +867,7 @@
       "2025-01-22": 31,
       "2025-01-20": 15,
       "2025-01-07": 25,
-      "2025-01-05": 16,
-      "2024-12-26": 22
+      "2025-01-05": 16
     }
   },
   {
@@ -951,8 +950,7 @@
       "2025-02-16": 16,
       "2025-01-22": 15,
       "2025-01-07": 25,
-      "2025-01-05": 15,
-      "2024-12-26": 21
+      "2025-01-05": 15
     }
   },
   {
@@ -1091,8 +1089,7 @@
       "2025-03-04": 16,
       "2025-02-17": 17,
       "2025-02-16": 16,
-      "2025-01-07": 24,
-      "2024-12-26": 21
+      "2025-01-07": 24
     }
   },
   {
@@ -1133,8 +1130,7 @@
       "2025-03-04": 15,
       "2025-02-17": 17,
       "2025-02-16": 15,
-      "2025-01-07": 24,
-      "2024-12-26": 20
+      "2025-01-07": 24
     }
   },
   {
@@ -1355,7 +1351,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
     "status": "up",
-    "uptime": "93.36%",
+    "uptime": "93.37%",
     "uptimeDay": "98.59%",
     "uptimeWeek": "98.52%",
     "uptimeMonth": "97.79%",
