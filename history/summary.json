@@ -4,19 +4,19 @@
     "url": "https://ihs-headache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ihs-headache.org.ico",
     "slug": "ihs-headache-org",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "92.76%",
-    "uptimeWeek": "95.15%",
-    "uptimeMonth": "91.01%",
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "91.92%",
+    "uptimeWeek": "95.03%",
+    "uptimeMonth": "91.00%",
     "uptimeYear": "98.88%",
-    "time": 2516,
-    "timeDay": 3516,
-    "timeWeek": 3619,
-    "timeMonth": 3385,
-    "timeYear": 2683,
+    "time": 2517,
+    "timeDay": 3250,
+    "timeWeek": 3567,
+    "timeMonth": 3388,
+    "timeYear": 2682,
     "dailyMinutesDown": {
-      "2026-03-03": 105,
+      "2026-03-03": 117,
       "2026-03-02": 104,
       "2026-03-01": 63,
       "2026-02-28": 48,
@@ -148,14 +148,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "34.16%",
+    "uptimeYear": "34.15%",
     "time": 1204,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1148,
     "dailyMinutesDown": {
-      "2026-03-03": 1427,
+      "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
@@ -490,19 +490,19 @@
     "url": "https://clusterbusters.org/",
     "icon": "https://icons.duckduckgo.com/ip3/clusterbusters.org.ico",
     "slug": "clusterbusters-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "94.91%",
-    "uptimeMonth": "94.34%",
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "94.80%",
+    "uptimeMonth": "94.32%",
     "uptimeYear": "99.03%",
     "time": 530,
-    "timeDay": 272,
-    "timeWeek": 625,
-    "timeMonth": 534,
-    "timeYear": 556,
+    "timeDay": 278,
+    "timeWeek": 609,
+    "timeMonth": 529,
+    "timeYear": 555,
     "dailyMinutesDown": {
-      "2026-03-03": 46,
+      "2026-03-03": 57,
       "2026-03-02": 112,
       "2026-03-01": 63,
       "2026-02-28": 48,
@@ -655,8 +655,7 @@
       "2025-04-10": 21,
       "2025-03-29": 15,
       "2025-03-21": 21,
-      "2025-03-08": 16,
-      "2025-03-04": 17
+      "2025-03-08": 16
     }
   },
   {
@@ -744,19 +743,19 @@
     "url": "https://headacheaustralia.org.au/",
     "icon": "https://icons.duckduckgo.com/ip3/headacheaustralia.org.au.ico",
     "slug": "headacheaustralia-org-au",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "92.83%",
-    "uptimeWeek": "94.91%",
-    "uptimeMonth": "91.59%",
+    "uptimeDay": "92.03%",
+    "uptimeWeek": "94.79%",
+    "uptimeMonth": "91.57%",
     "uptimeYear": "98.99%",
     "time": 1859,
-    "timeDay": 1651,
-    "timeWeek": 1624,
-    "timeMonth": 1761,
+    "timeDay": 1763,
+    "timeWeek": 1643,
+    "timeMonth": 1767,
     "timeYear": 1869,
     "dailyMinutesDown": {
-      "2026-03-03": 103,
+      "2026-03-03": 114,
       "2026-03-02": 103,
       "2026-03-01": 61,
       "2026-02-28": 48,
@@ -937,8 +936,7 @@
       "2025-04-14": 18,
       "2025-04-10": 20,
       "2025-03-21": 21,
-      "2025-03-08": 15,
-      "2025-03-04": 17
+      "2025-03-08": 15
     }
   },
   {
@@ -1003,8 +1001,7 @@
       "2025-04-29": 26,
       "2025-04-14": 18,
       "2025-04-10": 20,
-      "2025-03-21": 20,
-      "2025-03-04": 17
+      "2025-03-21": 20
     }
   },
   {
@@ -1086,8 +1083,7 @@
       "2025-04-29": 25,
       "2025-04-14": 17,
       "2025-04-10": 19,
-      "2025-03-21": 20,
-      "2025-03-04": 16
+      "2025-03-21": 20
     }
   },
   {
@@ -1157,7 +1153,8 @@
     "timeMonth": 308,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2026-03-03": 1428,
+      "2026-03-04": 1,
+      "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
@@ -1271,8 +1268,7 @@
       "2025-04-29": 25,
       "2025-04-14": 17,
       "2025-04-10": 19,
-      "2025-03-21": 19,
-      "2025-03-04": 16
+      "2025-03-21": 19
     }
   },
   {
@@ -1311,8 +1307,7 @@
       "2025-04-14": 16,
       "2025-04-10": 18,
       "2025-03-21": 19,
-      "2025-03-13": 24,
-      "2025-03-04": 15
+      "2025-03-13": 24
     }
   },
   {
@@ -1493,7 +1488,7 @@
     "timeDay": 559,
     "timeWeek": 392,
     "timeMonth": 549,
-    "timeYear": 520,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2025-05-08": 73,
       "2025-05-07": 2,
@@ -1517,8 +1512,7 @@
       "2025-03-11": 41,
       "2025-03-09": 15,
       "2025-03-06": 29,
-      "2025-03-05": 20,
-      "2025-03-04": 85
+      "2025-03-05": 20
     }
   },
   {
@@ -1526,19 +1520,19 @@
     "url": "https://worldheadachesociety.org/",
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "92.83%",
-    "uptimeWeek": "91.49%",
-    "uptimeMonth": "86.55%",
+    "uptimeDay": "92.07%",
+    "uptimeWeek": "91.38%",
+    "uptimeMonth": "86.53%",
     "uptimeYear": "98.68%",
-    "time": 2561,
-    "timeDay": 1009,
-    "timeWeek": 1036,
-    "timeMonth": 1075,
-    "timeYear": 1838,
+    "time": 2552,
+    "timeDay": 967,
+    "timeWeek": 1029,
+    "timeMonth": 1072,
+    "timeYear": 1837,
     "dailyMinutesDown": {
-      "2026-03-03": 103,
+      "2026-03-03": 114,
       "2026-03-02": 130,
       "2026-03-01": 86,
       "2026-02-28": 245,
