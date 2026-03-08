@@ -4,19 +4,19 @@
     "url": "https://ihs-headache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ihs-headache.org.ico",
     "slug": "ihs-headache-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "94.75%",
-    "uptimeWeek": "95.95%",
+    "uptimeDay": "94.67%",
+    "uptimeWeek": "95.94%",
     "uptimeMonth": "91.40%",
     "uptimeYear": "98.86%",
-    "time": 2444,
-    "timeDay": 3319,
-    "timeWeek": 3293,
-    "timeMonth": 3350,
-    "timeYear": 2710,
+    "time": 2449,
+    "timeDay": 3502,
+    "timeWeek": 3342,
+    "timeMonth": 3366,
+    "timeYear": 2714,
     "dailyMinutesDown": {
-      "2026-03-08": 76,
+      "2026-03-08": 77,
       "2026-03-07": 17,
       "2026-03-04": 109,
       "2026-03-03": 103,
@@ -90,8 +90,7 @@
       "2025-11-12": 18,
       "2025-10-26": 19,
       "2025-10-22": 28,
-      "2025-09-26": 21,
-      "2025-09-24": 16
+      "2025-09-26": 21
     }
   },
   {
@@ -155,7 +154,7 @@
     "timeMonth": 0,
     "timeYear": 1151,
     "dailyMinutesDown": {
-      "2026-03-08": 1180,
+      "2026-03-08": 1199,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -751,10 +750,10 @@
     "url": "https://headacheaustralia.org.au/",
     "icon": "https://icons.duckduckgo.com/ip3/headacheaustralia.org.au.ico",
     "slug": "headacheaustralia-org-au",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "94.84%",
-    "uptimeWeek": "96.00%",
+    "uptimeDay": "94.75%",
+    "uptimeWeek": "95.99%",
     "uptimeMonth": "92.41%",
     "uptimeYear": "98.98%",
     "time": 1858,
@@ -763,7 +762,7 @@
     "timeMonth": 1687,
     "timeYear": 1863,
     "dailyMinutesDown": {
-      "2026-03-08": 74,
+      "2026-03-08": 75,
       "2026-03-07": 17,
       "2026-03-04": 107,
       "2026-03-03": 101,
@@ -825,8 +824,7 @@
       "2025-12-15": 28,
       "2025-12-13": 32,
       "2025-12-12": 29,
-      "2025-12-11": 49,
-      "2025-12-10": 22
+      "2025-12-11": 49
     }
   },
   {
@@ -1160,7 +1158,7 @@
     "timeMonth": 274,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2026-03-08": 1181,
+      "2026-03-08": 1200,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -1529,19 +1527,19 @@
     "url": "https://worldheadachesociety.org/",
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "91.12%",
-    "uptimeWeek": "94.28%",
+    "uptimeDay": "91.00%",
+    "uptimeWeek": "94.26%",
     "uptimeMonth": "87.59%",
-    "uptimeYear": "98.66%",
-    "time": 2670,
+    "uptimeYear": "98.67%",
+    "time": 2668,
     "timeDay": 824,
     "timeWeek": 898,
     "timeMonth": 1023,
     "timeYear": 1750,
     "dailyMinutesDown": {
-      "2026-03-08": 128,
+      "2026-03-08": 130,
       "2026-03-07": 16,
       "2026-03-05": 41,
       "2026-03-04": 136,
@@ -1580,7 +1578,7 @@
       "2026-01-29": 79,
       "2026-01-28": 93,
       "2026-01-27": 61,
-      "2026-01-26": 57
+      "2026-01-26": 37
     }
   },
   {
