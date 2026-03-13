@@ -8,7 +8,7 @@
     "uptime": "99.57%",
     "uptimeDay": "93.65%",
     "uptimeWeek": "96.56%",
-    "uptimeMonth": "91.43%",
+    "uptimeMonth": "91.47%",
     "uptimeYear": "98.83%",
     "time": 2480,
     "timeDay": 3284,
@@ -153,7 +153,7 @@
     "timeMonth": 0,
     "timeYear": 1152,
     "dailyMinutesDown": {
-      "2026-03-12": 1426,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -759,7 +759,7 @@
     "uptime": "99.60%",
     "uptimeDay": "93.71%",
     "uptimeWeek": "96.61%",
-    "uptimeMonth": "92.45%",
+    "uptimeMonth": "92.48%",
     "uptimeYear": "98.96%",
     "time": 1859,
     "timeDay": 1819,
@@ -1162,14 +1162,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "86.20%",
+    "uptimeYear": "86.19%",
     "time": 282,
     "timeDay": 393,
     "timeWeek": 256,
     "timeMonth": 275,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2026-03-12": 1427,
+      "2026-03-13": 1,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -1332,8 +1333,7 @@
       "2025-04-29": 24,
       "2025-04-14": 16,
       "2025-04-10": 18,
-      "2025-03-21": 19,
-      "2025-03-13": 24
+      "2025-03-21": 19
     }
   },
   {
@@ -1545,19 +1545,20 @@
     "url": "https://worldheadachesociety.org/",
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "67.36%",
-    "uptimeWeek": "84.18%",
-    "uptimeMonth": "85.97%",
+    "uptimeDay": "67.86%",
+    "uptimeWeek": "84.16%",
+    "uptimeMonth": "85.99%",
     "uptimeYear": "98.54%",
-    "time": 2544,
-    "timeDay": 821,
+    "time": 2539,
+    "timeDay": 802,
     "timeWeek": 1056,
     "timeMonth": 1050,
     "timeYear": 1657,
     "dailyMinutesDown": {
-      "2026-03-12": 462,
+      "2026-03-13": 1,
+      "2026-03-12": 463,
       "2026-03-11": 344,
       "2026-03-10": 415,
       "2026-03-09": 208,
@@ -1592,8 +1593,7 @@
       "2026-02-07": 278,
       "2026-02-06": 118,
       "2026-02-05": 129,
-      "2026-02-04": 175,
-      "2026-02-03": 19
+      "2026-02-04": 175
     }
   },
   {
