@@ -150,7 +150,7 @@
     "timeYear": 794,
     "dailyMinutesDown": {
       "2025-07-01": 38,
-      "2026-06-04": 281,
+      "2026-06-04": 298,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -553,7 +553,7 @@
     "uptime": "95.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.88%",
+    "uptimeMonth": "32.92%",
     "uptimeYear": "86.58%",
     "time": 552,
     "timeDay": 195,
@@ -1300,7 +1300,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migraineagain.com.ico",
     "slug": "migraineagain-com",
     "status": "down",
-    "uptime": "87.23%",
+    "uptime": "87.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1311,7 +1311,7 @@
     "timeMonth": 71,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2026-06-04": 282,
+      "2026-06-04": 299,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -1720,15 +1720,15 @@
     "url": "https://worldheadachesociety.org/",
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "34.55%",
-    "uptimeWeek": "80.50%",
-    "uptimeMonth": "85.68%",
-    "uptimeYear": "97.83%",
-    "time": 1499,
-    "timeDay": 798,
-    "timeWeek": 823,
+    "uptimeDay": "33.49%",
+    "uptimeWeek": "80.35%",
+    "uptimeMonth": "85.65%",
+    "uptimeYear": "97.82%",
+    "time": 1498,
+    "timeDay": 817,
+    "timeWeek": 824,
     "timeMonth": 886,
     "timeYear": 981,
     "dailyMinutesDown": {
@@ -1777,7 +1777,7 @@
       "2026-05-31": 119,
       "2026-06-02": 284,
       "2026-06-03": 740,
-      "2026-06-04": 282
+      "2026-06-04": 298
     }
   },
   {
