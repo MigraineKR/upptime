@@ -142,7 +142,7 @@
     "timeMonth": 56,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2026-07-15": 670,
+      "2026-07-15": 754,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -803,11 +803,11 @@
     "url": "https://www.jhsnet.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "75.80%",
-    "uptimeWeek": "88.02%",
-    "uptimeMonth": "89.16%",
+    "uptimeDay": "75.35%",
+    "uptimeWeek": "87.96%",
+    "uptimeMonth": "89.15%",
     "uptimeYear": "98.44%",
     "time": 1005,
     "timeDay": 720,
@@ -880,7 +880,7 @@
       "2026-07-11": 50,
       "2026-07-13": 111,
       "2026-07-14": 57,
-      "2026-07-15": 292
+      "2026-07-15": 298
     }
   },
   {
@@ -888,11 +888,11 @@
     "url": "https://www.jhsnet.net/english.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "76.81%",
-    "uptimeWeek": "88.41%",
-    "uptimeMonth": "89.55%",
+    "uptimeDay": "76.70%",
+    "uptimeWeek": "88.39%",
+    "uptimeMonth": "89.54%",
     "uptimeYear": "98.49%",
     "time": 291,
     "timeDay": 715,
@@ -965,7 +965,7 @@
       "2026-07-11": 45,
       "2026-07-13": 106,
       "2026-07-14": 52,
-      "2026-07-15": 282
+      "2026-07-15": 284
     }
   },
   {
@@ -1362,14 +1362,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "52.09%",
+    "uptimeYear": "52.08%",
     "time": 238,
     "timeDay": 36,
     "timeWeek": 64,
     "timeMonth": 63,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-07-15": 671,
+      "2026-07-15": 755,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -1807,7 +1807,7 @@
     "uptime": "99.07%",
     "uptimeDay": "73.16%",
     "uptimeWeek": "90.52%",
-    "uptimeMonth": "85.21%",
+    "uptimeMonth": "85.40%",
     "uptimeYear": "97.22%",
     "time": 1064,
     "timeDay": 830,
@@ -1871,9 +1871,9 @@
     "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "87.43%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "99.24%",
+    "uptimeWeek": "94.12%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "99.23%",
     "time": 640,
     "timeDay": 585,
     "timeWeek": 606,
@@ -1936,7 +1936,7 @@
       "2026-04-15": 128,
       "2026-05-15": 52,
       "2026-07-14": 507,
-      "2026-07-15": 2
+      "2026-07-15": 86
     }
   }
 ]
