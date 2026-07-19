@@ -142,7 +142,7 @@
     "timeMonth": 53,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2026-07-19": 34,
+      "2026-07-19": 202,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -641,12 +641,12 @@
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.01%",
-    "uptimeMonth": "97.57%",
+    "uptimeMonth": "97.79%",
     "uptimeYear": "98.54%",
     "time": 507,
     "timeDay": 186,
     "timeWeek": 382,
-    "timeMonth": 375,
+    "timeMonth": 371,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2025-11-25": 17,
@@ -1369,18 +1369,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migraineagain.com.ico",
     "slug": "migraineagain-com",
     "status": "down",
-    "uptime": "83.64%",
+    "uptime": "83.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "51.12%",
+    "uptimeYear": "51.09%",
     "time": 237,
     "timeDay": 21,
     "timeWeek": 124,
     "timeMonth": 79,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-07-19": 35,
+      "2026-07-19": 203,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -1632,9 +1632,9 @@
     "slug": "migrainecollaborative-org",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 456,
     "timeDay": 462,
@@ -1651,8 +1651,7 @@
       "2026-04-10": 33,
       "2026-04-17": 43,
       "2026-05-16": 131,
-      "2026-06-07": 65,
-      "2026-07-19": 14
+      "2026-06-07": 65
     }
   },
   {
@@ -1680,9 +1679,9 @@
     "slug": "milesformigraine-org",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 497,
     "timeDay": 523,
@@ -1698,8 +1697,7 @@
       "2026-04-10": 32,
       "2026-04-17": 42,
       "2026-05-16": 126,
-      "2026-06-07": 60,
-      "2026-07-19": 9
+      "2026-06-07": 60
     }
   },
   {
@@ -1736,9 +1734,9 @@
     "slug": "mymigrainelife-net",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 441,
     "timeDay": 375,
@@ -1754,8 +1752,7 @@
       "2026-04-10": 31,
       "2026-04-17": 42,
       "2026-05-16": 121,
-      "2026-06-07": 56,
-      "2026-07-19": 4
+      "2026-06-07": 56
     }
   },
   {
@@ -1824,7 +1821,7 @@
     "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.45%",
-    "uptimeMonth": "86.72%",
+    "uptimeMonth": "86.88%",
     "uptimeYear": "97.24%",
     "time": 1038,
     "timeDay": 607,
