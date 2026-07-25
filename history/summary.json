@@ -8,13 +8,13 @@
     "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.55%",
-    "uptimeMonth": "93.06%",
+    "uptimeMonth": "93.09%",
     "uptimeYear": "98.23%",
     "time": 2753,
     "timeDay": 2170,
     "timeWeek": 2669,
-    "timeMonth": 3159,
-    "timeYear": 2968,
+    "timeMonth": 3129,
+    "timeYear": 2970,
     "dailyMinutesDown": {
       "2026-03-13": 46,
       "2026-03-14": 210,
@@ -143,7 +143,7 @@
     "timeMonth": 59,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2026-07-25": 1333,
+      "2026-07-25": 1397,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -573,7 +573,7 @@
     "timeDay": 235,
     "timeWeek": 485,
     "timeMonth": 389,
-    "timeYear": 558,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2025-09-09": 187,
       "2025-09-10": 22,
@@ -648,7 +648,7 @@
     "timeDay": 641,
     "timeWeek": 391,
     "timeMonth": 383,
-    "timeYear": 462,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2025-11-27": 52,
       "2025-11-28": 20,
@@ -751,7 +751,7 @@
     "timeDay": 709,
     "timeWeek": 627,
     "timeMonth": 575,
-    "timeYear": 593,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2025-07-26": 38,
       "2025-07-27": 146,
@@ -801,10 +801,10 @@
     "url": "https://www.jhsnet.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "95.69%",
-    "uptimeWeek": "93.03%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "92.97%",
     "uptimeMonth": "87.84%",
     "uptimeYear": "98.12%",
     "time": 993,
@@ -886,7 +886,7 @@
       "2026-07-21": 263,
       "2026-07-22": 194,
       "2026-07-23": 141,
-      "2026-07-25": 62
+      "2026-07-25": 68
     }
   },
   {
@@ -894,11 +894,11 @@
     "url": "https://www.jhsnet.net/english.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "93.32%",
-    "uptimeMonth": "88.29%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "93.30%",
+    "uptimeMonth": "88.28%",
     "uptimeYear": "98.18%",
     "time": 319,
     "timeDay": 599,
@@ -979,7 +979,7 @@
       "2026-07-21": 254,
       "2026-07-22": 189,
       "2026-07-23": 136,
-      "2026-07-25": 57
+      "2026-07-25": 59
     }
   },
   {
@@ -1005,17 +1005,17 @@
     "url": "https://headacheaustralia.org.au/",
     "icon": "https://icons.duckduckgo.com/ip3/headacheaustralia.org.au.ico",
     "slug": "headacheaustralia-org-au",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "98.84%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "98.82%",
     "time": 1888,
-    "timeDay": 1384,
-    "timeWeek": 1412,
-    "timeMonth": 1529,
-    "timeYear": 1818,
+    "timeDay": 1386,
+    "timeWeek": 1409,
+    "timeMonth": 1524,
+    "timeYear": 1817,
     "dailyMinutesDown": {
       "2026-01-26": 57,
       "2026-01-27": 29,
@@ -1076,7 +1076,7 @@
       "2026-07-04": 59,
       "2026-07-21": 69,
       "2026-07-23": 34,
-      "2026-07-25": 1
+      "2026-07-25": 65
     }
   },
   {
@@ -1094,7 +1094,7 @@
     "timeDay": 564,
     "timeWeek": 405,
     "timeMonth": 400,
-    "timeYear": 630,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2025-11-18": 144,
       "2026-02-28": 33
@@ -1115,7 +1115,7 @@
     "timeDay": 1700,
     "timeWeek": 1413,
     "timeMonth": 1467,
-    "timeYear": 1623,
+    "timeYear": 1624,
     "dailyMinutesDown": {
       "2025-08-19": 75
     }
@@ -1135,7 +1135,7 @@
     "timeDay": 1653,
     "timeWeek": 1446,
     "timeMonth": 1472,
-    "timeYear": 1538,
+    "timeYear": 1536,
     "dailyMinutesDown": {
       "2025-07-28": 28,
       "2025-11-23": 26
@@ -1156,7 +1156,7 @@
     "timeDay": 487,
     "timeWeek": 926,
     "timeMonth": 970,
-    "timeYear": 1168,
+    "timeYear": 1169,
     "dailyMinutesDown": {
       "2025-08-03": 403,
       "2025-08-04": 1411,
@@ -1202,7 +1202,7 @@
     "timeDay": 171,
     "timeWeek": 268,
     "timeMonth": 290,
-    "timeYear": 262,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2026-01-06": 50
     }
@@ -1222,7 +1222,7 @@
     "timeDay": 908,
     "timeWeek": 2250,
     "timeMonth": 2068,
-    "timeYear": 1899,
+    "timeYear": 1897,
     "dailyMinutesDown": {
       "2025-08-25": 28,
       "2025-10-22": 17,
@@ -1255,7 +1255,7 @@
     "timeDay": 4823,
     "timeWeek": 6485,
     "timeMonth": 6149,
-    "timeYear": 6729,
+    "timeYear": 6741,
     "dailyMinutesDown": {
       "2025-09-16": 21,
       "2025-09-18": 16,
@@ -1296,7 +1296,7 @@
     "timeDay": 657,
     "timeWeek": 823,
     "timeMonth": 819,
-    "timeYear": 917,
+    "timeYear": 918,
     "dailyMinutesDown": {
       "2025-08-25": 28,
       "2025-10-30": 40,
@@ -1326,7 +1326,7 @@
     "timeDay": 379,
     "timeWeek": 346,
     "timeMonth": 323,
-    "timeYear": 515,
+    "timeYear": 516,
     "dailyMinutesDown": {
       "2025-10-20": 140,
       "2025-11-06": 68,
@@ -1378,14 +1378,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.23%",
+    "uptimeYear": "49.22%",
     "time": 234,
     "timeDay": 43,
     "timeWeek": 59,
     "timeMonth": 74,
-    "timeYear": 224,
+    "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-07-25": 1334,
+      "2026-07-25": 1399,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1618,7 +1618,7 @@
     "timeDay": 411,
     "timeWeek": 1265,
     "timeMonth": 1247,
-    "timeYear": 1552,
+    "timeYear": 1553,
     "dailyMinutesDown": {
       "2025-08-25": 27,
       "2025-10-30": 40,
@@ -1698,7 +1698,7 @@
     "timeDay": 403,
     "timeWeek": 437,
     "timeMonth": 487,
-    "timeYear": 497,
+    "timeYear": 498,
     "dailyMinutesDown": {
       "2025-08-25": 26,
       "2025-10-30": 39,
@@ -1807,7 +1807,7 @@
     "timeDay": 356,
     "timeWeek": 474,
     "timeMonth": 479,
-    "timeYear": 533,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2026-03-22": 22,
       "2026-05-13": 150,
