@@ -143,7 +143,7 @@
     "timeMonth": 56,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2026-07-26": 208,
+      "2026-07-26": 241,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -800,13 +800,13 @@
     "url": "https://www.jhsnet.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "93.14%",
-    "uptimeWeek": "93.09%",
-    "uptimeMonth": "87.88%",
+    "uptimeDay": "92.71%",
+    "uptimeWeek": "93.03%",
+    "uptimeMonth": "87.86%",
     "uptimeYear": "98.11%",
-    "time": 993,
+    "time": 994,
     "timeDay": 768,
     "timeWeek": 744,
     "timeMonth": 902,
@@ -885,7 +885,8 @@
       "2026-07-21": 263,
       "2026-07-22": 194,
       "2026-07-23": 141,
-      "2026-07-25": 99
+      "2026-07-25": 99,
+      "2026-07-26": 6
     }
   },
   {
@@ -893,13 +894,13 @@
     "url": "https://www.jhsnet.net/english.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "93.82%",
-    "uptimeWeek": "93.38%",
-    "uptimeMonth": "88.32%",
+    "uptimeDay": "93.72%",
+    "uptimeWeek": "93.37%",
+    "uptimeMonth": "88.31%",
     "uptimeYear": "98.17%",
-    "time": 320,
+    "time": 321,
     "timeDay": 742,
     "timeWeek": 699,
     "timeMonth": 888,
@@ -978,7 +979,8 @@
       "2026-07-21": 254,
       "2026-07-22": 189,
       "2026-07-23": 136,
-      "2026-07-25": 89
+      "2026-07-25": 89,
+      "2026-07-26": 1
     }
   },
   {
@@ -1377,14 +1379,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.17%",
+    "uptimeYear": "49.16%",
     "time": 234,
     "timeDay": 110,
     "timeWeek": 72,
     "timeMonth": 75,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-07-26": 209,
+      "2026-07-26": 242,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
