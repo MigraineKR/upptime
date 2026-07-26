@@ -132,7 +132,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "66.72%",
+    "uptime": "66.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -143,7 +143,7 @@
     "timeMonth": 56,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2026-07-26": 1044,
+      "2026-07-26": 1110,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -638,16 +638,16 @@
     "url": "https://clusterbusters.org/",
     "icon": "https://icons.duckduckgo.com/ip3/clusterbusters.org.ico",
     "slug": "clusterbusters-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "97.73%",
-    "uptimeYear": "98.54%",
+    "uptimeDay": "96.46%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "98.53%",
     "time": 500,
-    "timeDay": 219,
-    "timeWeek": 394,
-    "timeMonth": 373,
+    "timeDay": 216,
+    "timeWeek": 376,
+    "timeMonth": 369,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2025-11-27": 36,
@@ -734,7 +734,7 @@
       "2026-07-17": 87,
       "2026-07-19": 53,
       "2026-07-23": 34,
-      "2026-07-26": 1
+      "2026-07-26": 51
     }
   },
   {
@@ -801,19 +801,18 @@
     "url": "https://www.jhsnet.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "66.86%",
-    "uptimeWeek": "88.72%",
-    "uptimeMonth": "87.55%",
+    "uptimeDay": "66.06%",
+    "uptimeWeek": "88.61%",
+    "uptimeMonth": "87.52%",
     "uptimeYear": "98.03%",
-    "time": 993,
+    "time": 994,
     "timeDay": 877,
     "timeWeek": 760,
     "timeMonth": 900,
     "timeYear": 956,
     "dailyMinutesDown": {
-      "2025-12-16": 24,
       "2025-12-26": 28,
       "2025-12-29": 27,
       "2025-12-31": 46,
@@ -886,7 +885,7 @@
       "2026-07-22": 194,
       "2026-07-23": 141,
       "2026-07-25": 99,
-      "2026-07-26": 440
+      "2026-07-26": 452
     }
   },
   {
@@ -894,19 +893,18 @@
     "url": "https://www.jhsnet.net/english.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "67.87%",
-    "uptimeWeek": "89.11%",
-    "uptimeMonth": "88.00%",
-    "uptimeYear": "98.09%",
-    "time": 326,
+    "uptimeDay": "67.40%",
+    "uptimeWeek": "89.04%",
+    "uptimeMonth": "87.99%",
+    "uptimeYear": "98.10%",
+    "time": 327,
     "timeDay": 1438,
     "timeWeek": 845,
     "timeMonth": 914,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2025-12-16": 23,
       "2025-12-26": 28,
       "2025-12-29": 26,
       "2025-12-31": 46,
@@ -979,7 +977,7 @@
       "2026-07-22": 189,
       "2026-07-23": 136,
       "2026-07-25": 89,
-      "2026-07-26": 431
+      "2026-07-26": 438
     }
   },
   {
@@ -1378,14 +1376,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.01%",
+    "uptimeYear": "49.00%",
     "time": 234,
     "timeDay": 110,
     "timeWeek": 72,
     "timeMonth": 75,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-07-26": 1045,
+      "2026-07-26": 1111,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -1825,19 +1823,18 @@
     "url": "https://worldheadachesociety.org/",
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "90.64%",
-    "uptimeWeek": "94.15%",
-    "uptimeMonth": "88.92%",
-    "uptimeYear": "97.29%",
-    "time": 1334,
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "90.49%",
+    "uptimeWeek": "94.13%",
+    "uptimeMonth": "88.91%",
+    "uptimeYear": "97.34%",
+    "time": 1329,
     "timeDay": 822,
     "timeWeek": 824,
     "timeMonth": 810,
     "timeYear": 965,
     "dailyMinutesDown": {
-      "2026-05-25": 271,
       "2026-05-30": 541,
       "2026-05-31": 119,
       "2026-06-02": 284,
@@ -1885,7 +1882,7 @@
       "2026-07-23": 29,
       "2026-07-24": 87,
       "2026-07-25": 101,
-      "2026-07-26": 86
+      "2026-07-26": 88
     }
   },
   {
@@ -1893,10 +1890,10 @@
     "url": "https://www.patientadvocate.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "98.35%",
     "uptimeYear": "99.21%",
     "time": 639,
@@ -1905,7 +1902,6 @@
     "timeMonth": 785,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2025-08-23": 20,
       "2025-08-24": 111,
       "2025-08-25": 114,
       "2025-08-26": 556,
@@ -1962,7 +1958,8 @@
       "2026-05-15": 52,
       "2026-07-14": 507,
       "2026-07-15": 187,
-      "2026-07-23": 29
+      "2026-07-23": 29,
+      "2026-07-26": 2
     }
   }
 ]
