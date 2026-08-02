@@ -145,7 +145,7 @@
     "timeMonth": 58,
     "timeYear": 61,
     "dailyMinutesDown": {
-      "2026-08-02": 934,
+      "2026-08-02": 986,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -643,10 +643,10 @@
     "slug": "clusterbusters-org",
     "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "97.47%",
-    "uptimeMonth": "97.28%",
-    "uptimeYear": "98.50%",
+    "uptimeDay": "95.62%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "97.16%",
+    "uptimeYear": "98.49%",
     "time": 501,
     "timeDay": 295,
     "timeWeek": 372,
@@ -738,7 +738,7 @@
       "2026-07-23": 34,
       "2026-07-26": 51,
       "2026-07-27": 193,
-      "2026-08-02": 11
+      "2026-08-02": 63
     }
   },
   {
@@ -803,15 +803,15 @@
     "url": "https://www.jhsnet.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "80.56%",
-    "uptimeWeek": "92.89%",
-    "uptimeMonth": "89.42%",
-    "uptimeYear": "97.93%",
+    "uptimeDay": "77.39%",
+    "uptimeWeek": "92.43%",
+    "uptimeMonth": "89.31%",
+    "uptimeYear": "97.92%",
     "time": 991,
-    "timeDay": 852,
-    "timeWeek": 1229,
+    "timeDay": 882,
+    "timeWeek": 1210,
     "timeMonth": 981,
     "timeYear": 964,
     "dailyMinutesDown": {
@@ -886,7 +886,7 @@
       "2026-07-26": 516,
       "2026-07-29": 205,
       "2026-07-30": 156,
-      "2026-08-02": 279
+      "2026-08-02": 325
     }
   },
   {
@@ -894,17 +894,17 @@
     "url": "https://www.jhsnet.net/english.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
-    "status": "down",
+    "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "81.56%",
-    "uptimeWeek": "93.22%",
-    "uptimeMonth": "89.83%",
-    "uptimeYear": "98.00%",
-    "time": 349,
-    "timeDay": 827,
-    "timeWeek": 1049,
-    "timeMonth": 971,
-    "timeYear": 392,
+    "uptimeDay": "78.39%",
+    "uptimeWeek": "92.77%",
+    "uptimeMonth": "89.73%",
+    "uptimeYear": "97.99%",
+    "time": 350,
+    "timeDay": 820,
+    "timeWeek": 1031,
+    "timeMonth": 968,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2026-02-24": 25,
       "2026-02-26": 62,
@@ -977,7 +977,7 @@
       "2026-07-26": 502,
       "2026-07-29": 195,
       "2026-07-30": 151,
-      "2026-08-02": 265
+      "2026-08-02": 311
     }
   },
   {
@@ -1381,14 +1381,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.11%",
+    "uptimeYear": "47.10%",
     "time": 233,
     "timeDay": 25,
     "timeWeek": 87,
     "timeMonth": 85,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2026-08-02": 935,
+      "2026-08-02": 987,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -1838,19 +1838,18 @@
     "url": "https://worldheadachesociety.org/",
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "72.96%",
-    "uptimeWeek": "83.70%",
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "72.84%",
+    "uptimeWeek": "83.69%",
     "uptimeMonth": "90.15%",
-    "uptimeYear": "97.43%",
-    "time": 1214,
+    "uptimeYear": "97.50%",
+    "time": 1203,
     "timeDay": 689,
     "timeWeek": 735,
     "timeMonth": 785,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2026-06-04": 322,
       "2026-06-05": 965,
       "2026-06-06": 311,
       "2026-06-07": 288,
@@ -1899,7 +1898,7 @@
       "2026-07-29": 142,
       "2026-07-31": 304,
       "2026-08-01": 340,
-      "2026-08-02": 248
+      "2026-08-02": 250
     }
   },
   {
@@ -1917,7 +1916,7 @@
     "timeDay": 664,
     "timeWeek": 756,
     "timeMonth": 780,
-    "timeYear": 643,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2025-08-24": 111,
       "2025-08-25": 114,
