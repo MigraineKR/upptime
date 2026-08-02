@@ -145,7 +145,7 @@
     "timeMonth": 58,
     "timeYear": 61,
     "dailyMinutesDown": {
-      "2026-08-02": 986,
+      "2026-08-02": 1042,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -642,11 +642,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/clusterbusters.org.ico",
     "slug": "clusterbusters-org",
     "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "95.62%",
-    "uptimeWeek": "96.96%",
-    "uptimeMonth": "97.16%",
-    "uptimeYear": "98.49%",
+    "uptime": "99.49%",
+    "uptimeDay": "91.73%",
+    "uptimeWeek": "96.40%",
+    "uptimeMonth": "97.04%",
+    "uptimeYear": "98.47%",
     "time": 501,
     "timeDay": 295,
     "timeWeek": 372,
@@ -738,7 +738,7 @@
       "2026-07-23": 34,
       "2026-07-26": 51,
       "2026-07-27": 193,
-      "2026-08-02": 63
+      "2026-08-02": 119
     }
   },
   {
@@ -1381,14 +1381,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "47.10%",
+    "uptimeYear": "47.09%",
     "time": 233,
     "timeDay": 25,
     "timeWeek": 87,
     "timeMonth": 85,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2026-08-02": 987,
+      "2026-08-02": 1043,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -1838,17 +1838,17 @@
     "url": "https://worldheadachesociety.org/",
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "72.84%",
-    "uptimeWeek": "83.69%",
-    "uptimeMonth": "90.15%",
-    "uptimeYear": "97.50%",
-    "time": 1203,
-    "timeDay": 689,
-    "timeWeek": 735,
-    "timeMonth": 785,
-    "timeYear": 962,
+    "uptimeDay": "69.31%",
+    "uptimeWeek": "83.15%",
+    "uptimeMonth": "90.02%",
+    "uptimeYear": "97.49%",
+    "time": 1197,
+    "timeDay": 608,
+    "timeWeek": 713,
+    "timeMonth": 778,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2026-06-05": 965,
       "2026-06-06": 311,
@@ -1898,7 +1898,7 @@
       "2026-07-29": 142,
       "2026-07-31": 304,
       "2026-08-01": 340,
-      "2026-08-02": 250
+      "2026-08-02": 304
     }
   },
   {
