@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "98.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "43.56%",
+    "uptimeWeek": "43.60%",
     "uptimeMonth": "82.28%",
     "uptimeYear": "96.84%",
     "time": 2765,
@@ -145,7 +145,7 @@
     "timeMonth": 60,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2026-08-15": 644,
+      "2026-08-15": 648,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -768,16 +768,16 @@
     "url": "https://headachemigraine.org/",
     "icon": "https://icons.duckduckgo.com/ip3/headachemigraine.org.ico",
     "slug": "headachemigraine-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "76.49%",
-    "uptimeWeek": "80.34%",
+    "uptimeDay": "76.61%",
+    "uptimeWeek": "80.31%",
     "uptimeMonth": "92.07%",
     "uptimeYear": "99.23%",
-    "time": 591,
-    "timeDay": 525,
-    "timeWeek": 592,
-    "timeMonth": 600,
+    "time": 590,
+    "timeDay": 521,
+    "timeWeek": 589,
+    "timeMonth": 599,
     "timeYear": 579,
     "dailyMinutesDown": {
       "2025-08-25": 29,
@@ -808,7 +808,7 @@
       "2026-08-12": 319,
       "2026-08-13": 131,
       "2026-08-14": 268,
-      "2026-08-15": 196
+      "2026-08-15": 198
     }
   },
   {
@@ -816,17 +816,17 @@
     "url": "https://www.jhsnet.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "82.19%",
-    "uptimeWeek": "90.10%",
+    "uptimeDay": "82.03%",
+    "uptimeWeek": "90.08%",
     "uptimeMonth": "89.98%",
-    "uptimeYear": "97.94%",
+    "uptimeYear": "97.93%",
     "time": 995,
-    "timeDay": 1002,
-    "timeWeek": 968,
-    "timeMonth": 1019,
-    "timeYear": 959,
+    "timeDay": 959,
+    "timeWeek": 959,
+    "timeMonth": 1016,
+    "timeYear": 958,
     "dailyMinutesDown": {
       "2026-05-09": 39,
       "2026-05-20": 68,
@@ -887,7 +887,7 @@
       "2026-08-12": 86,
       "2026-08-13": 266,
       "2026-08-14": 149,
-      "2026-08-15": 161
+      "2026-08-15": 163
     }
   },
   {
@@ -895,16 +895,16 @@
     "url": "https://www.jhsnet.net/english.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
-    "status": "down",
+    "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "83.87%",
-    "uptimeWeek": "91.48%",
+    "uptimeDay": "83.71%",
+    "uptimeWeek": "91.46%",
     "uptimeMonth": "90.63%",
     "uptimeYear": "97.96%",
-    "time": 360,
-    "timeDay": 757,
-    "timeWeek": 787,
-    "timeMonth": 905,
+    "time": 361,
+    "timeDay": 747,
+    "timeWeek": 784,
+    "timeMonth": 903,
     "timeYear": 425,
     "dailyMinutesDown": {
       "2026-04-22": 95,
@@ -969,7 +969,7 @@
       "2026-08-12": 61,
       "2026-08-13": 237,
       "2026-08-14": 140,
-      "2026-08-15": 141
+      "2026-08-15": 144
     }
   },
   {
@@ -1137,16 +1137,16 @@
     "url": "http://migraine.ie/",
     "icon": "https://icons.duckduckgo.com/ip3/migraine.ie.ico",
     "slug": "migraine-ie",
-    "status": "down",
+    "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "77.83%",
-    "uptimeWeek": "81.92%",
+    "uptimeDay": "77.94%",
+    "uptimeWeek": "81.89%",
     "uptimeMonth": "92.70%",
     "uptimeYear": "97.77%",
     "time": 1160,
-    "timeDay": 751,
-    "timeWeek": 967,
-    "timeMonth": 927,
+    "timeDay": 796,
+    "timeWeek": 971,
+    "timeMonth": 929,
     "timeYear": 1146,
     "dailyMinutesDown": {
       "2025-08-22": 1417,
@@ -1185,7 +1185,7 @@
       "2026-08-12": 307,
       "2026-08-13": 106,
       "2026-08-14": 259,
-      "2026-08-15": 175
+      "2026-08-15": 178
     }
   },
   {
@@ -1213,17 +1213,17 @@
     "url": "https://hodepinenorge.no/",
     "icon": "https://icons.duckduckgo.com/ip3/hodepinenorge.no.ico",
     "slug": "hodepinenorge-no",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "80.18%",
-    "uptimeWeek": "83.68%",
-    "uptimeMonth": "93.30%",
+    "uptimeDay": "80.29%",
+    "uptimeWeek": "83.66%",
+    "uptimeMonth": "93.29%",
     "uptimeYear": "99.33%",
-    "time": 2024,
-    "timeDay": 1817,
-    "timeWeek": 2091,
-    "timeMonth": 2026,
-    "timeYear": 1885,
+    "time": 2025,
+    "timeDay": 1897,
+    "timeWeek": 2102,
+    "timeMonth": 2033,
+    "timeYear": 1887,
     "dailyMinutesDown": {
       "2025-08-25": 28,
       "2025-10-22": 17,
@@ -1253,7 +1253,7 @@
       "2026-08-12": 282,
       "2026-08-13": 92,
       "2026-08-14": 239,
-      "2026-08-15": 151
+      "2026-08-15": 153
     }
   },
   {
@@ -1302,16 +1302,16 @@
     "url": "https://www.efna.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.efna.net.ico",
     "slug": "efna-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "82.52%",
-    "uptimeWeek": "85.45%",
+    "uptimeDay": "82.63%",
+    "uptimeWeek": "85.43%",
     "uptimeMonth": "93.89%",
     "uptimeYear": "99.40%",
-    "time": 904,
-    "timeDay": 727,
-    "timeWeek": 836,
-    "timeMonth": 810,
+    "time": 903,
+    "timeDay": 748,
+    "timeWeek": 838,
+    "timeMonth": 812,
     "timeYear": 900,
     "dailyMinutesDown": {
       "2025-08-25": 28,
@@ -1339,7 +1339,7 @@
       "2026-08-12": 258,
       "2026-08-13": 78,
       "2026-08-14": 219,
-      "2026-08-15": 127
+      "2026-08-15": 129
     }
   },
   {
@@ -1416,7 +1416,7 @@
     "timeMonth": 92,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2026-08-15": 645,
+      "2026-08-15": 649,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -1659,16 +1659,16 @@
     "url": "https://www.migrainedisorders.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainedisorders.org.ico",
     "slug": "migrainedisorders-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "84.87%",
-    "uptimeWeek": "87.22%",
-    "uptimeMonth": "94.49%",
+    "uptimeDay": "84.97%",
+    "uptimeWeek": "87.20%",
+    "uptimeMonth": "94.48%",
     "uptimeYear": "99.43%",
-    "time": 1588,
-    "timeDay": 931,
-    "timeWeek": 1237,
-    "timeMonth": 1621,
+    "time": 1587,
+    "timeDay": 993,
+    "timeWeek": 1243,
+    "timeMonth": 1619,
     "timeYear": 1587,
     "dailyMinutesDown": {
       "2025-08-25": 27,
@@ -1699,7 +1699,7 @@
       "2026-08-12": 235,
       "2026-08-13": 64,
       "2026-08-14": 201,
-      "2026-08-15": 103
+      "2026-08-15": 105
     }
   },
   {
@@ -1707,17 +1707,17 @@
     "url": "https://migrainecollaborative.org/",
     "icon": "https://icons.duckduckgo.com/ip3/migrainecollaborative.org.ico",
     "slug": "migrainecollaborative-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "91.17%",
-    "uptimeWeek": "90.27%",
+    "uptimeDay": "91.26%",
+    "uptimeWeek": "90.25%",
     "uptimeMonth": "95.44%",
     "uptimeYear": "99.53%",
     "time": 457,
-    "timeDay": 416,
-    "timeWeek": 428,
-    "timeMonth": 448,
-    "timeYear": 457,
+    "timeDay": 407,
+    "timeWeek": 426,
+    "timeMonth": 446,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2025-08-25": 27,
       "2025-10-30": 39,
@@ -1743,7 +1743,7 @@
       "2026-08-12": 210,
       "2026-08-13": 19,
       "2026-08-14": 167,
-      "2026-08-15": 36
+      "2026-08-15": 38
     }
   },
   {
@@ -1769,17 +1769,17 @@
     "url": "https://www.milesformigraine.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.milesformigraine.org.ico",
     "slug": "milesformigraine-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "92.18%",
-    "uptimeWeek": "91.55%",
+    "uptimeDay": "92.27%",
+    "uptimeWeek": "91.52%",
     "uptimeMonth": "95.93%",
     "uptimeYear": "99.58%",
     "time": 498,
-    "timeDay": 438,
-    "timeWeek": 523,
-    "timeMonth": 497,
-    "timeYear": 500,
+    "timeDay": 437,
+    "timeWeek": 520,
+    "timeMonth": 496,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2025-08-25": 26,
       "2025-10-30": 39,
@@ -1803,7 +1803,7 @@
       "2026-08-11": 156,
       "2026-08-12": 174,
       "2026-08-14": 152,
-      "2026-08-15": 26
+      "2026-08-15": 29
     }
   },
   {
@@ -1838,16 +1838,16 @@
     "url": "https://www.mymigrainelife.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mymigrainelife.net.ico",
     "slug": "mymigrainelife-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "94.24%",
-    "uptimeWeek": "94.01%",
+    "uptimeDay": "94.34%",
+    "uptimeWeek": "93.99%",
     "uptimeMonth": "96.73%",
     "uptimeYear": "99.65%",
     "time": 435,
-    "timeDay": 359,
-    "timeWeek": 390,
-    "timeMonth": 384,
+    "timeDay": 366,
+    "timeWeek": 391,
+    "timeMonth": 385,
     "timeYear": 434,
     "dailyMinutesDown": {
       "2025-08-25": 25,
@@ -1871,7 +1871,7 @@
       "2026-08-11": 117,
       "2026-08-12": 150,
       "2026-08-14": 138,
-      "2026-08-15": 2
+      "2026-08-15": 4
     }
   },
   {
