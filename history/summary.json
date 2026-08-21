@@ -141,7 +141,7 @@
     "timeMonth": 60,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2026-08-21": 1337,
+      "2026-08-21": 1360,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -975,12 +975,12 @@
     "status": "up",
     "uptime": "99.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.47%",
+    "uptimeWeek": "97.64%",
     "uptimeMonth": "98.07%",
     "uptimeYear": "98.80%",
     "time": 1814,
     "timeDay": 1870,
-    "timeWeek": 1552,
+    "timeWeek": 1546,
     "timeMonth": 1529,
     "timeYear": 1799,
     "dailyMinutesDown": {
@@ -1385,7 +1385,7 @@
     "timeMonth": 83,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2026-08-21": 1339,
+      "2026-08-21": 1360,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -1920,16 +1920,16 @@
     "url": "https://worldheadachesociety.org/",
     "icon": "https://icons.duckduckgo.com/ip3/worldheadachesociety.org.ico",
     "slug": "worldheadachesociety-org",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "87.59%",
-    "uptimeWeek": "93.67%",
-    "uptimeMonth": "87.28%",
+    "status": "up",
+    "uptime": "99.39%",
+    "uptimeDay": "86.19%",
+    "uptimeWeek": "93.64%",
+    "uptimeMonth": "87.23%",
     "uptimeYear": "98.14%",
-    "time": 967,
-    "timeDay": 774,
-    "timeWeek": 696,
-    "timeMonth": 693,
+    "time": 961,
+    "timeDay": 793,
+    "timeWeek": 708,
+    "timeMonth": 695,
     "timeYear": 940,
     "dailyMinutesDown": {
       "2026-06-28": 378,
@@ -1980,7 +1980,7 @@
       "2026-08-18": 78,
       "2026-08-19": 91,
       "2026-08-20": 86,
-      "2026-08-21": 179
+      "2026-08-21": 199
     }
   },
   {
