@@ -1,7 +1,7 @@
 url: https://headacheaustralia.org.au/
-status: up
-code: 200
-responseTime: 1637
-lastUpdated: 2026-08-27T04:07:43.594Z
+status: down
+code: 503
+responseTime: 589
+lastUpdated: 2026-08-27T20:45:24.289Z
 startTime: 2023-08-03T17:16:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
