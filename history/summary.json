@@ -14,7 +14,7 @@
     "timeDay": 1687,
     "timeWeek": 1727,
     "timeMonth": 2043,
-    "timeYear": 2999,
+    "timeYear": 3001,
     "dailyMinutesDown": {
       "2026-03-18": 33,
       "2026-03-19": 76,
@@ -109,7 +109,7 @@
     "timeDay": 1800,
     "timeWeek": 2115,
     "timeMonth": 2261,
-    "timeYear": 2267,
+    "timeYear": 2268,
     "dailyMinutesDown": {}
   },
   {
@@ -129,7 +129,7 @@
     "timeMonth": 102,
     "timeYear": 69,
     "dailyMinutesDown": {
-      "2026-10-15": 1309,
+      "2026-10-15": 1430,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
@@ -557,7 +557,7 @@
     "timeDay": 445,
     "timeWeek": 422,
     "timeMonth": 486,
-    "timeYear": 504,
+    "timeYear": 505,
     "dailyMinutesDown": {
       "2025-11-18": 156,
       "2025-12-18": 195,
@@ -742,7 +742,7 @@
     "timeDay": 642,
     "timeWeek": 544,
     "timeMonth": 613,
-    "timeYear": 588,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2026-03-31": 71,
       "2026-04-02": 44
@@ -801,17 +801,17 @@
     "url": "https://www.jhsnet.net/",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net",
-    "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "80.37%",
-    "uptimeWeek": "94.35%",
-    "uptimeMonth": "90.82%",
-    "uptimeYear": "97.63%",
-    "time": 968,
-    "timeDay": 717,
-    "timeWeek": 1034,
-    "timeMonth": 923,
-    "timeYear": 966,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "72.07%",
+    "uptimeWeek": "93.16%",
+    "uptimeMonth": "90.55%",
+    "uptimeYear": "97.61%",
+    "time": 967,
+    "timeDay": 687,
+    "timeWeek": 993,
+    "timeMonth": 916,
+    "timeYear": 965,
     "dailyMinutesDown": {
       "2026-07-23": 141,
       "2026-07-25": 99,
@@ -865,7 +865,7 @@
       "2026-10-05": 333,
       "2026-10-07": 104,
       "2026-10-14": 287,
-      "2026-10-15": 283
+      "2026-10-15": 402
     }
   },
   {
@@ -873,17 +873,17 @@
     "url": "https://www.jhsnet.net/english.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhsnet.net.ico",
     "slug": "jhsnet-net-english",
-    "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "81.04%",
-    "uptimeWeek": "94.49%",
-    "uptimeMonth": "91.00%",
-    "uptimeYear": "97.63%",
-    "time": 484,
-    "timeDay": 645,
-    "timeWeek": 994,
-    "timeMonth": 855,
-    "timeYear": 556,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "72.74%",
+    "uptimeWeek": "93.30%",
+    "uptimeMonth": "90.72%",
+    "uptimeYear": "97.60%",
+    "time": 487,
+    "timeDay": 1393,
+    "timeWeek": 1183,
+    "timeMonth": 901,
+    "timeYear": 561,
     "dailyMinutesDown": {
       "2026-07-18": 92,
       "2026-07-19": 33,
@@ -940,7 +940,7 @@
       "2026-10-05": 328,
       "2026-10-07": 100,
       "2026-10-14": 282,
-      "2026-10-15": 273
+      "2026-10-15": 392
     }
   },
   {
@@ -1066,7 +1066,7 @@
     "timeDay": 484,
     "timeWeek": 383,
     "timeMonth": 616,
-    "timeYear": 606,
+    "timeYear": 607,
     "dailyMinutesDown": {
       "2025-11-18": 144,
       "2026-02-28": 33,
@@ -1109,7 +1109,7 @@
     "timeDay": 1729,
     "timeWeek": 1514,
     "timeMonth": 1553,
-    "timeYear": 1513,
+    "timeYear": 1514,
     "dailyMinutesDown": {
       "2025-11-23": 26
     }
@@ -1243,7 +1243,7 @@
     "timeDay": 4138,
     "timeWeek": 5230,
     "timeMonth": 6554,
-    "timeYear": 6948,
+    "timeYear": 6954,
     "dailyMinutesDown": {
       "2025-10-24": 13,
       "2025-12-04": 54,
@@ -1329,7 +1329,7 @@
     "timeDay": 606,
     "timeWeek": 425,
     "timeMonth": 413,
-    "timeYear": 522,
+    "timeYear": 523,
     "dailyMinutesDown": {
       "2025-10-20": 140,
       "2025-11-06": 68,
@@ -1378,18 +1378,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migraineagain.com.ico",
     "slug": "migraineagain-com",
     "status": "down",
-    "uptime": "77.34%",
+    "uptime": "77.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "26.77%",
+    "uptimeYear": "26.74%",
     "time": 208,
     "timeDay": 41,
     "timeWeek": 58,
     "timeMonth": 79,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2026-10-15": 1310,
+      "2026-10-15": 1432,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
@@ -1747,7 +1747,7 @@
     "timeDay": 508,
     "timeWeek": 406,
     "timeMonth": 433,
-    "timeYear": 443,
+    "timeYear": 444,
     "dailyMinutesDown": {
       "2026-08-03": 271,
       "2026-08-04": 185,
@@ -1828,7 +1828,7 @@
     "timeDay": 919,
     "timeWeek": 546,
     "timeMonth": 557,
-    "timeYear": 500,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2025-10-30": 39,
       "2026-01-30": 50,
@@ -1890,7 +1890,7 @@
     "timeDay": 752,
     "timeWeek": 915,
     "timeMonth": 1555,
-    "timeYear": 747,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2025-10-30": 38,
       "2026-01-30": 50,
@@ -1910,7 +1910,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mymigrainelife.net.ico",
     "slug": "mymigrainelife-net",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.62%",
@@ -2028,7 +2028,7 @@
     "timeDay": 446,
     "timeWeek": 493,
     "timeMonth": 548,
-    "timeYear": 909,
+    "timeYear": 908,
     "dailyMinutesDown": {
       "2026-07-25": 49,
       "2026-07-26": 152,
@@ -2092,16 +2092,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
     "status": "down",
-    "uptime": "98.24%",
+    "uptime": "98.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "45.24%",
-    "uptimeYear": "94.70%",
+    "uptimeMonth": "44.97%",
+    "uptimeYear": "94.68%",
     "time": 735,
     "timeDay": 213,
     "timeWeek": 242,
     "timeMonth": 2026,
-    "timeYear": 792,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2025-10-16": 87,
       "2025-10-18": 25,
@@ -2136,7 +2136,7 @@
       "2026-09-19": 376,
       "2026-09-20": 30,
       "2026-09-28": 424,
-      "2026-10-15": 1311,
+      "2026-10-15": 1432,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
       "2026-10-12": 1440,
