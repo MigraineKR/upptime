@@ -14,7 +14,7 @@
     "timeDay": 1473,
     "timeWeek": 1828,
     "timeMonth": 1798,
-    "timeYear": 3002,
+    "timeYear": 3003,
     "dailyMinutesDown": {
       "2026-03-18": 33,
       "2026-03-19": 76,
@@ -109,7 +109,7 @@
     "timeDay": 1497,
     "timeWeek": 1937,
     "timeMonth": 2079,
-    "timeYear": 2285,
+    "timeYear": 2286,
     "dailyMinutesDown": {}
   },
   {
@@ -129,7 +129,8 @@
     "timeMonth": 107,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2026-11-07": 1349,
+      "2026-11-08": 93,
+      "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
@@ -492,8 +493,7 @@
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
-      "2025-11-09": 1440,
-      "2025-11-08": 1440
+      "2025-11-09": 1440
     }
   },
   {
@@ -550,14 +550,14 @@
     "status": "up",
     "uptime": "95.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "86.31%",
     "time": 524,
     "timeDay": 191,
-    "timeWeek": 338,
+    "timeWeek": 307,
     "timeMonth": 423,
-    "timeYear": 503,
+    "timeYear": 504,
     "dailyMinutesDown": {
       "2025-11-18": 156,
       "2025-12-18": 195,
@@ -743,7 +743,7 @@
     "timeDay": 602,
     "timeWeek": 576,
     "timeMonth": 582,
-    "timeYear": 596,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2026-03-31": 71,
       "2026-04-02": 44
@@ -812,7 +812,7 @@
     "timeDay": 607,
     "timeWeek": 723,
     "timeMonth": 985,
-    "timeYear": 967,
+    "timeYear": 968,
     "dailyMinutesDown": {
       "2026-07-30": 156,
       "2026-08-02": 346,
@@ -887,7 +887,7 @@
     "timeDay": 584,
     "timeWeek": 685,
     "timeMonth": 889,
-    "timeYear": 588,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2026-07-26": 502,
       "2026-07-29": 195,
@@ -971,17 +971,17 @@
     "url": "https://headacheaustralia.org.au/",
     "icon": "https://icons.duckduckgo.com/ip3/headacheaustralia.org.au.ico",
     "slug": "headacheaustralia-org-au",
-    "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "98.69%",
-    "time": 1799,
-    "timeDay": 1502,
-    "timeWeek": 1814,
-    "timeMonth": 1681,
-    "timeYear": 1794,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "87.23%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.66%",
+    "time": 1798,
+    "timeDay": 1338,
+    "timeWeek": 1734,
+    "timeMonth": 1667,
+    "timeYear": 1793,
     "dailyMinutesDown": {
       "2026-02-18": 38,
       "2026-02-19": 134,
@@ -1052,7 +1052,8 @@
       "2026-10-17": 117,
       "2026-10-18": 158,
       "2026-10-24": 113,
-      "2026-11-07": 2
+      "2026-11-08": 92,
+      "2026-11-07": 92
     }
   },
   {
@@ -1070,7 +1071,7 @@
     "timeDay": 519,
     "timeWeek": 441,
     "timeMonth": 489,
-    "timeYear": 612,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2025-11-18": 144,
       "2026-02-28": 33,
@@ -1095,7 +1096,7 @@
     "timeDay": 1426,
     "timeWeek": 1457,
     "timeMonth": 1629,
-    "timeYear": 1607,
+    "timeYear": 1608,
     "dailyMinutesDown": {
       "2026-11-02": 1202,
       "2026-11-01": 852
@@ -1116,7 +1117,7 @@
     "timeDay": 1553,
     "timeWeek": 1496,
     "timeMonth": 1471,
-    "timeYear": 1512,
+    "timeYear": 1513,
     "dailyMinutesDown": {
       "2025-11-23": 26
     }
@@ -1182,7 +1183,7 @@
     "timeDay": 328,
     "timeWeek": 385,
     "timeMonth": 365,
-    "timeYear": 430,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2026-01-06": 50,
       "2026-08-18": 39
@@ -1203,7 +1204,7 @@
     "timeDay": 3006,
     "timeWeek": 2309,
     "timeMonth": 1875,
-    "timeYear": 1775,
+    "timeYear": 1774,
     "dailyMinutesDown": {
       "2026-08-11": 128,
       "2026-08-12": 282,
@@ -1250,7 +1251,7 @@
     "timeDay": 16412,
     "timeWeek": 6907,
     "timeMonth": 6183,
-    "timeYear": 6768,
+    "timeYear": 6780,
     "dailyMinutesDown": {
       "2025-12-04": 54,
       "2025-12-08": 18,
@@ -1335,7 +1336,7 @@
     "timeDay": 216,
     "timeWeek": 337,
     "timeMonth": 486,
-    "timeYear": 535,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2025-11-27": 25,
       "2025-12-07": 93,
@@ -1382,18 +1383,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migraineagain.com.ico",
     "slug": "migraineagain-com",
     "status": "down",
-    "uptime": "75.86%",
+    "uptime": "75.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.46%",
+    "uptimeYear": "20.42%",
     "time": 199,
     "timeDay": 28,
     "timeWeek": 55,
     "timeMonth": 91,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2026-11-07": 1350,
+      "2026-11-08": 94,
+      "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
@@ -1701,7 +1703,7 @@
     "timeDay": 430,
     "timeWeek": 349,
     "timeMonth": 1821,
-    "timeYear": 792,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2025-11-14": 30,
       "2025-12-11": 30,
@@ -1774,7 +1776,7 @@
     "timeDay": 573,
     "timeWeek": 475,
     "timeMonth": 411,
-    "timeYear": 445,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2026-08-03": 271,
       "2026-08-04": 185,
@@ -1916,7 +1918,7 @@
     "timeDay": 1239,
     "timeWeek": 660,
     "timeMonth": 538,
-    "timeYear": 750,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2026-01-30": 50,
       "2026-03-12": 29,
@@ -2022,7 +2024,7 @@
     "timeDay": 313,
     "timeWeek": 412,
     "timeMonth": 526,
-    "timeYear": 529,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2026-03-22": 22,
       "2026-05-13": 150,
@@ -2052,7 +2054,7 @@
     "timeDay": 348,
     "timeWeek": 494,
     "timeMonth": 545,
-    "timeYear": 899,
+    "timeYear": 900,
     "dailyMinutesDown": {
       "2026-07-26": 66,
       "2026-07-27": 99,
@@ -2117,16 +2119,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.patientadvocate.org.ico",
     "slug": "patientadvocate-org",
     "status": "down",
-    "uptime": "96.34%",
+    "uptime": "96.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.52%",
+    "uptimeYear": "88.49%",
     "time": 800,
     "timeDay": 255,
     "timeWeek": 245,
     "timeMonth": 209,
-    "timeYear": 870,
+    "timeYear": 871,
     "dailyMinutesDown": {
       "2025-12-21": 438,
       "2026-01-09": 23,
@@ -2146,7 +2148,8 @@
       "2026-09-19": 376,
       "2026-09-20": 30,
       "2026-09-28": 424,
-      "2026-11-07": 1351,
+      "2026-11-08": 95,
+      "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
